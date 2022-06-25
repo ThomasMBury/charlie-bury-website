@@ -1,5 +1,5 @@
 title = "Charlie Finch"
-baseURL = "www.charliefinch.net"
+baseURL = "https://charlie-finch-website.netlify.app/"
 languageCode = "en-uk"
 theme = ["ananke"]
 resourceDir = "themes/ananke/resources"
