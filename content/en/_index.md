@@ -6,5 +6,6 @@ description: "Script writer and filmmaker"
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/typewriter.jpg'
+
 ---
 Welcome to the website of Charlie Finch. Here you can find .... excerpts of scripts in the making, and past short films etc.

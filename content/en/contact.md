@@ -1,11 +1,12 @@
 ---
 title: Contact
-featured_image: ''
-omit_header_text: true
-description: We'd love to hear from you
+# featured_image: ''
+omit_header_text: false
+# description: We'd love to hear from you
 type: page
-menu: main
-
+menu:
+  main:
+    weight: 10
 ---
 
 
