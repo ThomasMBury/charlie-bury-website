@@ -2,7 +2,7 @@ title = "Charlie Finch"
 baseURL = "www.charliefinch.net"
 languageCode = "en-uk"
 theme = ["ananke"]
-resourceDir = "resources"
+resourceDir = "themes/resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
