@@ -1,8 +1,8 @@
 title = "Charlie Finch"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "www.charliefinch.net"
 languageCode = "en-uk"
 theme = ["ananke"]
-resourceDir = "../resources"
+resourceDir = "resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"

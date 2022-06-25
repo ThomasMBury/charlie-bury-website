@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/films/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/scripts/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/films/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/scripts/chapter-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/films/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/scripts/chapter-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/films/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/scripts/chapter-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/films/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/scripts/chapter-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/films/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/scripts/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/films/</loc>
+    <loc>www.charliefinch.net/films/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/scripts/</loc>
+    <loc>www.charliefinch.net/films/chapter-6/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/scripts/chapter-6/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/films/chapter-5/</loc>
+    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/scripts/chapter-5/</loc>
+    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/films/chapter-4/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/scripts/chapter-4/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/tags/scene/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/tags/</loc>
+    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/films/chapter-3/</loc>
+    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/scripts/chapter-3/</loc>
+    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/films/chapter-2/</loc>
+    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/scripts/chapter-2/</loc>
+    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/films/chapter-1/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/scripts/chapter-1/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>www.charliefinch.net/scripts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/about/</loc>
+    <loc>www.charliefinch.net/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/categories/</loc>
+    <loc>www.charliefinch.net/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/contact/</loc>
+    <loc>www.charliefinch.net/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
