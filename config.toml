@@ -1,4 +1,4 @@
-title = "Charlie Finch"
+title = "Charlie Bury"
 baseURL = "https://charlie-finch-website.netlify.app/"
 languageCode = "en-uk"
 theme = ["ananke"]
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Charlie Finch"
+    title = "Charlie Bury"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
@@ -35,8 +35,8 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/TheCharlieFinch"
+url = "https://twitter.com/BuryCharlie"
 
 [[params.ananke_socials]]
 name = "linkedin"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/charliebury/"
