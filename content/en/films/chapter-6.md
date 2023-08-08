@@ -10,11 +10,11 @@ disable_share: false
 
 _Testing italics_
 
-#HEADING ONE
+# HEADING ONE
 
-##HEADING TWO
+## HEADING TWO
 
-###HEADING THREE
+### HEADING THREE
 
 * bullet one
 * bullet two
