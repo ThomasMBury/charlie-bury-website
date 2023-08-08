@@ -11,4 +11,4 @@ menu:
 {{< figure src="/images/profile.jpg">}}
 
 
-Charlie Bury is a script writer located in York, United Kingdom. He publishes on Medium.
+Charlie Bury is a writ in York, United Kingdom. He publishes on Medium. He was born in Devon, England and graduated from Leeds University.  
