@@ -8,4 +8,4 @@ cascade:
   featured_image: '/images/typewriter.jpg'
 
 ---
-Welcome to the website of Charlie Finch. Here you can find .... excerpts of scripts in the making, and past short films etc.
+Welcome to the website of Charlie Finch. Here you can find .... excerpts of scripts in the making, and past short films etc. ok
