@@ -10,7 +10,7 @@ menu:
 ---
 
 
-For business enquiries and requests for full scripts, please get in touch with Charlie Finch at charlie[dot]finch[at]gmail.com.
+You can get in touch with me at burycharlie@gmail.com
 
 
 
