@@ -1,8 +1,8 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "Across the Aegean"
+description: "Flash fiction published in The Fidelio Portfolio"
 featured_image: "/images/Underwater-aegeansea.jpg"
-tags: ["story"]
+tags: ["flash fiction"]
 title: "Across the Aegean"
 ---
 
