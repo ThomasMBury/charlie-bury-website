@@ -14,4 +14,5 @@ You can read extracts of his work on the site (fiction / screenplays) or head ov
 
 He is not currently represented and is open to [enquiries](https://www.charliebury.com/contact). 
 
+
 {{< figure src="/images/profile.jpg">}}
