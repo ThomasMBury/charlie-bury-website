@@ -1,81 +1,79 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+description: "Across the Aegean"
+featured_image: "/images/Underwater-aegeansea.jpg"
+tags: ["story"]
+title: "Across the Aegean"
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+I was thirteen at the time. Mum was hesitant at first. “It’s all the way across the Aegean,” she said. 
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+“But you know Lorenzo’s family,” I said. 
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+“I know, you are safe with them; safer with them than anybody else, except for me.”
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+Traffic was terrible on the way to the airport, but neither of us were concerned. Not making it, I’d be spared the anxiety of the flight, and for mum it meant no more restless nights pondering the fate of her child as a cast away across the Aegean.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+I sat next to Lorenzo in the plane. He gripped the armrests, as if afraid we might all tumble out of the sky. 
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+“But you aren’t afraid of jumping off high rocks,” I said. 
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+“No, because water is a pleasure for me,” he said, “And I would rather live underground than above the clouds, wouldn’t you?”
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+I didn’t respond, as I was always happiest sprawled out in the gardens of Villa Borghese, rooted to the earth.   
+
+Mykonos was alive with tourists hustling for seafood on the pier and carrying armfuls of well-ripened fruits and vegetables back to their holiday homes. I lodged with Lorenzo’s family of aunts and uncles in a cubic house, walls of white and azure, nestled on a hill a five minute walk from the clear, lukewarm waters.
+   
+Lorenzo’s mum covered my back and arms in thick suncream, then reminded me to send my mother a message and tell her the island is majestic and that her son is protected from the hot sun as well as her own.
+
+I texted mum: It’s hotter than Rome, much hotter. But the sea is warm. Why don’t you come with us next time?
+
+A minute later, she responded: I don’t swim with Jellyfish! And no diving! Send me photos of the villa xx
+  
+I didn’t swim with any jellyfish. I snorkelled around the headland with Lorenzo, and his father picked us up in the neighbouring bay, impressed. “You did well to keep up with Lorenzo. He’s a good swimmer. ”
+
+I slept for twelve hours and woke up itching my shins. Bites. Lorenzo had already been running on the beach, and the car was packed for a trip across the island to the ‘jumping rocks’.
+
+“You can do it,” Lorenzo’s parents told me, as I peered over the sharpened edge to the cerulean depths thirty feet below. 
+
+I couldn’t do it. I swam in the shallow waters, balancing on the ripples of small waves, watching my friend screaming as he flew over the cliff-face multiple times and plunged to the seabed for five long seconds before ecstatically resurfacing and crying out with joy.
+
+We ate lunch. Potato chips, steak, salad, and a medley of crispy seafood, including octopus and jellyfish, all spindly like gothic church ornamentation.
+
+A friend of the family, Eleni, joined our table. She was Greek, and either a hundred or merely seventy; her light-hearted spirit coupled with a raspy voice and wrinkles deeper than the rockpools made it hard to tell. She whispered to me, “Tell me how you are, Luca? I know it can’t be easy.”
+
+It then occurred to me that Eleni was dad’s reclusive grandmother; the Greek line. I was too preoccupied with the strangeness of life away from mum to spare a thought for dad. 
+
+Eleni just kept on staring at me. And at last, I responded, “I’m okay. Wasn’t this dad’s favourite restaurant?”
+
+“He ate here every day. He brought your mum here, and he told her how much he loved her, at this table, watching the sunset. He loved it here. It was a place to feel alive.”
+
+Dad had mentioned Myokos to me only a few times. But mum didn’t travel, or she wouldn’t allow it. I don’t know why. And now she’d sent me in her place. 
+
+Lorenzo’s mum asked me if I’d like another orangeade before we head back to the beach for more fun. I smiled, which was always enough.    
+
+Eleni held my wrist and spoke ‘softly’, “Take the leap,” she said, and looked over to where the precipice glistened like a giant. “It takes a big leap to discover your soul.” 
+
+I watched her as she ambled back to her table and her guitar. She rested the instrument in her arms and plucked a lullaby with fingers nimble as a child’s.
+
+It was my turn. There was no turning back. 
+
+“Hold your nose!” Lorenzo shouted. 
+
+But as I plummeted downwards my arms shot uncontrollably outwards, and on impact the water crucifying lashed my hands and feet. I came up and gasped at the air not for joy but horror, as the saltwater clogged my nose and throat and pricked at my eyes like onions.
+
+Lorenzo’s family cheered me. “Again!” they cried. “Isn’t it amazing?” 
+
+One more leap, and that was final.            
+
+We drove back across the rocky hills, the sun set red like ripe sliced tomatoes over the horizon. Lorenzo displayed his tanned torso out of the car window, refreshing himself off in the breeze. We played backgammon that evening until the orange juice carton was empty and our minds no longer recalled what to do but drift into a slumber. The mosquito net in the bedroom reminded me of a cradle, and I almost felt comforted, as when mum had laid me down in the cot.   
+
+“Did you enjoy today, Luca?” Lorenzo’s mum had asked me as I put the plates away. 
+
+“Yes,” I smiled.
+
+“Well done,” she said. “You can tell your mum how brave you are. And reassure her that I’ll return you without a single burn.”
+
+I imagined my parents sharing a glass of wine on the kitchen counter where she stood, and that night I dreamed of dad’s funeral, and recalled mum uttering afterwards as if to thin strands of melancholic air: “She didn’t come.” 
+
+I wondered if mum would come to Greece next year? 
