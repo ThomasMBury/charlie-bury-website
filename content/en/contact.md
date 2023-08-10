@@ -11,7 +11,7 @@ menu:
 
 I am always open to dialogue.
 
-You can get in touch with me - burycharlie@gmail.com
+You can get in touch with me directly - burycharlie@gmail.com
 
 
 
