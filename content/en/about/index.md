@@ -8,7 +8,10 @@ menu:
     weight: 1
 ---
 
+Charlie Bury is a writer based in the historical city of York, United Kingdom. He was born in Devon and graduated from Leeds University with a BA in cinema. 
+
+You can read extracts of his work on the site (fiction / screenplays) or head over to his [Medium blog](https://medium.com/@CharlieBury) for articles on the craft of screenwriting and life on the autism spectrum. 
+
+He is not currently represented and is open to [enquiries](https://www.charliebury.com/contact). 
+
 {{< figure src="/images/profile.jpg">}}
-
-
-Charlie Bury is a writ in York, United Kingdom. He publishes on Medium. He was born in Devon, England and graduated from Leeds University.  
