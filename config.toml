@@ -23,7 +23,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  text_color = ""
+  text_color = "dary-gray"
   author = ""
   favicon = ""
   site_logo = ""
