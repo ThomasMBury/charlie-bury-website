@@ -1,16 +1,17 @@
 ---
-title: Contact
+title:
 # featured_image: ''
 omit_header_text: false
-# description: We'd love to hear from you
+# description:
 type: page
 menu:
   main:
     weight: 10
 ---
 
+I am always open to dialogue.
 
-You can get in touch with me at burycharlie@gmail.com
+You can get in touch with me - burycharlie@gmail.com
 
 
 
