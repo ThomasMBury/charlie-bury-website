@@ -1,90 +1,138 @@
 ---
-date: 2017-04-10T11:00:59-04:00
-description: "Pierre Gringoire"
-featured_image: ""
-tags: []
-title: "Chapter II: Pierre Gringoire"
+date: 2023-05-10T11:00:59-04:00
+description: "Flash fiction published in The Fidelio Portfolio"
+featured_image: "/images/Italian-coffee.jpg"
+tags: [flash fiction] [London]
+title: "Coffee Before Bed"
 ---
 
-Nevertheless, as be harangued them, the satisfaction and admiration
-unanimously excited by his costume were dissipated by his words; and when
-he reached that untoward conclusion: “As soon as his illustrious eminence,
-the cardinal, arrives, we will begin,” his voice was drowned in a thunder
-of hooting.
+Harry Oxford had just arrived home. He was lodging in the flat of a 34 year-old man named Gia on Devonshire Street in Marylebone, London. 
 
-“Begin instantly! The mystery! the mystery immediately!” shrieked the
-people. And above all the voices, that of Johannes de Molendino was
-audible, piercing the uproar like the fife’s derisive serenade: “Commence
-instantly!” yelped the scholar.
+Gia was hunched at the kitchen table, sipping an espresso. Harry sat down next to him with a cold glass of orange juice. 
 
-“Down with Jupiter and the Cardinal de Bourbon!” vociferated Robin
-Poussepain and the other clerks perched in the window.
+"It's a tradition for me, coffee before bed," Gia said. "It's the closest I feel to being home in Sicily."
 
-“The morality this very instant!” repeated the crowd; “this very instant!
-the sack and the rope for the comedians, and the cardinal!”
+He stroked the cup that held his coffee, like a priest the cloth that shields their altar.  
 
-Poor Jupiter, haggard, frightened, pale beneath his rouge, dropped his
-thunderbolt, took his cap in his hand; then he bowed and trembled and
-stammered: “His eminence—the ambassadors—Madame Marguerite of
-Flanders—.” He did not know what to say. In truth, he was afraid of
-being hung.
+"Harry, you need to get one.”
 
-Hung by the populace for waiting, hung by the cardinal for not having
-waited, he saw between the two dilemmas only an abyss; that is to say, a
-gallows.
+“What?”
 
-Luckily, some one came to rescue him from his embarrassment, and assume
-the responsibility.
+“A Moka. I’ve never seen you use one. Have you, never?" 
 
-An individual who was standing beyond the railing, in the free space
-around the marble table, and whom no one had yet caught sight of, since
-his long, thin body was completely sheltered from every visual ray by the
-diameter of the pillar against which he was leaning; this individual, we
-say, tall, gaunt, pallid, blond, still young, although already wrinkled
-about the brow and cheeks, with brilliant eyes and a smiling mouth, clad
-in garments of black serge, worn and shining with age, approached the
-marble table, and made a sign to the poor sufferer. But the other was so
-confused that he did not see him. The new comer advanced another step.
+"Never," Harry admitted.
 
-“Jupiter,” said he, “my dear Jupiter!”
+“Then you’ve never lived!”
 
-The other did not hear.
+“Cliché,” Harry said. 
 
-At last, the tall blond, driven out of patience, shrieked almost in his
-face,—
+“I've seen the instant coffee in your cupboard, it’s full of chemicals.”
 
-“Michel Giborne!”
+"Chemicals are everywhere.” 
 
-“Who calls me?” said Jupiter, as though awakened with a start.
+"Just try a sip of my espresso,” Gia offered. 
 
-“I,” replied the person clad in black.
+“No, thank you,” Harry said. 
 
-“Ah!” said Jupiter.
+“Can I make you one?" 
 
-“Begin at once,” went on the other. “Satisfy the populace; I undertake to
-appease the bailiff, who will appease monsieur the cardinal.”
+“No, thank you. I'll be up all night.”
 
-Jupiter breathed once more.
+"You and your english ways," Gia chuckled. “Weak tolerance for caffeine, and other things. Very weak.”
 
-“Messeigneurs the bourgeois,” he cried, at the top of his lungs to the
-crowd, which continued to hoot him, “we are going to begin at once.”
+“Other things, like what?” 
 
-“_Evoe Jupiter! Plaudite cives_! All hail, Jupiter! Applaud,
-citizens!” shouted the scholars.
+Gia placed his coffee gently on the table and smiled.
 
-“Noel! Noel! good, good,” shouted the people.
+"Take a small sip, Harry. Go on. I know it's bad because we both have to wake up in seven hours, but just try it.”
 
-The hand clapping was deafening, and Jupiter had already withdrawn under
-his tapestry, while the hall still trembled with acclamations.
+Harry could not distinguish a difference of flavours, only a thick bitter taste. It made him want to gag, but he daren’t displease Gia’s pride. 
 
-In the meanwhile, the personage who had so magically turned the tempest
-into dead calm, as our old and dear Corneille puts it, had modestly
-retreated to the half-shadow of his pillar, and would, no doubt, have
-remained invisible there, motionless, and mute as before, had he not been
-plucked by the sleeve by two young women, who, standing in the front row
-of the spectators, had noticed his colloquy with Michel Giborne-Jupiter.
+“If your coffee were a fruit,” Harry chimed. “It would taste like a ripened nectarine."
 
-“Master,” said one of them, making him a sign to approach. “Hold your
-tongue, my dear Liénarde,” said her neighbor, pretty, fresh, and very
-brave, in consequence of being dressed up in her best attire. “He is not a
-clerk, he is a layman; you must not say master to him, but messire.”
+Gia laughed. "Yes, of course. Coffee is a dessert that lingers on the tongue, like forbidden fruit."
+
+Harry kept his paradoxical thoughts beneath tongue: as to some, sweet is sour, and sour is sweet; heaven a hell, and hell a heaven. 
+
+"I’ve been in London for two years and I’ve only been to see the Leonardo here once, at the National Gallery,” Gia said, with an air of regret.  
+
+“Virgin on the Rocks. Sublime,” Harry said.
+
+“But then I came to London for the freedom, not the art.”
+
+“Two sides of the same coin.”
+
+“Art and freedom? True, you could write a book on the subject. To go with all your other books.” 
+
+“That’s a subject for you.”
+
+“No,” Gia said. “I wanted to be an academic once, but the time has passed. I’m old now.”
+
+“Not that old. Who was that boy you had in your room the other night?”
+
+Gia smirked. “Timothy. A very handsome sixteen year-old. I took him to the National Gallery. He was so bored he kept tugging at my trousers. Didn’t I tell you about him?”
+
+“I think you’ve already told me too much.”
+
+“Prude. The english are prudes.”
+
+“But not Timothy, apparently.”
+
+“He was a little, but we still had fun. In Italian, _prudere_ means to have an itch. It’s often used figuratively, like he was _itching_ to get into bed with me.
+
+Gia suppressed a giggle, a peculiar sight in contrast with his black beard and hairy chest sprouting out from under his night-shirt.
+
+"You aren’t used to talking about the beauty of boys, are you? I’m sorry, Harry."
+
+Harry topped up his glass of refreshment. He was itching to get into his own bed, but remained conversational, prizing his politeness. 
+
+"No, don’t be sorry, Gia. We could talk about the beauty of Michelangelo’s _Davide_.”
+
+“Oh! It’s the most beautiful object in the world! I first saw it when I was nine and from then on I knew forever that I wanted to be seduced by a figure like that, or to seduce one myself, or to be in possession of something that beautiful. Imagine what it would feel like to be loved by something so beautiful, or caressed?"
+
+“I admit the thought had never occurred to me, but it must indeed be a wonderful feeling.”
+
+"_Davide_ reaches out and touches your heart. He blows you a kiss and it sends shivers all over."
+
+"Art is love,” Harry shrugged. 
+
+"Art is love,” Gia agreed. 
+
+“And love is an art. And love _is_ art,” Harry said. 
+
+“Harry, you have a great mind. Art cannot exist without love. I love it. It must be true. I wish I was a writer.”
+
+“But an artist has more freedom, and more passion to love than any writer could ever hope to have. A writer is buried by language, suffocated by it, and, only occasionally, set free by it. And indeed, when set free, a word well placed can transcend human knowledge and rationale.”  
+
+"I know what you mean. Poetry is like that for me. I wish we had time to write a book together, it would be called: art and love in London. We can comment on every painting that transcends human knowledge.”
+
+“Good idea.”
+
+“But my life is too busy selling underwear on Oxford Street and finding new dates."
+
+“Alas. And I have to be at the agency tomorrow morning for an eight AM meeting.”   
+
+Gia suckled on the last drop of his stocky espresso. 
+
+"Are you sure you don't want a coffee before bed?" he asked. 
+
+"I bet you say that to all the boys,” Harry replied. 
+
+“That’s a cliché,” he said.  
+
+“Is it? Coffee before bed? I think it’s quite unique.”
+
+“Not in Italy.”
+
+“Well, thank you for the sip,” Harry said. “I do feel I might go to bed and conquer Tolstoy now.”
+
+“Have you read Calvino?”
+
+“No.”
+
+“Calvino is the best for late nights. So imaginative, a genius. So I can’t tempt you to share one last sip with me of pure Sicilian coffee?”
+
+“I’m afraid not, Gia.”
+
+"Okay, handsome. _Buona notte_.”
+
