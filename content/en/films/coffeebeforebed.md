@@ -2,7 +2,7 @@
 date: 2023-05-09T10:58:08-04:00
 description: "Flash fiction published in The Fidelio Portfolio"
 featured_image: "/images/Italian-coffee.jpg"
-tags: [flash fiction] [London]
+tags: [flash fiction]
 title: "Coffee Before Bed"
 ---
 
