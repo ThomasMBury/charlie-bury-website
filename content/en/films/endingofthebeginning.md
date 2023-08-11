@@ -12,7 +12,7 @@ I woke up with a headache. Nothing abnormal; the doctor’s been hearing my comp
 
 That day, the text was something quite different:   
 
-Grandad went into hospital yesterday afternoon with a weak heart. He sadly is not going to live on more than a couple of days. 
+_Grandad went into hospital yesterday afternoon with a weak heart. He sadly is not going to live on more than a couple of days._ 
 
 Mum is not one for dramatics. She plays down the horrors of life. She casts an optimistic shadow over gloom. 
 
@@ -62,7 +62,7 @@ I never met Charlotte. But I know that she meant to Grandad more than what words
 
 Grandad squirmed in pain, it lasted a few seconds. Beep-beep-beep. Was this it? Heart rate dropping? Mum arriving to a dead father with her son shrinking in the corridor? 
 
-No, he reached out again, pushing aside the wires. He wheezed: Charlotte. Then he sat up and fixated on his breathing, before collapsing back onto his left-hand side. 
+No, he reached out again, pushing aside the wires. He wheezed: _Charlotte_. Then he sat up and fixated on his breathing, before collapsing back onto his left-hand side. 
 
 The doctor entered the bay. He checked the vitals. He left. 
 
@@ -86,8 +86,8 @@ St. Paul, or one of the Apostles, promised freedom from fear, and therefore deat
   
 And in spite of Grandad’s decaying, suffering exterior, there was a faith at work, in his calm composure a subtle knowledge of his passing on to something else; indeed, a beginning. 
 
-When I was just a boy, Grandad had uttered: When there is an ending, there is also a new beginning. 
+When I was just a boy, Grandad had uttered: _When there is an ending, there is also a new beginning. _
 
-Skittles had struggled to breathe and the vet put her down. I was five years old. But the two kittens she bore grew into healthy cats, and one of them lived out a record twenty two years. 
+_Skittles_ had struggled to breathe and the vet put her down. I was five years old. But the two kittens she bore grew into healthy cats, and one of them lived out a record twenty two years. 
 
 In memory, a good life is not forgotten.
