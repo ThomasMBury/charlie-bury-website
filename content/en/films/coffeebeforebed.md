@@ -1,5 +1,5 @@
 ---
-date: 2023-05-10T11:00:59-04:00
+date: 2023-05-09T10:58:08-04:00
 description: "Flash fiction published in The Fidelio Portfolio"
 featured_image: "/images/Italian-coffee.jpg"
 tags: [flash fiction] [London]
@@ -135,4 +135,3 @@ Gia suckled on the last drop of his stocky espresso.
 “I’m afraid not, Gia.”
 
 "Okay, handsome. _Buona notte_.”
-
