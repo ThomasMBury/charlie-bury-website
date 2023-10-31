@@ -6,7 +6,7 @@ tags: ["sceenplays"]
 title: "Monica Bradley"
 ---
 
-![Monica-Ana-illustration-poster.png](static/images/Monica-Ana-illustration-poster.png)
+!(static/images/Monica-Ana-illustration-poster.png)
 
 From London to Plymvale, rural Devon, ANA (16) expects a dreary life following her mother's dream of becoming a landscape painter. But all that changes when she meets MONICA, openly gay and confident. Chasing her desires, Ana is led down a reckless path and falls deeply for Monica, not yet realising the price of first love. 
 
