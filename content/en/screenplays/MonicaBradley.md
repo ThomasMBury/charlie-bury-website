@@ -3,7 +3,7 @@ date: 2022-04-09T10:58:08-04:00
 description: "A tale of love and betrayal in a rural town."
 featured_image: "/images/Ana-poster-sketch.png"
 tags: ["screenplays"]
-title: "Monica Bradley"
+title: "Monica Bradley - a feature film"
 ---
 
 ![Ana-Monica-poster-illustration](https://github.com/ThomasMBury/charlie-bury-website/assets/139169787/75abdf2a-353d-4197-a24d-68bb22235c36)
