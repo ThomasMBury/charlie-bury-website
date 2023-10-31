@@ -8,3 +8,5 @@ Writer's website for Charlie Bury
 - remove fiction tab (done)
 - homepage : News (done)
 - screenplay page - ai gen image, link to sample on Google Drive
+
+- THANK YOU!
