@@ -1,6 +1,6 @@
 ---
 date: 2023-10-30T10:58:08-04:00
-description: "4 Positive Ways I Handle Rejection"
+description: "Every No Brings You Closer To A YES"
 featured_image: "/images/sketch-of-mural-with-the-buddhist-theme-for-nicholas-roerich-museum-in-new-york-1927.jpg"
 tags: [writing advice]
 title: "4 Positive Ways I Handle Rejection"
