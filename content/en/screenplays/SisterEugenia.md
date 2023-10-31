@@ -3,7 +3,7 @@ date: 2020-05-13T11:00:59-04:00
 description: "A medieval drama adapted from Shakespeare's Hamlet."
 featured_image: "SisterEugenia-face-poster.png"
 tags: [screenplays]
-title: "Sister Eugenia"
+title: "Sister Eugenia - a feature film"
 ---
 
 ![SisterEugenia-poster-landscape](https://github.com/ThomasMBury/charlie-bury-website/assets/139169787/7c2fb6a5-fe82-4a39-bd2f-dc7dd75c177e)
@@ -14,4 +14,4 @@ The setting is Hexham Convent in 14th century Northumberland. A time period rich
 
 The vision for the film is a story of redemption showcasing a brooding medieval landscape and the supernatural as _real_, thus being true to the period. Immaculate historical details paired with these larger-than-life characters promises to engage the audience in a powerful emotional, cinematic experience. 
 
-Read the screenplay [here.]()
+Read the screenplay [here.](https://drive.google.com/file/d/1REn8Kx9Ri0SKCGmwl9HllSONbJu4KuOa/view?usp=sharing)
