@@ -1,12 +1,12 @@
 ---
-date: 2017-04-09T10:58:08-04:00
+date: 2022-04-09T10:58:08-04:00
 description: "A tale of love and betrayal in a rural town."
 featured_image: "/images/Ana-poster-sketch.png"
 tags: ["screenplays"]
 title: "Monica Bradley"
 ---
 
-![Monica-Ana-illustration-poster](static/images/Monica-Ana-illustration-poster.png)
+![Monica-Ana-illustration-poster](/images/Monica-Ana-illustration-poster.png)
 
 From London to Plymvale, rural Devon, ANA (16) expects a dreary life following her mother's dream of becoming a landscape painter. But all that changes when she meets MONICA, openly gay and confident. Chasing her desires, Ana is led down a reckless path and falls deeply for Monica, not yet realising the price of first love. 
 
