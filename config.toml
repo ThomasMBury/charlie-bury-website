@@ -43,5 +43,9 @@ name = "twitter"
 url = "https://twitter.com/BuryCharlie"
 
 [[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/charlieburywriter"
+
+[[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/charliebury"
