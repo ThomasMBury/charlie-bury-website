@@ -1,81 +1,26 @@
 ---
 date: 2023-10-30T10:58:08-04:00
-description: "First blog post"
+description: "4 Positive Ways I Handle Rejection"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: []
 title: "title"
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+![graphic of a thumb-down meaning rejection](https://github.com/ThomasMBury/charlie-bury-website/assets/139169787/832d7e5a-6ec9-4fff-bcc1-f57e86ce673b)
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+I face rejection a lot — hell, I’m an _aspiring_ writer. Rejections by agents, producers, publishers, anybody who claims not to have time to read your work, and so on. If we are scared of rejection, we can never be successful. So I took some time recently to think about how I’m handling rejection, rather than burying my head in repeated sorrows.
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+**1) Every ‘No’ Brings You Closer to a ‘Yes’**
+Logically, this might be true, if you believe you will eventually reach a Yes. But more to the point, every No fuels your resilience. Every rejection is motivation to fight back and pursue your dream. It is also a chance to reassess, to strategise, to plan — get creative and try new ways of breaking in and pursuing your vision.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+**2) The Criticism Is Not Personal**
+We can’t control how others will perceive our work, but even if they do perceive it as rubbish, that’s their review not ours. And at any rate, this is not a reflection of your self-worth, which I hope is greater than being a writer or an artist and more like being a humble and decent human being. I realise that many of us have a hard time separating work from our identity, especially when we have poured months and years of our own emotions and experiences into the material. This carries us onto my next point —
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+**3) The Buddhist Approach**
+Glorious non-attachment. Liberate your emotions from your work. Of course still be passionate about your work, because you are serving an important cause, but remember that the cause is bigger than you and your enthusiasm. Your story might be received by millions of people, or billions, so how is that a reflection of your own ego — why become attached to the work? Let your audience make the attachments and buy more tickets or book copies. And if you never reach an audience because you are never published, then even better, you are free to go and live on a mountaintop instead.
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+**4) Feedback**
+Rejection is also an opportunity to continuously improve your craft, enhance your skills. Even if you disagree with the notes or the radio silence, you can reevaluate your approach, change tactics, alter the pitch to whatever new inspiration you muster. Or just analyse your work in more depth, find new ways to tweak it into something undeniably good. Hone your writer’s voice, which is inseparable from craft.
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+Try integrating these four approaches next time you get stung and let me know how it goes.
