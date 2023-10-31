@@ -12,7 +12,7 @@ Charlie Bury is a screenwriter based in the historical city of York, United King
 
 You can download samples of his work on the site. He is not represented and open to [enquiries](https://www.charliebury.com/contact). 
 
-He also blogs frequently over at [Medium blog](https://medium.com/@CharlieBury) about the craft of screenwriting and life on the autism spectrum. 
+He also blogs frequently over at [Medium](https://medium.com/@CharlieBury) about the craft of screenwriting and life on the autism spectrum. 
 
 
 {{< figure src="/images/profile.jpg">}}
