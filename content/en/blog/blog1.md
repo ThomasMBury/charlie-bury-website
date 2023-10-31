@@ -2,7 +2,7 @@
 date: 2023-10-30T10:58:08-04:00
 description: "4 Positive Ways I Handle Rejection"
 featured_image: "/images/sketch-of-mural-with-the-buddhist-theme-for-nicholas-roerich-museum-in-new-york-1927.jpg"
-tags: [writing advice] [screenwriting]
+tags: [writing advice]
 title: "4 Positive Ways I Handle Rejection"
 ---
 
