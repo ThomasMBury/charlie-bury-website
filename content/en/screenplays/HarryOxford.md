@@ -1,4 +1,4 @@
-![image](https://github.com/ThomasMBury/charlie-bury-website/assets/139169787/09bb4816-76ce-494e-8664-eede4a1005fc)---
+---
 date: 2023-04-10T10:58:08-04:00
 description: "A tale of awakening in the heart of London."
 featured_image: "/images/Bloomsbury-crescent-winter.jpg"
