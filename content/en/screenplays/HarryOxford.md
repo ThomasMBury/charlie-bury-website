@@ -6,7 +6,7 @@ tags: ["screenplays"]
 title: "Harry Oxford - a comedy-drama series"
 ---
 
-![HarryOxford-cafe-illustration](static/images/HarryOxford-cafe-illustration.png)
+![HarryOxford-cafe-illustration](https://github.com/ThomasMBury/charlie-bury-website/blob/main/static/images/HarryOxford-cafe-illustration.png)
 
 
 Harry Oxford, an autistic man in his early 30s, navigates the pitfalls of modern dating vs. familiar expectations, discovering his true self in the process.  
