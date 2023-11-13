@@ -18,4 +18,3 @@ Harry is matched with Hattie Thoroughgood for a highbrow opera night, but it's d
 A clash of old-world ideals with contemporary romance. A journey of personal awakening. Harry Oxford slowly begins to discover himself, contemplating the true meaning of love and partnership. The series brims with wit, irony, and heartfelt moments.
 
 Read the screenplay [here.](https://drive.google.com/file/d/1yM_1UWuPc__yT8hJDSaJuKUSvX4JDTJR/view?usp=drive_link)
-
