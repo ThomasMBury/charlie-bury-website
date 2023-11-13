@@ -1,4 +1,4 @@
----
+![image](https://github.com/ThomasMBury/charlie-bury-website/assets/139169787/09bb4816-76ce-494e-8664-eede4a1005fc)---
 date: 2023-04-10T10:58:08-04:00
 description: "A tale of awakening in the heart of London."
 featured_image: "/images/Bloomsbury-crescent-winter.jpg"
@@ -6,7 +6,7 @@ tags: ["screenplays"]
 title: "Harry Oxford - a comedy/drama series"
 ---
 
-![HarryOxford-cafe-illustration.png](https://github.com/ThomasMBury/charlie-bury-website/blob/main/static/images/HarryOxford-cafe-illustration.png)
+![HarryOxford-cafe-illustration.png](https://github.com/ThomasMBury/charlie-bury-website/assets/139169787/a059a52c-01db-406b-9805-bed24d9045ad)
 
 
 Harry Oxford, an autistic man in his early 30s, navigates the pitfalls of modern dating vs. familiar expectations, discovering his true self in the process.  
