@@ -1,30 +1,35 @@
 ---
 date: 2023-10-30T10:58:08-04:00
-description: "Every NO Brings You Closer to a YES"
-featured_image: "/images/sketch-of-mural-with-the-buddhist-theme-nicholas-roerich.jpg"
+description: "Thinking positively about rejection"
+featured_image: 
 tags: [writing advice]
-title: "4 Positive Ways I Handle Rejection"
+title: "Every NO Brings You Closer to a YES?"
 ---
 
-![graphic of a thumb-down meaning rejection](https://github.com/ThomasMBury/charlie-bury-website/assets/139169787/832d7e5a-6ec9-4fff-bcc1-f57e86ce673b)
+I recently thought about how I’m handling rejection, aside from sorrows.
 
+**1) Every NO Technically does Bring You Closer to a YES (if you don't stop at no...)**
 
-I face rejection a lot — hell, I’m an _aspiring_ writer. Rejections by agents, producers, publishers, anybody who claims not to have time to read your work, and so on. If we are scared of rejection, we can never be successful. So I took some time recently to think about how I’m handling rejection, rather than burying my head in repeated sorrows.
+By logic, keep on applying and eventually you will get somewhere, a bit closer to a yes, or a thump on the nose... 
 
-**1) Every ‘No’ Brings You Closer to a ‘Yes’**
+But let's forget about speculation. As every no CAN fuel your resilience. It is motivation to do better. It is a chance to reassess your plan of action, to try a new way of breaking in - all with a self-pat on the shoulder for not giving up on your vision.
 
-Logically, this might be true, if you believe you will eventually reach a Yes. But more to the point, every No fuels your resilience. Every rejection is motivation to fight back and pursue your dream. It is also a chance to reassess, to strategise, to plan — get creative and try new ways of breaking in and pursuing your vision.
+**2) The Criticism is NOT Personal**
 
-**2) The Criticism Is Not Personal**
+We can’t control how others will perceive our work. And if they think it's a turd, that’s their view. If you also think it's a turd, then don't let that be a reflection of your self-worth. As you are not merely a writer, or an artist, but a humble and decent human being. 
 
-We can’t control how others will perceive our work, but even if they do perceive it as rubbish, that’s their review not ours. And at any rate, this is not a reflection of your self-worth, which I hope is greater than being a writer or an artist and more like being a humble and decent human being. I realise that many of us have a hard time separating work from our identity, especially when we have poured months and years of our own emotions and experiences into the material. This carries us onto my next point —
+This is called separating work from our identity. But it never has been easy. Virginia, Sylvia, Edgar, Ernest? Just be grateful you aren't a prose specialist...
 
 **3) The Buddhist Approach**
 
-Glorious non-attachment. Liberate your emotions from your work. Of course still be passionate about your work, because you are serving an important cause, but remember that the cause is bigger than you and your enthusiasm. Your story might be received by millions of people, or billions, so how is that a reflection of your own ego — why become attached to the work? Let your audience make the attachments and buy more tickets or book copies. And if you never reach an audience because you are never published, then even better, you are free to go and live on a mountaintop instead.
+Non-attachment. Liberate your emotions from your work. Be passionate about it, but remember the ultimate cause, the purpose of creating something, is much greater than yourself. 
+
+Striking gold, your story might be perceived by billions of people, in the darkness, so how great is that? Where is the attachment in that? Let your audience do the hard work.
 
 **4) Feedback**
 
-Rejection is also an opportunity to continuously improve your craft, enhance your skills. Even if you disagree with the notes or the radio silence, you can reevaluate your approach, change tactics, alter the pitch to whatever new inspiration you muster. Or just analyse your work in more depth, find new ways to tweak it into something undeniably good. Hone your writer’s voice, which is inseparable from craft.
+Rejection is a chance to improve CRAFT. Enhance skills. Even if you vehemently disagree with the notes, you can find new inspiration in the absurdity of them, or just maybe, a true reflection, that perhaps emerges after a wild night of subconscious dreams.
 
-Try integrating these four approaches next time you get stung and let me know how it goes.
+Don't ever tire of looking for new ways to tweak your writing beyond expectations. Keep honing your unique voice, which is inseparable from good craft. 
+
+So next time you get stung, refer back to these four fail-safes. 
