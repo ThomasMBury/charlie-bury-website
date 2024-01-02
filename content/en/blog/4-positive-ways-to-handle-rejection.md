@@ -22,13 +22,13 @@ This is called separating work from our identity. But it never has been easy. Vi
 
 **3) The Buddhist Approach**
 
-Non-attachment. Liberate your emotions from your work. Be passionate about it, but remember the ultimate cause, the purpose of creating something, is much greater than yourself. 
+Non-attachment. Liberate your emotions from your work. Be passionate about it, but remember the ultimate cause, that the purpose of creating something is much greater than yourself. 
 
-Striking gold, your story might be perceived by billions of people, in the darkness, so how great is that? Where is the attachment in that? Let your audience do the hard work.
+Striking gold, your story might be perceived by billions of people, and in the darkness, so how great is that? Where is the attachment in that? Let your audience do the hard work.
 
 **4) Feedback**
 
-Rejection is a chance to improve CRAFT. Enhance skills. Even if you vehemently disagree with the notes, you can find new inspiration in the absurdity of them, or just maybe, a true reflection, that perhaps emerges after a wild night of subconscious dreams.
+Rejection is a chance to improve CRAFT. Enhance skills. Even if you vehemently disagree with the notes, you can find new inspiration in the absurdity of them, or just maybe, a true reflection, that perhaps emerges after a night fuelled by subconscious dreams...
 
 Don't ever tire of looking for new ways to tweak your writing beyond expectations. Keep honing your unique voice, which is inseparable from good craft. 
 
