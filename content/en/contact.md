@@ -9,9 +9,7 @@ menu:
     weight: 10
 ---
 
-I am always open to dialogue.
-
-You can get in touch with me directly - burycharlie@gmail.com
+burycharlie@gmail.com
 
 
 
