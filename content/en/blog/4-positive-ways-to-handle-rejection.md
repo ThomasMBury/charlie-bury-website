@@ -8,11 +8,11 @@ title: "Every NO Brings You Closer to a YES?"
 
 I recently thought about how I’m handling rejection, aside from sorrows.
 
-**1) Every NO Technically does Bring You Closer to a YES (if you don't stop at no...)**
+**1) Every NO Technically DOES Bring You Closer to a YES (if you don't stop at no...)**
 
 By logic, keep on applying and eventually you will get somewhere, a bit closer to a yes, or a thump on the nose... 
 
-But let's forget about speculation. As every no CAN fuel your resilience. It is motivation to do better. It is a chance to reassess your plan of action, to try a new way of breaking in - all with a self-pat on the shoulder for not giving up on your vision.
+But forget about speculation. As every no CAN fuel your resilience. It is motivation to do better. It is a chance to reassess your plan of action, to try a new way of breaking in - all with a self-pat on the shoulder for not giving up on your vision.
 
 **2) The Criticism is NOT Personal**
 
