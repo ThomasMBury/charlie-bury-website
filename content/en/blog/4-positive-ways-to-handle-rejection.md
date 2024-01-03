@@ -2,7 +2,7 @@
 date: 2023-10-30T10:58:08-04:00
 description: "Thinking positively about rejection"
 featured_image: 
-tags: [writing advice]
+tags: [personal development]
 title: "Every NO Brings You Closer to a YES?"
 ---
 
