@@ -7,4 +7,6 @@ title: "Bunking"
 ---
 *A teenager's escape from assault takes a harrowing turn when she seeks refuge bunking in a farmhouse.*  
 
-Read the Screenplay for 'Bunking'.
+Read the Screenplay for ['Bunking']().
+
+Or find out about [my screenwriting process](https://www.charliebury.com/screenwriting-process-bunking). 
