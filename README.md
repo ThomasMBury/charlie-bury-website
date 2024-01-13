@@ -13,4 +13,6 @@ Writer's website for Charlie Bury
 - how to show less body text in the thumbnail for screenplays and blog posts (*this would be good, as the thumbnails could be shorter and more to the point*)
 - when one clicks on a keyword, it comes up with a strange subheading about taxonomy of the term - *can we edit this or just delete it?*
 
+- BLOG PAGE not appearing - is this a bug? 
+
 - THANK YOU!
