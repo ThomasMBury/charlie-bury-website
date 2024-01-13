@@ -10,7 +10,7 @@ menu:
 
 Hello. Welcome to my site. Writing and film were early passions in my life, so I combined them and have been delighted ever since. 
 
-You can [read my screenplays](https://www.charliebury.com/screenplays/) on the site. I am open to educational and business-related enquiries. [Get in touch](https://www.charliebury.com/contact). 
+You can [Read my Screenplays](https://www.charliebury.com/screenplays/) on the site. I am open to educational and business-related enquiries. [Get in Touch](https://www.charliebury.com/contact). 
 
 
 {{< figure src="/images/profile.jpg">}}
