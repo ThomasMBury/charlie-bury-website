@@ -15,4 +15,4 @@ Writer's website for Charlie Bury
 
 - BLOG PAGE not appearing - is this a bug? 
 
-- THANK YOU!
+- THANK YOU! :)
