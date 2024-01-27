@@ -39,6 +39,6 @@ Each project starts with an idea that captivates you and lingers in your thought
 
 Every screenwriting journey is unique; the process continually evolves. Embracing change and collaboration is necessary in an environment where different voices and visions come into play. 
 
-However, the most fun is to be had in the early quiet moments, left only with your imagination, drafting and shaping one's ideal vision of cinematic reality.
+However, the most fun is often to be had early on, in the quiet moments alone with your imagination, drafting and shaping one's ideal vision of cinematic reality.
 
-So this is the creative process – a journey from a mere idea to a screenplay you hope will captivate your reader and later audiences in the cinema.
+### The creative journey of a screenwriter is one from a simple idea to a screenplay you hope will captivate your reader and later audiences in the cinema.
