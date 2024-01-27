@@ -2,17 +2,17 @@
 date: 2024-01-10T10:58:08-04:00
 description: "Screenwriting Process Bunking"
 featured_image: 
-tags: [screenwriting, craft, bunking]
+tags: [screenwriting,  craft,  bunking]
 title: "The Creative Journey of Writing 'Bunking' - A Short Film Screenplay"
 ---
 
-### I have now finished the first draft of my new short film screenplay, ['Bunking'](https://www.charliebury.com/screenplays/bunking/). 
+**I have now finished the first draft of my new short film screenplay, ['Bunking'](https://www.charliebury.com/screenplays/bunking/).** 
 
 This contemporary thriller sprang from an intriguing seed of inspiration found in **an anonymous story from Chinese folklore**. It revolves around a peasant's desperate escape from assault and a chilling twist of mistaken identity. 
 
 Each project starts with **an idea that captivates you and lingers in your thoughts**. It's the beginning of the screenwriting process for bringing something to life. This initial idea often reveals the core theme, or it might just be a distinct image, a gripping plot twist, an irresistible character. You choose.   
 
-## My Screenwriting Process
+### My Screenwriting Process:
 
 ### 1. Outlining and Research
 
@@ -41,4 +41,4 @@ Every screenwriting journey is unique; **the process continually evolves**. Embr
 
 However, the most fun is often to be had early on, in the quiet moments alone with your imagination, drafting and shaping one's ideal vision of cinematic reality.
 
-### The creative journey of a screenwriter is one from a simple idea into a screenplay you hope will captivate your reader and later audiences in the cinema.
+**The creative journey of a screenwriter is one from a simple idea into a screenplay you hope will captivate your reader and later audiences in the cinema.**
