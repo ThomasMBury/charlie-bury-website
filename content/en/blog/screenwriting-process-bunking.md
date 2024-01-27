@@ -6,9 +6,11 @@ tags: [screenwriting, craft, bunking]
 title: "The Creative Journey of Writing 'Bunking' - A Short Film Screenplay"
 ---
 
-I recently finished the first draft of my new short film screenplay, ['Bunking'](https://www.charliebury.com/screenplays/bunking/). This contemporary thriller sprang from an intriguing seed of inspiration found in an anonymous story from Chinese folklore. The essence of it revolves around an a peasant's desperate escape and a chilling twist of mistaken identity. 
+### I recently finished the first draft of my new short film screenplay, ['Bunking'](https://www.charliebury.com/screenplays/bunking/). 
 
-Each project starts with an idea that captivates you and lingers in your thoughts. It's the beginning of the screenwriting process for bringing something to life. It often reveals the core theme, and it could be just a distinct image, a gripping plot twist, or an irresistible character. You choose.   
+This contemporary thriller sprang from an intriguing seed of inspiration found in an anonymous story from Chinese folklore. It revolves around a peasant's desperate escape from assault and a chilling twist of mistaken identity. 
+
+Each project starts with an idea that captivates you and lingers in your thoughts. It's the beginning of the screenwriting process for bringing something to life. This initial idea often reveals the core theme, or it might just be a distinct image, a gripping plot twist, an irresistible character. You choose.   
 
 ## My Screenwriting Process
 
