@@ -9,7 +9,7 @@ menu:
     weight: 10
 ---
 
-burycharlie@gmail.com
+Email: burycharlie@gmail.com
 
 
 
