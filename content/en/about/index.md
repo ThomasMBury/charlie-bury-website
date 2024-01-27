@@ -8,9 +8,10 @@ menu:
     weight: 1
 ---
 
-Hello. Welcome to my site. Writing and film were early passions in my life, so I combined them and have been delighted ever since. 
+Hello. I'm Charlie Bury, a Screenwriter. Writing and film were early passions in my life, so I combined them and discovered joy. 
 
 You can [Read my Screenplays](https://www.charliebury.com/screenplays/) on the site. I am open to educational and business-related enquiries. [Get in Touch](https://www.charliebury.com/contact). 
 
+Thank you for visiting. 
 
 {{< figure src="/images/profile.jpg">}}
