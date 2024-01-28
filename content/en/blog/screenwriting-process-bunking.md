@@ -2,7 +2,7 @@
 date: 2024-01-10T10:58:08-04:00
 description: "Screenwriting Process Bunking"
 featured_image: 
-tags: [screenwriting,  craft,  bunking]
+tags: [inspiration, craft, bunking]
 title: "The Creative Journey of Writing 'Bunking' - A Short Film Screenplay"
 ---
 
