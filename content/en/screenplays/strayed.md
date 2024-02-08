@@ -7,4 +7,4 @@ title: "Strayed"
 ---
 *A group of teens cross the moors only to encounter a mythical hound hell-bent on killing them all.*  
 
-[Read the Screenplay](COMING SOON).
+COMING SOON.
