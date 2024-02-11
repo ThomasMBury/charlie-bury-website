@@ -3,7 +3,7 @@ date: 2024-01-10T10:58:08-04:00
 description: "Screenwriting Process Bunking"
 featured_image: 
 tags: [inspiration, craft, bunking]
-title: "The Creative Journey of Writing 'Bunking' - A Short Film Screenplay"
+title: "An Overview of My Screenwriting Process"
 ---
 
 **I have now finished the first draft of my new short film screenplay, ['Bunking'](https://www.charliebury.com/screenplays/bunking/).** 
