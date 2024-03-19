@@ -1,7 +1,7 @@
 ---
 date: 2024-03-12T10:58:08-04:00
 description: "A rural murder mystery"
-featured_image: "/images/Resurrection_graveyard.jpg" 
+featured_image: "/images/Moortown_Davidroom.jpg" 
 tags: [moortown, feature, mystery, murder, crime, drama, folk]
 title: "Moortown"
 ---
