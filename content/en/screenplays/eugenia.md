@@ -1,7 +1,7 @@
 ---
 date: 2024-03-19T10:58:08-04:00
 description: "A historical thriller"
-featured_image: "/images/Moorland_darkness.jpeg" 
+featured_image: "/images/Moorlands_darkness.jpeg" 
 tags: [eugenia, feature, medieval, historical, thriller, tragedy]
 title: "Eugenia"
 ---
