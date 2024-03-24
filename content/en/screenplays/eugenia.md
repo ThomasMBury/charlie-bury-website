@@ -1,9 +1,9 @@
 ---
 date: 2024-03-19T10:58:08-04:00
-description: "A thriller set in medieval English convent"
+description: "Set in a medieval English convent"
 featured_image: "/images/Moorlands_darkness.jpeg" 
-tags: [eugenia, feature, medieval, historical, thriller, tragedy]
-title: "Eugenia - thriller, psychological drama"
+tags: [eugenia, feature, medieval, historical, thriller, tragedy, drama]
+title: "Eugenia - psychological thriller"
 ---
 
 ![Sister Eugenia in contemplation](/images/Eugenia_contemplation.jpg)
@@ -16,3 +16,4 @@ As she navigates the perilous path between divine enlightenment and demonic temp
 
 In her darkest hour, an angelic vision offers a glimmer of hope for redemption, but the path to forgiveness is fraught with trials. Her final, desperate act of rebellion against the convent's authority leads to tragedy, yet it is through her downfall that Eugenia discovers the true meaning of grace.
 
+Please [Contact me](https://www.charliebury.com/contact) me if you would like to read the screenplay.
