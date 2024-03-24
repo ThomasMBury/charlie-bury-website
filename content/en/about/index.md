@@ -8,11 +8,13 @@ menu:
     weight: 1
 ---
 
-Hello. I'm Charlie, a screenwriter. 
+Hello,
 
-Writing and film were early passions in my life, so I combined them and discovered the joyful art of screenwriting.
+I'm Charlie, screenwriter. 
 
-Find out more about my screenplays [here](https://www.charliebury.com/screenplays/). And do [contact me](https://www.charliebury.com/contact) for any samples.
+Writing and film were early passions in my life, so I combined them and discovered the joys of screenwriting.
+
+Find out more about my work [here](https://www.charliebury.com/screenplays/). Feel free to [contact me](https://www.charliebury.com/contact) for any samples.
 
 Thank you for stopping by.
 
