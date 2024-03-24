@@ -16,4 +16,4 @@ As she navigates the perilous path between divine enlightenment and demonic temp
 
 In her darkest hour, an angelic vision offers a glimmer of hope for redemption, but the path to forgiveness is fraught with trials. Her final, desperate act of rebellion against the convent's authority leads to tragedy, yet it is through her downfall that Eugenia discovers the true meaning of grace.
 
-Please [Contact me](https://www.charliebury.com/contact) me if you would like to read the screenplay.
+Please [contact me](https://www.charliebury.com/contact) me if you would like to read the screenplay.
