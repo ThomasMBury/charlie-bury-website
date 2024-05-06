@@ -8,13 +8,9 @@ menu:
     weight: 1
 ---
 
-Hello,
+Writing stories and going to the cinema were early passions in my life, thus I combined them and became a screenwriter. 
 
-I'm Charlie, screenwriter. 
-
-Writing and film were early passions in my life, so I combined them and discovered the joys of screenwriting.
-
-Find out more about my work [here](https://www.charliebury.com/screenplays/). Feel free to [contact me](https://www.charliebury.com/contact) for any samples.
+Find out about my work [here](https://www.charliebury.com/screenplays/). And please [contact me](https://www.charliebury.com/contact) for any samples.
 
 Thank you for stopping by.
 
