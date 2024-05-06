@@ -10,7 +10,7 @@ menu:
 
 Writing stories and going to the cinema were early passions in my life, thus I combined them and became a screenwriter. 
 
-Find out about my work [here](https://www.charliebury.com/screenplays/). And please [contact me](https://www.charliebury.com/contact) for any samples.
+Find out about my work [here](https://www.charliebury.com/screenplays/). And please [contact me](https://www.charliebury.com/contact) for samples.
 
 Thank you for stopping by.
 
