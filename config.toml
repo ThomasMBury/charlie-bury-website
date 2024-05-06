@@ -35,10 +35,6 @@ enableRobotsTXT = true
   mainSections = ['blog']
 
 [[params.ananke_socials]]
-name = "medium"
-url = "https://www.medium.com/@CharlieBury"
-
-[[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/BuryCharlie"
 
