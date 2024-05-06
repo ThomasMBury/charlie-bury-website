@@ -1,7 +1,7 @@
 ---
 date: 2024-01-10T10:58:08-04:00
 description: "An overview of how I write screenplays"
-featured_image: "/images/typwriter.jpg"
+featured_image: 
 tags: [inspiration, craft, screenwriting, shorts]
 title: "Process"
 ---
