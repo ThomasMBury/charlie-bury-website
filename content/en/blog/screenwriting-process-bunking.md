@@ -3,36 +3,39 @@ date: 2024-01-10T10:58:08-04:00
 description: "An overview of how I write screenplays"
 featured_image: 
 tags: [inspiration, craft, screenwriting, shorts]
-title: "Process"
+title: "Screenwriting Process"
 ---
 
-I recently finished drafting a contemporary thriller that sprang from a curious seed of inspiration: an anonymous story from Chinese folklore. It features a peasant's desperate escape from assault and a chilling twist of mistaken identity. 
+I recently completed a contemporary thriller inspired by an anonymous story from Chinese folklore. This tale, featuring a peasant's desperate escape from assault and a chilling twist of mistaken identity, planted the seed for my narrative. Every project starts with an idea that captivates my imagination and lingers for weeks, shaping the core theme, a distinct image, or an irresistible character.
 
-Personally, each project starts with an idea that captivates and lingers in my thoughts, for a few weeks at least. This initial idea often reveals the core theme, or a distinct image, or a gripping plot twist, or an irresistible character that one wants to get to know more deeply; something to run with.   
+## Outlining and Research
 
-### 1. Outlining and Research
+**Initial Hook:** The narrative began with a compelling plot hook, which served as the foundation for the story.
+**Character and Setting Development:** Creating detailed character profiles and establishing a vivid setting were crucial steps in this phase.
+**Shaping the Narrative:** While outlining the entire plot, I remained open to changes, allowing the story to evolve naturally.
 
-- **Starting with a Plot**: For this project, I began with a plot hook around which I could build the narrative.
-- **Developing Characters and Setting**: Integral to outlining and research is establishing the setting and developing detailed character profiles.
-- **Shaping the Narrative**: Crucially, outlining the whole thing, though keeping the story flexible to changes as it naturally develops. A creative process is never strictly bound to the plan that precedes it. 
 
-### 2. Drafting
+## Drafting
 
-- **Enjoying the Creative Freedom**: Drafting is where most of the fun is, letting your imagination take the reins. 
-- **Focus on the Story**: I don’t stress over formatting or stylistic elements at the drafting stage; it’s all about getting the story down, structurally and logically sound.
-- **Pen and Paper Approach**: I find there’s a unique joy in physically writing and feeling each word take shape. Then smash the keyboad. 
+**Unleashing Imagination:** Drafting is where the real fun begins, letting imagination take the lead.
+**Story Focus:** At this stage, I concentrate on the storyline, ensuring it is structurally and logically sound, without worrying about formatting or stylistic details.
+**Pen and Paper:** There’s a unique joy in physically writing the draft before transferring it to the keyboard.
 
-### 3. Polishing and Editing
 
-- **The First Official Draft**: After the initial drafting, I move on to polishing.
-- **Editing and Typing Up**: This stage involves refining and preparing the script for feedback. Usually, a lot of cutting. 
+## Polishing and Editing
 
-### 4. Feedback and Revision
+**First Official Draft:** After completing the initial draft, the focus shifts to polishing.
+**Editing Process:** This involves refining the script, making necessary cuts, and preparing it for feedback.
 
-- **Waiting for Notes**: Once the screenplay is out, I refrain from making further changes until receiving feedback.
-- **Collating Suggestions**: It’s more efficient to collate all the feedback and make revisions in a single pass.
-- **Focusing on New Projects**: The wait can be long, so I divert my energy to new writing projects.
 
-Every screenwriting journey is unique and continually evolves. Embracing change and collaboration is necessary in an environment where different voices and visions come into play. Yet one won't deny savouring the quiet moments alone with the imagination, drafting and shaping one's ideal version of the film. 
+## Feedback and Revision
 
-This is a creative journey from a simple idea into a screenplay you hope will captivate the reader and later audiences in the cinema. You are the seed before it has sprouted. 
+**Collating Suggestions:** Once feedback is received, I collate all suggestions and make revisions in a single pass.
+**New Projects:** During the wait, I channel my energy into new writing projects, ensuring continuous creativity.
+
+
+## Embracing the Journey
+
+Every screenwriting journey is unique and continually evolves. Embracing change and collaboration is essential in a creative environment where different voices and visions come into play. Yet, there's unparalleled joy in the quiet moments alone with your imagination, crafting a story that you hope will captivate readers and later audiences in the cinema.
+
+From a simple idea to a finished screenplay, the journey is as fulfilling as the destination.
