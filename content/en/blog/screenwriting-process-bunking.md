@@ -11,26 +11,32 @@ I recently completed a contemporary thriller inspired by an anonymous story from
 ## Outlining and Research
 
 **Initial Hook:** The narrative began with a compelling plot hook, which served as the foundation for the story.
+
 **Character and Setting Development:** Creating detailed character profiles and establishing a vivid setting were crucial steps in this phase.
+
 **Shaping the Narrative:** While outlining the entire plot, I remained open to changes, allowing the story to evolve naturally.
 
 
 ## Drafting
 
 **Unleashing Imagination:** Drafting is where the real fun begins, letting imagination take the lead.
+
 **Story Focus:** At this stage, I concentrate on the storyline, ensuring it is structurally and logically sound, without worrying about formatting or stylistic details.
+
 **Pen and Paper:** There’s a unique joy in physically writing the draft before transferring it to the keyboard.
 
 
 ## Polishing and Editing
 
 **First Official Draft:** After completing the initial draft, the focus shifts to polishing.
+
 **Editing Process:** This involves refining the script, making necessary cuts, and preparing it for feedback.
 
 
 ## Feedback and Revision
 
 **Collating Suggestions:** Once feedback is received, I collate all suggestions and make revisions in a single pass.
+
 **New Projects:** During the wait, I channel my energy into new writing projects, ensuring continuous creativity.
 
 
