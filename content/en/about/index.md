@@ -8,10 +8,12 @@ menu:
     weight: 1
 ---
 
-Writing stories and going to the cinema were early passions in my life, thus I combined them and became a screenwriter. 
+Welcome to my world of storytelling. From a young age, I was captivated by the magic of cinema and the power of words, leading me to merge these passions into a career as a screenwriter.
 
-Find out about my work [here](https://www.charliebury.com/screenplays/). And please [contact me](https://www.charliebury.com/contact) for samples.
+Here, you can explore my work, which spans various genres and styles. My scripts aim to entertain, provoke thought, and evoke emotion, reflecting the human experience in all its complexity.
 
-Thank you for stopping by.
+Feel free to reach out if you're interested in viewing samples of my work or discussing potential collaborations. I look forward to connecting with fellow creatives and industry professionals.
+
+Thank you for visiting!
 
 {{< figure src="/images/profile.jpg">}}
