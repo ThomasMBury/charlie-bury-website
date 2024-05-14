@@ -6,12 +6,8 @@ tags: [eugenia, feature, medieval, historical, thriller, tragedy, drama]
 title: "Eugenia"
 ---
 
-![Sister Eugenia in contemplation](/images/Eugenia_contemplation.jpg)
+In the quiet sanctity of a medieval convent, Sister Eugenia’s life of prayer and devotion is shattered by unsettling whispers and shadowy figures. Drawn into a forbidden quest for knowledge by a seductive demonic presence, she must confront her deepest fears and resist the lure of dark temptations. 
 
-_A medieval nun is led down the path of forbidden knowledge and must fight for her sanity and her life._
-
-In the serene yet austere confines of a medieval convent, Sister Eugenia's life of prayer and devotion is shattered by eerie whispers and hidden figures that breach the sacred solitude. Driven by a thirst for knowledge and a mysterious demon's seductive promises, she finds herself entangled in a web of temptations, challenging her faith. 
-
-As she navigates this perilous path, her quest for understanding plunges the convent into a spiritual crisis. The community she once cherished turns against her, marking her as a pariah to be shunned and punished. But in her darkest hour, an angelic vision offers a glimmer of hope for redemption.
+As her pursuit of truth plunges the convent into a spiritual crisis, Sister Eugenia becomes a pariah, shunned by the very community she once cherished. Yet, in her darkest hour, an angelic vision offers a glimmer of redemption. Now, she must battle not only for her sanity but for her very soul in a gripping tale of faith, temptation, and the fight for inner peace.
 
 [Contact me](https://www.charliebury.com/contact) to read. 
