@@ -1,7 +1,7 @@
 ---
 date: 2024-03-24T10:58:08-04:00
 description: "My services as a script consultant"
-featured_image: "/images/Underwater-Aegean.jpg"
+featured_image:
 tags: [script analysis, script consulting, inspiration, craft, screenwriting]
 title: "Script Feedback"
 ---
