@@ -37,7 +37,9 @@ My insights have contributed to the success of numerous projects. Here are some 
 * BOILING POINT (2021), Philip Barantini
 * HERSELF (2020), Phyllida Lloyd
 * SAINT MAUD (2020), Rose Glass
+* SURGE (2020), Aneil Karia
 * SOUND OF METAL (2020), Darius Marder
+* THE LAST TREE (2020), Shola Amoo
 * ORDINARY LOVE (2019), Lisa Barros D'Sa and Glenn Leyburn
 * ETERNAL BEAUTY (2019), Craig Roberts
 * MR. JONES (2019), Agnieszka Holland
