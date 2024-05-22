@@ -5,5 +5,6 @@ featured_image:
 tags: [mucker, feature, coming-of-age, romance, drama]
 title: "Mucker"
 ---
-[](images/MUCKER_PitchDeck.jpg)
+{{< figure src="/images/MUCKER_PitchDeck.jpg">}}
+View the Pitch Deck here. 
 
