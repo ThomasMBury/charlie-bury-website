@@ -45,3 +45,7 @@ url = "https://www.instagram.com/charlie_bury"
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/charliebury"
+
+[[params.ananke_socials]]
+name = "Substack"
+url = "https://substack.com/@charliebury"
