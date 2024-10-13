@@ -8,12 +8,10 @@ menu:
     weight: 1
 ---
 
-Welcome to my world of storytelling. From a young age, I was captivated by the magic of cinema and the power of words, leading me to merge these passions into a career as a screenwriter.
+Novelist and Screenwriter. From a young age, I was captivated by the magic of storytelling and the power of words, so writing became a natural fit. My work aims to entertain, provoke thought, and evoke emotion, reflecting the human experience in all its complexity and beauty. 
 
-Here, you can explore my work, which spans various genres and styles. My scripts aim to entertain, provoke thought, and evoke emotion, reflecting the human experience in all its complexity and inspiration.
+Feel free to reach out if you're interested in viewing samples of my work, or just want to connect as aq fellow creative and industry professional.
 
-Feel free to reach out if you're interested in viewing samples of my work or discussing potential collaborations. I look forward to connecting with fellow creatives and industry professionals.
-
-Thank you for visiting!
+Thank you for stopping by. 
 
 {{< figure src="/images/profile.jpg">}}
