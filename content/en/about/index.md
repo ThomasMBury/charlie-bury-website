@@ -8,9 +8,7 @@ menu:
     weight: 1
 ---
 
-Novelist and Screenwriter. 
-
-From a young age, I was captivated by the magic of storytelling and the power of words, so writing became a natural fit. My work aims to entertain, provoke thought, and evoke emotion, reflecting the human experience in all its complexity and beauty. 
+From a young age, I was captivated by the magic of storytelling and the power of images, so screenwriting became a natural fit. My work aims to entertain, provoke thought, and evoke emotion, reflecting the human experience in all its complexity and beauty. 
 
 Feel free to reach out if you're interested in viewing samples of my work, or just want to connect as a fellow creative.
 
