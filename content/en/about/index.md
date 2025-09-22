@@ -8,9 +8,9 @@ menu:
     weight: 1
 ---
 
-Screenwriter.
+As a screenwriter and script consultant, I have always been captivated by the magic of storytelling and, more specifically, the power of moving images. 
 
-I have always been captivated by the magic of storytelling and the power of images. My work aims to entertain, provoke thought, and evoke emotion, reflecting the human experience in all its complexity and beauty. 
+My mission is to entertain, provoke thought, and create emotional resonance with an audience, hoping to reflect the human experience in all its complexity and beauty. 
 
 Thank you for stopping by. 
 
