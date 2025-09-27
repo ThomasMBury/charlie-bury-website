@@ -12,6 +12,6 @@ As a screenwriter and script consultant, I have always been captivated by the ma
 
 My mission is to entertain, provoke thought, and create emotional resonance for audiences, hoping to reflect the human experience in all its complexity and beauty. 
 
-Thank you for stopping by. Do reach out if you want to read my work or share your own.   
+Thank you for stopping by. Do reach out if you want to read my work or discuss your own.   
 
 {{< figure src="/images/profile.jpg">}}
