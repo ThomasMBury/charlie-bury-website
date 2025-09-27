@@ -2,15 +2,14 @@
 date: 2024-03-24T10:58:08-04:00
 description: "My services as a script consultant"
 featured_image:
-tags: [script analysis, script consulting, inspiration, craft, screenwriting]
-title: "Script Feedback"
+tags: [screenwriters, development, script consulting, inspiration, craft]
+title: "What is Script Consulting?"
 ---
 
-## What is Script Consulting?
 As a script consultant, my role is to analyse your screenplay and provide detailed feedback on its key elements: story, structure, character arcs, dialogue, themes, and market potential. This feedback is designed to elevate your script, making it stand out to financiers, producers, and distributors.
 
 ## Why Choose Me?
-Here are six essential qualities that define my approach to script consultancy:
+Here are seven qualities that define my approach to script consultancy:
 
 **Expert Storytelling Insight:**
 I have a deep understanding of story structure, character development, dialogue, and genre conventions. My experience includes dissecting thousands of scripts and working as a film executive in sales and finance.
@@ -31,7 +30,7 @@ Maintaining an objective view, I provide honest, constructive feedback to help w
 I ensure reliability and consistency in delivering high-quality feedback and support throughout the consultancy process.
 
 **Proven Success:**
-My insights have contributed to the success of numerous projects. Here are some notable films whose screenplays I reviewed favourably:
+My insights have contributed to the success of numerous projects. Here are some films I reviewed favourably at script stage:
 
 * CENSOR (2021), Prano Bailey-Bond
 * BOILING POINT (2021), Philip Barantini
@@ -52,4 +51,4 @@ My insights have contributed to the success of numerous projects. Here are some 
 * LADY MACBETH (2016), William Oldroyd
 
 ## Get in Touch
-Discover my competitive rates and how I can provide expert feedback tailored to your screenplay. Contact me through my website or reach out on LinkedIn.
+Discover my competitive rates and how I can provide expert feedback tailored to your screenplay. Contact me through the site or via LinkedIn.
