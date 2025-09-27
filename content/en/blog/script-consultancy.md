@@ -30,8 +30,11 @@ Maintaining an objective view, I provide honest, constructive feedback to help w
 I ensure reliability and consistency in delivering high-quality feedback and support throughout the consultancy process.
 
 **Proven Success:**
-My insights have contributed to the success of numerous projects. Here are some films I reviewed favourably at script stage:
+My insights have contributed to the success of numerous projects. Here are some completed films I reviewed favourably at script stage:
 
+* CODE 3 (2025), Christopher Leone
+* MEMORY (2023), Michel Franco
+* TÁR (2022), Todd Field
 * CENSOR (2021), Prano Bailey-Bond
 * BOILING POINT (2021), Philip Barantini
 * HERSELF (2020), Phyllida Lloyd
@@ -51,4 +54,4 @@ My insights have contributed to the success of numerous projects. Here are some 
 * LADY MACBETH (2016), William Oldroyd
 
 ## Get in Touch
-Discover my competitive rates and how I can provide expert feedback tailored to your screenplay. Contact me through the site or via LinkedIn.
+Discover my competitive rates and how I can provide expert feedback tailored to your screenplay. Contact me through the [site](https://www.charliebury.com/contact/) or via [LinkedIn](https://www.linkedin.com/in/charliebury/).
