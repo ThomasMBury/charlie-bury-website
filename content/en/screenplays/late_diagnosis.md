@@ -6,7 +6,7 @@ tags: [comedy, drama, neurodiverse, TV, scripts]
 title: "Late Diagnosis"
 ---
 
-## A Comedy-drama
+## Comedy-drama
 
 In development with _On The Hill Pictures_
 
