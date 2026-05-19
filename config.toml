@@ -37,3 +37,8 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/charliebury"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
