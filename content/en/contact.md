@@ -6,7 +6,7 @@ omit_header_text: true
 type: page
 menu:
   main:
-    weight: 10
+    weight: 11
 ---
 
 Email: burycharlie@gmail.com
