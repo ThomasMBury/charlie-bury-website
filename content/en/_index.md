@@ -6,7 +6,7 @@ description: "Screenwriter"
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/Space-header.jpg'
-
+  
 ---
 As a screenwriter and script consultant, I have always been captivated by the magic of storytelling and, more specifically, the power of moving images. 
 
