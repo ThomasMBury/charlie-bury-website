@@ -4,7 +4,7 @@ description: "A comedy-drama TV series."
 featured_image:
 tags: [comedy, drama, TV]
 title: "Late Diagnosis"
-summary: "A comedy-drama series in development about an autistic man finding love. 
+summary: "A comedy-drama series in development about an autistic man finding love." 
 ---
 
 ## Comedy-drama
