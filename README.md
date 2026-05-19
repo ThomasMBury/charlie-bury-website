@@ -9,4 +9,4 @@ Writer's website for Charlie Bury
 - homepage : News (done)
 - screenplay page - ai gen image, link to sample on Google Drive (done CB)
 - how to show less body text in the thumbnail for screenplays and blog posts (done CB, add a summary variable)
-- when one clicks on a keyword, it comes up with a strange subheading about taxonomy of the term
+- when one clicks on a keyword, it comes up with a strange subheading about taxonomy of the term (done CB, override theme with AI coding help)
