@@ -2,7 +2,7 @@
 date: 2025-06-23T10:58:08-04:00
 description: "A comedy-drama TV series."
 featured_image:
-tags: [comedy, drama, neurodiverse, TV, scripts]
+tags: [comedy, drama, TV]
 title: "Late Diagnosis"
 summary: "A comedy-drama series in development about an autistic man finding love. 
 ---
