@@ -11,4 +11,4 @@ summary: "An archive of my short film scripts available to download."
 
 In the claustrophobic depths of a medieval Yorkshire priory, the brutal punishment of a fallen nun forces a gentle abbot to confront the terrifying boundary between religious zeal and true Christian mercy.
 
-[Download The Nun of Watton script](/scripts/The-Nun-Of-Watton-Short.pdf)
+<a href="/scripts/The-Nun-Of-Watton-Short.pdf" target="_blank" rel="noopener noreferrer">Download The Nun of Watton</a>
