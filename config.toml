@@ -23,6 +23,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  disable_share = true
   text_color = "dary-gray"
   author = ""
   favicon = ""
