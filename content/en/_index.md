@@ -12,6 +12,8 @@ My mission as a screenwriter is to entertain, provoke thought, and create emotio
 
 Thank you for visiting. Please reach out if you would like to request a script or discuss your own project.
 
+---
+
 {{< figure src="/images/profile.jpg" >}}
 
 ---
