@@ -1,13 +1,13 @@
 ---
 description: "A comedy-drama TV series."
-featured_image:
 tags: [comedy, drama, TV]
 title: "Late Diagnosis"
-summary: "A comedy-drama series in development about an autistic man finding love." 
+summary: "A comedy-drama series about an autistic man finding love." 
 ---
 
-## Comedy-drama
+### Late Diagnosis
+> *When a young man in London is late diagnosed as autistic, his search for deeper relationships in life forces him to confront identity, love, and self-acceptance.*
 
-In development with _On The Hill Pictures_
-
-When a socially awkward young man in London begins to suspect he is autistic, his search for diagnosis and connection pulls him between a safe but nostalgic friendship and the risky allure of a neighbour he admires, forcing him to confront identity, love, and self-acceptance.
+* **Genre:** Comedy-drama
+* **Length:** 30 Pages
+* **Status:** Optioned
