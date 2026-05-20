@@ -38,6 +38,11 @@ enableRobotsTXT = true
 name = "linkedin"
 url = "https://www.linkedin.com/in/charliebury"
 
+[[params.ananke_socials]]
+  name = "letterboxd"
+  url = "https://letterboxd.com/charliebury/"
+  label = "Letterboxd"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
