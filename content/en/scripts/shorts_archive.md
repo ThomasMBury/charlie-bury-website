@@ -1,7 +1,7 @@
 ---
 description: "Short film scripts."
 featured_image:
-tags: [historical, drama, thriller, shorts]
+tags: [shorts]
 title: "Shorts Archive"
 summary: "An archive of my short film scripts available to download."
 ---
