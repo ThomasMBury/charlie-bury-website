@@ -1,7 +1,6 @@
 ---
 description: "Short film scripts."
 featured_image:
-tags: [shorts]
 title: "Shorts Archive"
 summary: "An archive of my short film scripts available to download."
 ---
