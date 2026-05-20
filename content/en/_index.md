@@ -1,15 +1,21 @@
 ---
 title: "Charlie Bury"
-
 description: "Screenwriter"
-# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/Space-header.jpg'
-  
 ---
-My mission as a screenwriter is to entertain, provoke thought, and create emotional resonance for audiences, hoping to reflect the human experience in all its complexity and beauty. 
 
-Thank you for stopping by. Please reach out if you want to read my work or discuss your own.   
+<div class="tl lh-copy f4 measure-wide">
 
-{{< figure src="/images/profile.jpg">}}
+My mission as a screenwriter is to entertain, provoke thought, and create emotional resonance. By focusing on the poetics of drama and classical narratives, my work seeks to reflect the human experience in all its complexity and beauty. 
+
+Thank you for visiting. Please reach out if you would like to request a script or discuss your own project.
+
+{{< figure src="/images/profile.jpg" >}}
+
+---
+
+**[Original Scripts](/scripts/) &nbsp;&nbsp;•&nbsp;&nbsp; [News & Updates](/news/) &nbsp;&nbsp;•&nbsp;&nbsp; [Contact Me](/contact/)**
+
+</div>
