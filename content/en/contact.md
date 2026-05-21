@@ -2,7 +2,7 @@
 title: Contact 
 # featured_image: ''
 omit_header_text: true
-# description:
+# description: Screenwriter & Script Consultant Contact Email Address
 type: page
 menu:
   main:
