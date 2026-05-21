@@ -1,5 +1,5 @@
 ---
-title: "Charlie Bury"
+title: "Screenwriter"
 description: "Screenwriter & Script Consultant"
 theme_version: '2.8.2'
 cascade:
