@@ -19,7 +19,10 @@ Thank you for visiting. Please reach out if you would like to request a script o
 ---
 
 <div class="tc">
-**[Screenplays](/scripts/) &nbsp;&nbsp;•&nbsp;&nbsp; [Consultancy](/consultancy/) &nbsp;&nbsp;•&nbsp;&nbsp; [News](/news/) &nbsp;&nbsp;•&nbsp;&nbsp; [Contact Me](/contact/)**
+  <strong><a href="/scripts/" class="link black dim">Screenplays</a></strong> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <strong><a href="/consultancy/" class="link black dim">Consultancy</a></strong> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <strong><a href="/news/" class="link black dim">News</a></strong> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <strong><a href="/contact/" class="link black dim">Contact Me</a></strong>
 </div>
 
 <div class="tc mt5">
