@@ -1,5 +1,5 @@
 ---
-description: "Short film scripts."
+description: "An archive of Charlie Bury's short film scripts available to download."
 title: "Shorts Archive"
 summary: "An archive of my short film scripts available to download."
 ---

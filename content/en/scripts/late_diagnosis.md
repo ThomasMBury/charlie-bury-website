@@ -1,5 +1,5 @@
 ---
-description: "A comedy-drama TV series."
+description: "A comedy-drama TV series written by Charlie Bury."
 tags: [comedy, drama, TV]
 title: "Late Diagnosis"
 summary: "A comedy-drama series about an autistic man finding love." 
@@ -9,4 +9,7 @@ summary: "A comedy-drama series about an autistic man finding love."
 
 * **Genre:** Comedy / Drama
 * **Length:** 30 Pages / Pilot
-* **Status:** Optioned / On The Hill Pictures
+* **Status:** Optioned / In Development
+* **Producer:** Michael Graf (On The Hill Pictures)
+
+**<a href="mailto:onthehillpictures@gmail.com?subject=Inquiry regarding Late Diagnosis">Contact the Producer</a>**
