@@ -18,6 +18,16 @@ Thank you for visiting. Please reach out if you would like to request a script o
 
 ---
 
-**[Original Scripts](/scripts/) &nbsp;&nbsp;•&nbsp;&nbsp; [News & Updates](/news/) &nbsp;&nbsp;•&nbsp;&nbsp; [Contact Me](/contact/)**
+<div class="tc">
+**[Screenplays](/scripts/) &nbsp;&nbsp;•&nbsp;&nbsp; [Consultancy](/consultancy/) &nbsp;&nbsp;•&nbsp;&nbsp; [News](/news/) &nbsp;&nbsp;•&nbsp;&nbsp; [Contact Me](/contact/)**
+</div>
+
+<div class="tc mt5">
+  <p class="f5 i">Join my Release Radar for notifications on project news & script updates.</p>
+  <form action="https://buttondown.com/api/emails/embed-subscribe/charliebury" method="post" class="mt3">
+    <input type="email" name="email" id="bd-email" placeholder="Enter your email address..." class="pa2 ba b--silver w-50-ns w-100" required />
+    <input type="submit" value="Subscribe" class="pa2 ba b--black bg-black white pointer ml2-ns mt2 mt0-ns" />
+  </form>
+</div>
 
 </div>
