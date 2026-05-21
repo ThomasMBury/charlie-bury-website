@@ -14,7 +14,7 @@ Thank you for visiting. Please reach out if you would like to request a script o
 
 ---
 
-{{< figure src="/images/profile.jpg" >}}
+{{< figure src="/images/profile.jpg" alt="Charlie Bury, Screenwriter and Script Consultant" >}}
 
 ---
 
