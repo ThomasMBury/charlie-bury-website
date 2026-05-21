@@ -8,7 +8,7 @@ cascade:
 
 <div class="tl lh-copy f4 measure-wide">
 
-My mission as a screenwriter is to entertain, provoke thought, and create emotional resonance. By focusing on the poetics of drama and classical narratives, my work seeks to reflect the human experience in all its complexity and beauty. 
+My mission as a screenwriter and script consultant is to entertain, provoke thought, and create emotional resonance in audiences worldwide. By focusing on the poetics of drama and classical narratives, my work seeks to reflect the human experience in all its complexity and beauty. 
 
 Thank you for visiting. Please reach out if you would like to request a script or discuss your own project.
 
