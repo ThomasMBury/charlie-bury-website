@@ -25,7 +25,7 @@ Drawing upon a decade of experience within international sales, acquisitions, an
 
 * **Script Assessment:** Provided extensive development coverage and commercial viability reports for Protagonist Pictures and Creative UK’s iFeatures programme.
 * **Script & Pitch Formatting:** Executed comprehensive script document revisions and market alignments for independent producers.
-* **Internal Acquisitions:** Evaluated high-value intellectual property for global distribution at Bankside Films during a 3-year tenure.
+* **Internal Acquisitions:** Evaluated high-value intellectual property for global sales & distribution at Bankside Films during a 3-year tenure.
 
 ---
 
