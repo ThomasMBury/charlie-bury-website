@@ -11,7 +11,7 @@ summary: "A satirical, coming-of-age folk horror that dissects the British stiff
 {{< figure src="/images/aranea-manor-tone.jpg" alt="A bleak British countryside manor house viewed through the dark vignette of a child's binoculars, establishing the folk-horror setting of Aranea." caption="*Visual tone reference for Aranea.*" >}}
 
 * **Genre:** Satirical Folk-Horror / Creature Feature
-* **Length:** [106] Pages
+* **Length:** 106 Pages
 * **Status:** Available
 
 **<a href="/scripts/Aranea-Extract-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read 10-Page Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Script Request: Aranea">Request Full Screenplay</a>**
