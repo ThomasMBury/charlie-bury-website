@@ -3,7 +3,7 @@ title: "Script Insights: Aranea"
 date: 2026-05-25T12:00:00Z
 draft: false
 description: "A brief addendum regarding the theme of Aranea and its comedy-horror roots."
-summar: "A brief addendum regarding the theme of Aranea and its comedy-horror roots."
+summary: "A brief addendum regarding the theme of Aranea and its comedy-horror roots."
 ---
 
 I recently added *Aranea* to the script archive, but I wanted to provide a brief addendum regarding the central theme of the project and how it came to be.
