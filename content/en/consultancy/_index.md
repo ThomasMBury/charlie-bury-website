@@ -11,7 +11,7 @@ Drawing upon a decade of experience within international sales, acquisitions, an
 
 * **The Story Analysis:** A comprehensive, multi-page report isolating the strengths and flaws in a screenplay's structure, character arcs, and thematic resonance.
 * **Pitch Deck & Treatment Review:** Ensuring the foundational documents of a project are structurally sound and emotionally compelling before the script is even drafted.
-* **Development Mentorship:** One-on-one iterative feedback sessions to guide a script from its idea stage to its first draft to its final polish.
+* **Development Mentorship:** One-on-one feedback sessions to guide a script from its idea stage to its first draft to its final polish.
 
 ---
 
