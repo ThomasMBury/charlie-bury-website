@@ -25,3 +25,5 @@ summary: "A satirical, coming-of-age folk horror that dissects the British stiff
 Framed frequently through the distancing lens of Eli’s binoculars, the script contrasts the grotesque social rituals of the British upper-middle class with the literal, visceral monster stalking the estate's grounds. Drawing upon classical mythos, the creature acts as a violent, physical manifestation of unexpressed trauma. As ELi's Father and Uncle demand emotional silence following the mother's death, the arachnid weaves a literal, suffocating veil over the family's secrets, picking off the aristocratic guests one by one. 
 
 The resulting horror story uniquely blends the gritty, melancholic vision of a childhood tragedy with the razor-sharp wit and energy of a high-society satire.
+
+---

@@ -15,6 +15,6 @@ For inquiries regarding script consultancy, or the rights availability of any sc
 
 *I aim to respond to all professional inquiries within 48 hours.*
 
-
+---
 
 
