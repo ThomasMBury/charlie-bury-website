@@ -1,6 +1,6 @@
 ---
 title: "Script Consultancy"
-description: "Rigorous structural and detailed story analysis and development for independent producers, writers, and directors."
+description: "Detailed story analysis and development for independent producers, writers, and directors."
 tags: [industry]
 ---
 
