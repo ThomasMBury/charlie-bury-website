@@ -2,7 +2,7 @@
 title: "Script Insights: Aranea"
 date: 2026-05-25T12:00:00Z
 draft: false
-tags: [feature]
+tags: [feature, craft]
 description: "A brief addendum regarding the theme of Aranea and its comedy-horror roots."
 summary: "A brief addendum regarding the theme of Aranea and its comedy-horror roots."
 ---
