@@ -2,7 +2,7 @@
 title: "Queens"
 tags: [TV]
 description: "A kinetic, coming-of-age TV series where a rebellious teen declares war on the aristocratic repression of her boarding school."
-summary: "A kinetic, coming-of-age TV series where a rebellious teen declares war on the aristocratic repression of her boarding school."
+summary: "A coming-of-age TV series where a rebellious teen declares war on the aristocratic repression of her boarding school."
 ---
 
 ### Queens
