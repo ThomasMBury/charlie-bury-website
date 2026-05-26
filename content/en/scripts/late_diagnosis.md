@@ -2,7 +2,7 @@
 description: "A comedy-drama TV series written by Charlie Bury."
 tags: [TV]
 title: "Late Diagnosis"
-summary: "A comedy-drama series about an autistic man finding love." 
+summary: "A comedy-drama TV series about an autistic man finding love." 
 ---
 
 > *When a young man in London is late diagnosed as autistic, his search for deeper relationships in life forces him to confront identity, love, and self-acceptance.*

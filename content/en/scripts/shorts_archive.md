@@ -9,7 +9,7 @@ summary: "An archive of my short film scripts available to download."
 
 * **Genre:** Drama / Romantic
 * **Length:** 20 Pages
-* **Status:** Unproduced / Available
+* **Status:** Available
 
 <a href="/scripts/The-Ballet-Dancer-Short.pdf" target="_blank" rel="noopener noreferrer">Read the Script</a>
 
@@ -20,7 +20,7 @@ summary: "An archive of my short film scripts available to download."
 
 * **Genre:** Thriller / Period Drama
 * **Length:** 24 Pages
-* **Status:** Unproduced / Available
+* **Status:** Available
 
 <a href="/scripts/The-Nun-Of-Watton-Short.pdf" target="_blank" rel="noopener noreferrer">Read the Script</a>
 
@@ -31,7 +31,7 @@ summary: "An archive of my short film scripts available to download."
 
 * **Genre:** Drama / Comedy
 * **Length:** 18 Pages
-* **Status:** Unproduced / Available
+* **Status:** Available
 
 <a href="/scripts/The-Phantoms-Short.pdf" target="_blank" rel="noopener noreferrer">Read the Script</a>
 
@@ -42,7 +42,7 @@ summary: "An archive of my short film scripts available to download."
 
 * **Genre:** Drama / Romance
 * **Length:** 23 Pages
-* **Status:** Unproduced / Available
+* **Status:** Available
 
 <a href="/scripts/Trouver-Marie-Short.pdf" target="_blank" rel="noopener noreferrer">Read the Script</a>
 
@@ -53,7 +53,7 @@ summary: "An archive of my short film scripts available to download."
 
 * **Genre:** Coming-of-Age / Drama
 * **Length:** 32 Pages
-* **Status:** Unproduced / Available
+* **Status:** Available
 
 <a href="/scripts/The-Twister-Short.pdf" target="_blank" rel="noopener noreferrer">Read the Script</a>
 
