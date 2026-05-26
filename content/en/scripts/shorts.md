@@ -1,7 +1,7 @@
 ---
-description: "An archive of Charlie Bury's short film screenplays available to download."
+description: "An archive of Charlie Bury's short film screenplays."
 title: "Shorts"
-summary: "An archive of my short film scripts available to download."
+summary: "An archive of short film scripts."
 ---
 
 ### The Ballet Dancer
