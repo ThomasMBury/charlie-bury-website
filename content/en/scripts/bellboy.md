@@ -23,3 +23,5 @@ summary: "A satirical TV series exploring a luxury London hotel through the eyes
 The series world juxtaposes the gilded, Roaring '20s aesthetic of The Royale Hotel with the neurotic, chaotic reality of its patrons. As Jez navigates neurotic American billionaires, secretive escorts, and a terribly insecure manager, his strict code of inconspicuousness is shattered. 
 
 Blending rapid-fire, satirical dialogue with the underlying tension of a heist narrative, *Bellboy* offers a biting commentary on wealth, servitude, and the masks people wear to survive the modern class system.
+
+---

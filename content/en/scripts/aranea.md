@@ -2,7 +2,7 @@
 title: "Aranea"
 description: "A satirical, coming-of-age folk horror that dissects the British stiff-upper-lip response to grief."
 tags: [feature]
-summary: "A satirical, coming-of-age folk horror that dissects the British stiff-upper-lip response to grief."
+summary: "A satirical, coming-of-age folk horror that scrutinises the British stiff-upper-lip response to grief."
 ---
 
 ### Logline
