@@ -1,6 +1,6 @@
 ---
 description: "An archive of Charlie Bury's short film screenplays available to download."
-title: "Shorts Archive"
+title: "Shorts"
 summary: "An archive of my short film scripts available to download."
 ---
 
