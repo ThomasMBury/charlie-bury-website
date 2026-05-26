@@ -1,8 +1,8 @@
 ---
 title: "Bellboy"
 tags: [TV]
-description: "A satirical TV series exploring a luxury London hotel through the eyes of a cynical Bellboy."
-summary: "A satirical TV series exploring a luxury London hotel through the eyes of a cynical Bellboy."
+description: "A satirical TV series exposing the absurdity of a luxury London hotel through the eyes of a cynical Bellboy."
+summary: "A satirical TV series exposing the absurdity of a luxury London hotel through the eyes of a cynical Bellboy."
 ---
 
 ### Bellboy
@@ -18,7 +18,7 @@ summary: "A satirical TV series exploring a luxury London hotel through the eyes
 
 ### Story Overview
 
-*Bellboy* is a TV series that leaps into the hidden class divides of London's luxury hospitality sector. The story unfolds through the highly observant perspective of Jez, a 21-year-old servant who uses a plastered-on, professional smile as armour against the eccentric, often monstrous guests he is forced to accommodate.
+*Bellboy* is a TV series that leaps into the hidden class divides of London's luxury hospitality sector. The story unfolds through the highly observant perspective of Jez, a 21-year-old hotel porter who uses a plastered-on, professional smile as armour against the eccentric, often monstrous guests he is forced to accommodate.
 
 The series world juxtaposes the gilded, Roaring '20s aesthetic of The Royale Hotel with the neurotic, chaotic reality of its patrons. As Jez navigates neurotic American billionaires, secretive escorts, and a terribly insecure manager, his strict code of inconspicuousness is shattered. 
 
