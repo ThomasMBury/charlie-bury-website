@@ -48,22 +48,47 @@ url = "https://www.linkedin.com/in/charliebury"
     [markup.goldmark.renderer]
       unsafe = true
 
-      [[menu.main]]
-  name = "Scripts"
-  url = "/scripts/"
-  weight = 1
+[[menu.main]]
+  name = "Features"
+  pageRef = "/features"
+  weight = 10
+
+[[menu.main]]
+  name = "TV"
+  pageRef = "/tv"
+  weight = 20
+
+[[menu.main]]
+  name = "Shorts"
+  pageRef = "/shorts"
+  weight = 30
+
+[[menu.main]]
+  name = "Novels"
+  pageRef = "/novels"
+  weight = 40
+
+[[menu.main]]
+  name = "Poetry"
+  pageRef = "/poetry"
+  weight = 50
+
+[[menu.main]]
+  name = "Craft"
+  pageRef = "/craft"
+  weight = 60
 
 [[menu.main]]
   name = "Consultancy"
-  url = "/consultancy/"
-  weight = 2
+  pageRef = "/consultancy"
+  weight = 70
 
 [[menu.main]]
   name = "News"
-  url = "/news/"
-  weight = 3
+  pageRef = "/news"
+  weight = 80
 
 [[menu.main]]
   name = "Contact"
-  url = "/contact/"
-  weight = 4
+  pageRef = "/contact"
+  weight = 90
