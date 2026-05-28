@@ -1,5 +1,5 @@
 ---
-title: "Screenwriter & Script Consultant"
+title: "Writer"
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/Space-header.jpg'
@@ -7,9 +7,11 @@ cascade:
 
 <div class="tl lh-copy f4 measure-wide">
 
-My mission as a screenwriter and script consultant is to entertain, provoke thought, and create emotional resonance in audiences worldwide. By focusing on the poetics of drama and classical narratives, my work seeks to reflect the human experience in all its complexity and beauty. 
+My work across screenwriting, fiction, and poetry seeks to entertain, provoke thought, and strike a profound emotional chord. Rooted in the poetics of drama, classical narrative structures, and the depth of Christian theology, I explore the human experience in all its fractured complexity and redemptive beauty. 
 
-Thank you for visiting. Please reach out if you would like to request a script or discuss your own project.
+Filtered through the meticulous, observational lens of an autistic mind, my stories aim to capture the myriad realities of everyday life. Ultimately, we map the meaning of our lives by the stories we choose to pass on.
+
+Thank you for visiting. Please reach out to request writing samples or to discuss collaborating on your own projects.
 
 ---
 
