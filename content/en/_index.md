@@ -19,13 +19,6 @@ Thank you for visiting. Please reach out to request writing samples or to discus
 
 ---
 
-<div class="tc">
-  <strong><a href="/scripts/" class="link black dim">Screenplays</a></strong> &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <strong><a href="/consultancy/" class="link black dim">Consultancy</a></strong> &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <strong><a href="/news/" class="link black dim">News</a></strong> &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <strong><a href="/contact/" class="link black dim">Contact Me</a></strong>
-</div>
-
 <div class="tc mt5">
   <p class="f5 i">Be the first to hear about project news & script updates.</p>
   <form action="https://buttondown.com/api/emails/embed-subscribe/charliebury" method="post" class="mt3">
