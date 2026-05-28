@@ -69,8 +69,8 @@ url = "https://www.linkedin.com/in/charliebury"
   weight = 40
 
 [[menu.main]]
-  name = "Poetry"
-  pageRef = "/poetry"
+  name = "Poems"
+  pageRef = "/poems"
   weight = 50
 
 [[menu.main]]
