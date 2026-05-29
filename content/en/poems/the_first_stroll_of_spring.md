@@ -1,9 +1,6 @@
 ---
 title: "The First Stroll Of Spring"
-summary: "O spring, thy gentle current fills the air..."
 ---
-
-## The First Stroll of Spring
 
 O spring, thy gentle current fills the air,
 Thy breezes sting no more but whisper fair;
