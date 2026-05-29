@@ -20,10 +20,10 @@ summary: "Part One of a planned biblical adaptation. A desperate farmer, crushed
 
 ### Story Overview
 
-*Cain is a visceral, character-driven exploration of humanity’s first fatal flaw. Set in the immediate, unforgiving aftermath of the Fall, the story focuses on the fracturing of the first family as they struggle to survive in a hostile, untamed world. Adam, haunted by the staggering reality of his exile from Eden, pushes his eldest son, Cain, to wring life from the cursed, unyielding soil. 
+Cain is a visceral, character-driven exploration of humanity’s first fatal flaw. Set in the immediate, unforgiving aftermath of the Fall, the story focuses on the fracturing of the first family as they struggle to survive in a hostile, untamed world. Adam, haunted by the staggering reality of his exile from Eden, pushes his eldest son, Cain, to wring life from the cursed, unyielding soil. 
 
 But his younger brother Abel, a gentle shepherd, seems to effortlessly enjoy the grace of God and the favour of his parents, whilst Cain's backbreaking labour is met only with divine silence. The narrative expands this ancient rivalry from a tale of petty jealousy into a psychological and theological crisis. Cain embodies the birth of the man of pride, a mind curving inwards on itself, starved of validation, and consumed by the perceived injustice of the universe. 
 
-The mounting tension culminates in the infamous failed sacrifice. Blinded by rage and a desperate need for agency, Cain commits the ultimate transgression, shattering the nascent world. The film climaxes with the chilling confrontation with the Creator, the marking of Cain, and his agonising departure into the unknown Land of Nod. By concluding at the moment of exile, the script serves as the tragic foundation for a sprawling cinematic universe, setting the stage for future explorations of Nod, the lineage of Seth, and even the preludes of Eden.* 
+The mounting tension culminates in the infamous failed sacrifice. Blinded by rage and a desperate need for agency, Cain commits the ultimate transgression, shattering the nascent world. The film climaxes with the chilling confrontation with the Creator, the marking of Cain, and his agonising departure into the unknown Land of Nod. By concluding at the moment of exile, the script serves as the tragic foundation for a sprawling cinematic universe, setting the stage for future explorations of Nod, the lineage of Seth, and even the preludes of Eden. 
 
 ---
