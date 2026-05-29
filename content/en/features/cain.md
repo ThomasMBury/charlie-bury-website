@@ -1,5 +1,5 @@
 ---
-title: "Cain"
+title: "Cain: Part One"
 description: "A psychological and theological cinematic retelling of humanity's first murder and the tragic birth of violence."
 tags: [feature, adaptation]
 summary: "Part One of a planned biblical adaptation. A desperate farmer, crushed by the silence of God and his father's trauma, commits the ultimate transgression, shattering the nascent world.."
