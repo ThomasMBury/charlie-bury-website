@@ -7,7 +7,7 @@ Above the roofless walls where monks have bled.\
 The immense abbey church in glory stood,\
 A temple hewn of stone and holy wood;\
 Named for the One, the Holy, and the True,\
-Before the raze of kings and thunder blew.\ 
+Before the raze of kings and thunder blew.\
 Now stripped of altars, bare and forbidden,\
 The sacred mysteries in dust are hidden.
 
