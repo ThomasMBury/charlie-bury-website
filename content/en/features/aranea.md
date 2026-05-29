@@ -8,7 +8,7 @@ summary: "A satirical, coming-of-age folk horror that scrutinises the British st
 ### Logline
 > *Dragged to an emotionally repressed family shooting weekend following his mother's sudden death, a hyper-sensitive ten-year-old boy realises that a primeval, translucent arachnid—born from the wreckage of her fatal crash has followed them to the manor to feed.*
 
-{{< figure src="/images/aranea-manor-tone.jpg" alt="A bleak British countryside manor house viewed through the dark vignette of a child's binoculars, establishing the folk-horror setting of Aranea." caption="*Visual tone reference for Aranea.*" >}}
+{{< figure src="/images/aranea-visual-tone.jpg" alt="A bleak British countryside manor house viewed through the dark vignette of a child's binoculars, establishing the folk-horror setting of Aranea." caption="*Visual tone reference for Aranea.*" >}}
 
 * **Genre:** Satirical Folk-Horror / Creature Feature
 * **Length:** 106 Pages
