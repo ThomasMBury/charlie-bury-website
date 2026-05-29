@@ -1,12 +1,11 @@
 ---
 title: "The First Stroll Of Spring"
-excerpt: "O spring, thy gentle current fills the air,<br>Thy breezes sting no more but whisper fair;<br>The birdsong wakes the dawn and holds the hour,<br>As daylight opens outwards like a flower..."
 ---
 
 O spring, thy gentle current fills the air,\
 Thy breezes sting no more but whisper fair;\
 The birdsong wakes the dawn and holds the hour,\
-As daylight opens outwards like a flower.\''
+As daylight opens outwards like a flower.\
 The winter’s weeping wetland starts to yield,\
 And boots walk freely on the drying field.
 
