@@ -1,0 +1,15 @@
+/* Widen paragraphs and lists on desktop screens */
+@media screen and (min-width: 60em) {
+  .nested-copy-line-height p,
+  .nested-copy-line-height ul,
+  .nested-copy-line-height ol,
+  .nested-copy-line-height blockquote {
+    max-width: 45em !important; /* Increases width from the 30em default */
+  }
+
+  /* Ananke often restricts the main content area to 66% width. 
+     This widens the container itself to 85% */
+  .w-two-thirds-l {
+    width: 85% !important; 
+  }
+}

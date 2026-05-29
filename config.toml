@@ -33,6 +33,7 @@ enableRobotsTXT = true
   recent_posts_number = 3
   commentoEnable = false
   mainSections = []
+  custom_css = ["css/custom.css"]
 
 [[params.ananke_socials]]
 name = "linkedin"
