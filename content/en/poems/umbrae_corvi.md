@@ -6,10 +6,10 @@ The shadows of the crow soar overhead,\
 Above the roofless walls where monks have bled.\
 The immense abbey church in glory stood,\
 A temple hewn of stone and holy wood;\
-Named for the One, the Holy, and the True,\ 
+Named for the One, the Holy, and the True,\
 Before the raze of kings and thunder blew.\ 
-Now stripped of altars, bare and forbidden,\ 
-The sacred mysteries in dust are hidden.\
+Now stripped of altars, bare and forbidden,\
+The sacred mysteries in dust are hidden.
 
 Driven to scattered homesteads, poor and damp,\
 The religious fled the extinguishing of the lamp.\
@@ -20,7 +20,7 @@ But one remained, though people fled in fear:\
 And wings bereft, she fell deeply inwards,\
 To wipe away the chains of tears and words;\
 She stood quite still, lost in the fearful time,\
-The only witness to the ancient crime.\
+The only witness to the ancient crime.
 
 The Tower stands, where remedies were brewed\
 In quiet vales, by nature now subdued.\
@@ -29,7 +29,7 @@ Where purified springs made water that would last.\
 Voices chanted up through the misty hills\
 Dispersing grace to cure the peoples' ills.\
 In dreams one wonders: were the Spirits true?\
-Or just a mist that morning sunlight slew?\
+Or just a mist that morning sunlight slew?
 
 Now murky liquids swallow up God’s Word,\
 Down gutters where the innocent are heard.\
