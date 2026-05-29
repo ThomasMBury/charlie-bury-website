@@ -1,6 +1,6 @@
 ---
 title: "The First Stroll Of Spring"
-summary: "O spring, thy gentle current fills the air,<br>Thy breezes sting no more but whisper fair;<br>The birdsong wakes the dawn and holds the hour,<br>As daylight opens outwards like a flower..."
+excerpt: "O spring, thy gentle current fills the air,<br>Thy breezes sting no more but whisper fair;<br>The birdsong wakes the dawn and holds the hour,<br>As daylight opens outwards like a flower..."
 ---
 
 O spring, thy gentle current fills the air,\
