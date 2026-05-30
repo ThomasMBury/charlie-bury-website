@@ -8,7 +8,7 @@ summary: "Set in the mist-shrouded South West of England, a neurodivergent boy n
 > *Exiled to his uncle’s sprawling country estate in the winter of 2004, an obsessively observant, neurodivergent boy adopts a silent rigour to survive the psychological warfare of his parents' decaying marriage. But as a grotesque weekend of pheasant shooting and heavy drinking escalates, the fragile boundaries of his sensory and spiritual world are violently ruptured.*
 
 * **Format:** Literary Fiction / Drama
-* **Status:** In Development / Seeking Representation
+* **Status:** In Development 
 
 **<a href="/novels/Gristle-Chapter-One-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read the Opening Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Manuscript Request: Gristle">Request Full Manuscript</a>**
 
