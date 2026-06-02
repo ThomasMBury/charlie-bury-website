@@ -50,8 +50,8 @@ url = "https://www.linkedin.com/in/charliebury"
       unsafe = true
 
 [[menu.main]]
-  name = "Features"
-  pageRef = "/features"
+  name = "Films"
+  pageRef = "/films"
   weight = 10
 
 [[menu.main]]
@@ -60,36 +60,26 @@ url = "https://www.linkedin.com/in/charliebury"
   weight = 20
 
 [[menu.main]]
-  name = "Shorts"
-  pageRef = "/shorts"
-  weight = 30
-
-[[menu.main]]
   name = "Novels"
   pageRef = "/novels"
-  weight = 40
+  weight = 30
 
 [[menu.main]]
   name = "Poems"
   pageRef = "/poems"
+  weight = 40
+
+[[menu.main]]
+  name = "Insights"
+  pageRef = "/insights"
   weight = 50
 
 [[menu.main]]
-  name = "Craft"
-  pageRef = "/craft"
+  name = "Expertise"
+  pageRef = "/expertise"
   weight = 60
-
-[[menu.main]]
-  name = "Consultancy"
-  pageRef = "/consultancy"
-  weight = 70
-
-[[menu.main]]
-  name = "News"
-  pageRef = "/news"
-  weight = 80
 
 [[menu.main]]
   name = "Contact"
   pageRef = "/contact"
-  weight = 90
+  weight = 70
