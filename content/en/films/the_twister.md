@@ -1,7 +1,7 @@
 ---
 description: "A suburban coming-of-age drama."
 title: "The Twister"
-summary: "A suburban coming-of-age drama."
+summary: "A short suburban coming-of-age drama."
 ---
 
 ### The Twister

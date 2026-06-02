@@ -1,7 +1,7 @@
 ---
 description: "A period thriller set in Yorkshire."
 title: "The Nun Of Watton"
-summary: "A period thriller set in Yorkshire."
+summary: "A short period thriller set in Yorkshire."
 ---
 
 ### The Nun of Watton

@@ -1,7 +1,7 @@
 ---
 description: "A drama set in London spanning decades."
 title: "Trouver Marie"
-summary: "A drama set in London spanning decades."
+summary: "A short drama set in London spanning decades."
 ---
 
 ### Trouver Marie

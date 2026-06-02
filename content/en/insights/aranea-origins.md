@@ -1,5 +1,5 @@
 ---
-title: "Script Insights: Aranea"
+title: "The Origins Of Aranea"
 date: 2026-05-25T12:00:00Z
 draft: false
 tags: [feature, craft]
