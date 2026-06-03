@@ -1,5 +1,5 @@
 ---
-description: "A romantic drama set in London."
+description: "A short romantic drama set in London."
 title: "The Ballet Dancer"
 summary: "A short romantic drama set in London."
 ---
