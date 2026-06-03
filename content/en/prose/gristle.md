@@ -1,6 +1,6 @@
 ---
 title: "Gristle"
-description: "A literary psychological drama about the abrupt dissolution of a marriage through the hyper-sensitive lens of a young boy."
+description: "A novel about the abrupt dissolution of a marriage through the hyper-sensitive lens of a young boy."
 summary: "Set in the mist-shrouded South West of England, a neurodivergent boy navigates the harsh reality of the adult world during a claustrophobic weekend on a country estate."
 ---
 
