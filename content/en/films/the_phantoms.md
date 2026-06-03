@@ -1,5 +1,5 @@
 ---
-description: "A modern dramedy set in London."
+description: "A short modern dramedy set in London."
 title: "The Phantoms"
 summary: "A short modern dramedy set in London."
 ---
