@@ -163,8 +163,12 @@ He makes the silence of the servant sing.
 
 ---
 
+<div class="poem-block">
+
 ### The Complete Poetry Archive
 
 To preserve the intended typesetting, line breaks, and flow of the complete collection, I have compiled my extended poetic works into a freely accessible digital chapbook. 
 
 **<a href="/archives/Charlie-Bury-Collected-Poems.pdf" target="_blank" rel="noopener noreferrer">Download the Complete Poetry Archive (PDF)</a>**
+
+</div>
