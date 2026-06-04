@@ -12,4 +12,17 @@
   .w-two-thirds-l {
     width: 85% !important; 
   }
+
+  /* Center poetry blocks while keeping text left-aligned */
+.poem-block {
+    width: fit-content; /* Shrinks the invisible container to the longest line of the poem */
+    max-width: 100%; 
+    margin: 0 auto; /* Pushes the container to the center of the screen */
+    text-align: left; /* Keeps the actual poem lines left-aligned */
+}
+
+/* Optional: Center the poem titles directly above the left-aligned text */
+.poem-block h3 {
+    text-align: center; 
+    margin-bottom: 1em;
 }

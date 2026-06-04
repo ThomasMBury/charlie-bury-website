@@ -8,6 +8,8 @@ My poetic works explore the fragile boundaries between the sensory depth of the 
 
 ---
 
+<div class="poem-block">
+
 ### LIGHTNING
 
 In a blip, the sorrow courses from every inner stream,<br>
@@ -37,30 +39,36 @@ How beautiful is the stain that spreads through history,<br>
 The blood of the Son that seeps into the crimson wound<br>
 To ever ease the sting.
 
+</div>
+
 ---
+
+<div class="poem-block">
 
 ### THE FIRST STROLL OF SPRING
 
 O spring, thy gentle current fills the air,<br>
 Thy breezes sting no more but whisper fair;<br>
-The birdsong wakes the dawn and holds the hour,[cite: 6]<br>
-As daylight opens outwards like a flower.[cite: 6]<br>
-The winter’s weeping wetland starts to yield,[cite: 6]<br>
-And boots walk freely on the drying field.[cite: 6]
+The birdsong wakes the dawn and holds the hour,<br>
+As daylight opens outwards like a flower.<br>
+The winter’s weeping wetland starts to yield,<br>
+And boots walk freely on the drying field.
 
-I stretch my legs across the open grass,[cite: 6]<br>
-Where newborn lambs against their mothers pass;[cite: 6]<br>
-Just past the village edge, the pathways run[cite: 6]<br>
-Beneath the trees, made taller by the sun.[cite: 6]<br>
-A sudden chill strikes lightly on my brow,[cite: 6]<br>
-Far sweeter than the heat of summer’s vow.[cite: 6]
+I stretch my legs across the open grass,<br>
+Where newborn lambs against their mothers pass;<br>
+Just past the village edge, the pathways run<br>
+Beneath the trees, made taller by the sun.<br>
+A sudden chill strikes lightly on my brow,<br>
+Far sweeter than the heat of summer’s vow.
 
-Yet seasons fade, despite their earthly light;[cite: 6]<br>
-My heart is anchored in the Triune sight,[cite: 6]<br>
-In Him whose flesh was freely given for all,[cite: 6]<br>
-To lift this vast creation from the fall.[cite: 6]<br>
-Like Francis, let me sing the earth’s sweet hymn,[cite: 6]<br>
-And glimpse eternal hope around the field’s green rim.[cite: 6]
+Yet seasons fade, despite their earthly light;<br>
+My heart is anchored in the Triune sight,<br>
+In Him whose flesh was freely given for all,<br>
+To lift this vast creation from the fall.<br>
+Like Francis, let me sing the earth’s sweet hymn,<br>
+And glimpse eternal hope around the field’s green rim.
+
+</div>
 
 ---
 
