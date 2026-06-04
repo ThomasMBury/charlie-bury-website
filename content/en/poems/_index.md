@@ -6,7 +6,7 @@ description: "A curated selection of poetry."
 
 <div class="poem-block">
 
-My poetic works explore the fragile boundaries between the sensory depth of the physical world and the transcendent pull of the divine. Below is a featured selection of recent works. For the complete, unabridged collection, please download the digital chapbook archive at the bottom of this page.
+My poetic works freely expose the fragile spaces between the sensory depth of the physical world and the transcendent pull of the divine. Below is a featured selection of recent works. For the complete, unabridged collection, please download the digital chapbook archive at the bottom of this page.
 
 </div>
 

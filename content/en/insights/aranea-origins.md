@@ -17,6 +17,6 @@ The choice of a primeval spider as the overt monstrous force was, at its core, b
 
 Ultimately, *Aranea* represents a steep, if slightly crooked step towards my overarching aim as a screenwriter. That is, to strike a precise balance between open-ended arthouse observation of life and the robust craft of commercial genre cinema. The goal is always to keep an audience thought-provoked and guessing, whilst firmly adhering to the cinematic tropes – the suspense, the comedy, the sheer horror, and the adventure – that bring us into the dark in the first place.
 
-**[Read more about Aranea Here](/scripts/aranea/)**
+**[Read more about Aranea here](/films/index/)**
 
 ---
