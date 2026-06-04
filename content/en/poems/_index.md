@@ -76,58 +76,68 @@ And glimpse eternal hope around the field’s green rim.
 
 ---
 
+<div class="poem-block">
+
 ### EYELIDS
 
-Beyond the thin Victorian wall,[cite: 6]<br>
-The gore spills from the neighbours’ screen;[cite: 6]<br>
-I hear the victim’s muffled call[cite: 6]<br>
-And imagine every violent scene.[cite: 6]<br>
-A blackbird sounds its evenfall,[cite: 6]<br>
-But cannot pierce the digital pall.[cite: 6]
+Beyond the thin Victorian wall,<br>
+The gore spills from the neighbours’ screen;<br>
+I hear the victim’s muffled call<br>
+And imagine every violent scene.<br>
+A blackbird sounds its evenfall,<br>
+But cannot pierce the digital pall.
 
-The planes, unsleeping, carve the route[cite: 6]<br>
-Through vapour trails of laden grey;[cite: 6]<br>
-The phone emits a piping flute[cite: 6]<br>
-To signal the decay of day.[cite: 6]<br>
-Ding-dong chimes and bleeping tones,[cite: 6]<br>
-The rattle of the electric bones.[cite: 6]
+The planes, unsleeping, carve the route<br>
+Through vapour trails of laden grey;<br>
+The phone emits a piping flute<br>
+To signal the decay of day.<br>
+Ding-dong chimes and bleeping tones,<br>
+The rattle of the electric bones.
 
-The lights hum low, the fridge replies,[cite: 6]<br>
-Or is it the house that breathes the buzz?[cite: 6]<br>
-Through joists and wiring gaps it sighs,[cite: 6]<br>
-A static phantom of what was.[cite: 6]<br>
-The faulty socket in the room,[cite: 6]<br>
-Singing the anthem of the gloom.[cite: 6]
+The lights hum low, the fridge replies,<br>
+Or is it the house that breathes the buzz?<br>
+Through joists and wiring gaps it sighs,<br>
+A static phantom of what was.<br>
+The faulty socket in the room,<br>
+Singing the anthem of the gloom.
 
-I close the lids to shut the sight[cite: 6]<br>
-And see the speckled void take wing;[cite: 6]<br>
-Imagination’s holy light,[cite: 6]<br>
-Where Angels in the darkness spring.[cite: 6]<br>
-They rend the holes in cosmic night,[cite: 6]<br>
-To flood the inner space with white.[cite: 6]
+I close the lids to shut the sight<br>
+And see the speckled void take wing;<br>
+Imagination’s holy light,<br>
+Where Angels in the darkness spring.<br>
+They rend the holes in cosmic night,<br>
+To flood the inner space with white.
+
+</div>
 
 ---
+
+<div class="poem-block">
 
 ### THAT STRANGE ACT OF WRITING 
 
-I do not know what to do with this grief,[cite: 6]<br>
-So I put pen to paper –[cite: 6]<br>
-That strange, ancient act of communicating with oneself,[cite: 6]<br>
-A tether when the mind reels,[cite: 6]<br>
-Drawn in by a sadness not vast, but intense,[cite: 6]<br>
-Specific as a face I can no longer touch.[cite: 6]
+I do not know what to do with this grief,<br>
+So I put pen to paper –<br>
+That strange, ancient act of communicating with oneself,<br>
+A tether when the mind reels,<br>
+Drawn in by a sadness not vast, but intense,<br>
+Specific as a face I can no longer touch.
 
-How fortunate is the one who writes,[cite: 6]<br>
-For when the world offers no distraction[cite: 6]<br>
-And the silence is too loud with absence,[cite: 6]<br>
-The ink becomes a movement, a way to breathe.[cite: 6]<br>
-I have no profound insights to offer the dark,[cite: 6]<br>
-Only the dull ache of a rupture,[cite: 6]<br>
-The mystery of why human bonds must break,[cite: 6]<br>
-Why the narrative ends in destruction[cite: 6]<br>
-When we only wanted the story to last.[cite: 6]
+How fortunate is the one who writes,<br>
+For when the world offers no distraction<br>
+And the silence is too loud with absence,<br>
+The ink becomes a movement, a way to breathe.<br>
+I have no profound insights to offer the dark,<br>
+Only the dull ache of a rupture,<br>
+The mystery of why human bonds must break,<br>
+Why the narrative ends in destruction<br>
+When we only wanted the story to last.
+
+</div>
 
 ---
+
+<div class="poem-block">
 
 ### THE SOUL MAGNIFIED 
 
@@ -148,6 +158,8 @@ From this day forth the generations see[cite: 6]<br>
 Not who I was, but who He is in me;[cite: 6]<br>
 The Mighty One has done a holy thing:[cite: 6]<br>
 He makes the silence of the servant sing.[cite: 6]
+
+</div>
 
 ---
 
