@@ -141,23 +141,23 @@ When we only wanted the story to last.
 
 ### THE SOUL MAGNIFIED 
 
-My soul exalts the Lord, my God, Divine,[cite: 6]<br>
-Not to increase the light that is solely His,[cite: 6]<br>
-But to enlarge this narrow heart of mine,[cite: 6]<br>
-To hold the infinite Metropolis.[cite: 6]<br>
-What is a magnified soul if not a space?[cite: 6]<br>
-A vessel carved by gravity and grace;[cite: 6]<br>
-The ego fades, the boundaries unspin,[cite: 6]<br>
-To let the sudden King of Glory in.[cite: 6]
+My soul exalts the Lord, my God, Divine,<br>
+Not to increase the light that is solely His,<br>
+But to enlarge this narrow heart of mine,<br>
+To hold the infinite Metropolis.<br>
+What is a magnified soul if not a space?<br>
+A vessel carved by gravity and grace;<br>
+The ego fades, the boundaries unspin,<br>
+To let the sudden King of Glory in.
 
-For He has looked upon my low estate,[cite: 6]<br>
-And seen the emptiness that waits for Him;[cite: 6]<br>
-He passes by the wealthy and the great,[cite: 6]<br>
-To fill the cup that teeters on the rim.[cite: 6]<br>
-From this day forth the generations see[cite: 6]<br>
-Not who I was, but who He is in me;[cite: 6]<br>
-The Mighty One has done a holy thing:[cite: 6]<br>
-He makes the silence of the servant sing.[cite: 6]
+For He has looked upon my low estate,<br>
+And seen the emptiness that waits for Him;<br>
+He passes by the wealthy and the great,<br>
+To fill the cup that teeters on the rim.<br>
+From this day forth the generations see<br>
+Not who I was, but who He is in me;<br>
+The Mighty One has done a holy thing:<br>
+He makes the silence of the servant sing.
 
 </div>
 
