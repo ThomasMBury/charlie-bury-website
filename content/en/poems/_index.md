@@ -1,7 +1,7 @@
 ---
 title: "Poems"
 date: 2024-03-02T12:00:00-05:00
-description: "A curated selection of poetry.
+description: "A curated selection of poetry."
 ---
 
 My poetic works explore the fragile boundaries between the sensory depth of the physical world and the transcendent pull of the divine. Below is a featured selection of recent works. For the complete, unabridged collection, please download the digital chapbook archive at the bottom of this page.
