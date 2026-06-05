@@ -12,8 +12,9 @@
   .w-two-thirds-l {
     width: 85% !important; 
   }
+} /* <--- THIS WAS THE MISSING BRACKET */
 
-  /* Center poetry blocks while keeping text left-aligned */
+/* Center poetry blocks while keeping text left-aligned */
 .poem-block {
     width: fit-content; /* Shrinks the invisible container to the longest line of the poem */
     max-width: 100%; 
@@ -26,6 +27,7 @@
     text-align: center; 
     margin-bottom: 1em;
 }
+
 /* Force headings and bold text to pure black in the main content area */
 .nested-copy-line-height h1,
 .nested-copy-line-height h2,
