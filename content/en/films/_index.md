@@ -3,6 +3,8 @@ title: "Films"
 description: "A curated slate of feature film screenplays by Charlie Bury."
 ---
 
+<div class="tl lh-copy f4 measure-wide">
+
 My feature films aim to express the visceral, often violent realities of the human condition, with a specific interest in viewing life through the distinct intersections of neurodivergence and theology. Below is a curated selection of my completed screenplays and projects currently in active development.
 
 ---
@@ -48,5 +50,7 @@ A psychological and theological cinematic retelling of humanity's first murder a
 * **Status:** In Development 
 
 **<a href="mailto:burycharlie@gmail.com?subject=Inquiry: Wildings">Request Treatment</a>**
+
+<div>
 
 ---
