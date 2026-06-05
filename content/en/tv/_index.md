@@ -3,6 +3,8 @@ title: "Television"
 description: "Original television pilots by Charlie Bury."
 ---
 
+<div class="tl lh-copy f4 measure-wide">
+
 My television projects are written as deep-dive, multi-season character narratives, often with a humourous take on fractured communities, moral ambiguity, and the search for grace in life's unforgiving trials. 
 
 ---
@@ -51,5 +53,7 @@ My television projects are written as deep-dive, multi-season character narrativ
 * **Status:** In Development / Treatment Available
 
 **<a href="mailto:burycharlie@gmail.com?subject=Inquiry: Catechumens">Request Treatment</a>**
+
+<div>
 
 ---

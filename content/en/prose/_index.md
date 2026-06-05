@@ -18,7 +18,7 @@ Like all literary fiction, my prose seeks to understand the universal human cond
 * **Format:** Literary Fiction / Drama
 * **Status:** In Development 
 
-**<a href="/extracts/Gristle-Chapter-One-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read the Opening Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Manuscript Request: Gristle">Request Full Manuscript</a>**
+**<a href="/extracts/Gristle-Chapter-One-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read the Opening Extract (PDF)</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Manuscript Request: Gristle">Request Full Manuscript</a>**
 
 ---
 
