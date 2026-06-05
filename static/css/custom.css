@@ -26,3 +26,12 @@
     text-align: center; 
     margin-bottom: 1em;
 }
+/* Force headings and bold text to pure black in the main content area */
+.nested-copy-line-height h1,
+.nested-copy-line-height h2,
+.nested-copy-line-height h3,
+.nested-copy-line-height h4,
+.nested-copy-line-height strong,
+.nested-copy-line-height b {
+    color: #000000 !important;
+}
