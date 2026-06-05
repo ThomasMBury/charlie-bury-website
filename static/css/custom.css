@@ -28,12 +28,18 @@
     margin-bottom: 1em;
 }
 
-/* Force headings and bold text to pure black in the main content area */
-.nested-copy-line-height h1,
-.nested-copy-line-height h2,
-.nested-copy-line-height h3,
-.nested-copy-line-height h4,
-.nested-copy-line-height strong,
-.nested-copy-line-height b {
+/* Override Ananke's centered, italic defaults for _index.md pages */
+main .measure-wide.italic.tc {
+    text-align: left !important;
+    font-style: normal !important;
+}
+
+/* Force all headings and bold text inside the main content area to pure black */
+main h1, 
+main h2, 
+main h3, 
+main h4, 
+main strong, 
+main b {
     color: #000000 !important;
 }
