@@ -28,7 +28,7 @@ My television projects are written as deep-dive, multi-season character narrativ
 * **Format:** 45-Minute Comedy Series
 * **Status:** Pilot Script Available
 
-**<a href="/scripts/Bellboy-Pilot-Extract.pdf" target="_blank" rel="noopener noreferrer">Read Pilot Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Script Request: Bellboy Pilot">Request Full Pilot</a>**
+**<a href="/scripts/Bellboy-Pilot-Extract-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read Pilot Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Script Request: Bellboy Pilot">Request Full Pilot</a>**
 
 ---
 
@@ -39,7 +39,7 @@ My television projects are written as deep-dive, multi-season character narrativ
 * **Format:** 25-Minute Comedy-drama Series
 * **Status:** Pilot Script Available
 
-**<a href="/scripts/Queens-Pilot-Extract.pdf" target="_blank" rel="noopener noreferrer">Read Pilot Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Script Request: Queens Pilot">Request Full Pilot</a>**
+**<a href="/scripts/Queens-Pilot-Extract-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read Pilot Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Script Request: Queens Pilot">Request Full Pilot</a>**
 
 ---
 
