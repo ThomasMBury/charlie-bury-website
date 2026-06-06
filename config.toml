@@ -34,6 +34,7 @@ enableRobotsTXT = true
   commentoEnable = false
   mainSections = []
   custom_css = ["css/custom.css"]
+  date_format = "2 January 2006"
 
 [[params.ananke_socials]]
 name = "linkedin"
