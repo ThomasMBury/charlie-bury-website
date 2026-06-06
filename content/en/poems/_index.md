@@ -6,7 +6,7 @@ description: "A curated selection of poetry."
 
 <div class="poem-block">
 
-My poetic works freely expose the fragile spaces between the sensory depth of the physical world and the transcendent pull of the divine. Below is a featured selection of recent works. For the complete, unabridged collection, please download the digital chapbook archive at the bottom of this page.
+My poetic works freely expose the fragile spaces between the sensory depth of the physical world and the transcendent pull of the divine. Below is a featured selection of recent works. For the unabridged collection, please download the digital archive at the bottom of this page.
 
 </div>
 
@@ -78,6 +78,31 @@ And glimpse eternal hope around the field’s green rim.
 
 <div class="poem-block">
 
+### THAT STRANGE ACT OF WRITING 
+
+I do not know what to do with this grief,<br>
+So I put pen to paper –<br>
+That strange, ancient act of communicating with oneself,<br>
+A tether when the mind reels,<br>
+Drawn in by a sadness not vast, but intense,<br>
+Specific as a face I can no longer touch.
+
+How fortunate is the one who writes,<br>
+For when the world offers no distraction<br>
+And the silence is too loud with absence,<br>
+The ink becomes a movement, a way to breathe.<br>
+I have no profound insights to offer the dark,<br>
+Only the dull ache of a rupture,<br>
+The mystery of why human bonds must break,<br>
+Why the narrative ends in destruction<br>
+When we only wanted the story to last.
+
+</div>
+
+---
+
+<div class="poem-block">
+
 ### EYELIDS
 
 Beyond the thin Victorian wall,<br>
@@ -114,31 +139,6 @@ To flood the inner space with white.
 
 <div class="poem-block">
 
-### THAT STRANGE ACT OF WRITING 
-
-I do not know what to do with this grief,<br>
-So I put pen to paper –<br>
-That strange, ancient act of communicating with oneself,<br>
-A tether when the mind reels,<br>
-Drawn in by a sadness not vast, but intense,<br>
-Specific as a face I can no longer touch.
-
-How fortunate is the one who writes,<br>
-For when the world offers no distraction<br>
-And the silence is too loud with absence,<br>
-The ink becomes a movement, a way to breathe.<br>
-I have no profound insights to offer the dark,<br>
-Only the dull ache of a rupture,<br>
-The mystery of why human bonds must break,<br>
-Why the narrative ends in destruction<br>
-When we only wanted the story to last.
-
-</div>
-
----
-
-<div class="poem-block">
-
 ### THE SOUL MAGNIFIED 
 
 My soul exalts the Lord, my God, Divine,<br>
@@ -165,10 +165,10 @@ He makes the silence of the servant sing.
 
 <div class="poem-block">
 
-### The Complete Poetry Archive
+### The Poetry Archive
 
-To preserve the intended typesetting, line breaks, and flow of the complete collection, I have compiled my extended poetic works into a freely accessible digital chapbook. 
+To preserve the intended typesetting, line breaks, and flow of my poetry, I have compiled a collection of poetic works into a freely accessible e-book. 
 
-**<a href="/archives/Charlie-Bury-Collected-Poems.pdf" target="_blank" rel="noopener noreferrer">Download the Complete Poetry Archive (PDF)</a>**
+**<a href="/archives/Charlie-Bury-Collected-Poems.pdf" target="_blank" rel="noopener noreferrer">Download the Poetry Archive (PDF)</a>**
 
 </div>

@@ -34,7 +34,7 @@ Like all literary fiction, my prose seeks to understand the universal human cond
 ### The Short Story Folio
 A curated archive of additional short fiction. All stories are available to read and download as typeset PDFs.
 
-*   **Christ, My Ex, And I** — *[Logline]* <a href="/prose/Christ-My-Ex-And-I.pdf" target="_blank" rel="noopener noreferrer">**Read**</a>
+*   **Christ, My Ex, And I** — *[Logline]* <a href="/prose/Christ-My-Ex-And-I-Short-Story-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">**Read**</a>
 
 <div>
 
