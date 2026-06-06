@@ -25,7 +25,7 @@ Like all literary fiction, my prose seeks to understand the universal human cond
 ## Short Fiction
 
 ### Lodged (Featured Short)
-> *[Logline]*
+> *Convinced his five-year-old son's eccentricities are signs of a dark spiritual lodging, a devout father and an overzealous priest attempt a mild, suburban exorcism, colliding with his wife's pragmatism.*
 
 **<a href="/prose/Lodged-Short-Story-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read the Story (PDF)</a>**
 
@@ -34,7 +34,7 @@ Like all literary fiction, my prose seeks to understand the universal human cond
 ### The Short Story Folio
 A curated archive of additional short fiction. All stories are available to read and download as typeset PDFs.
 
-*   **Christ, My Ex, And I** — *[Logline]* <a href="/prose/Christ-My-Ex-And-I-Short-Story-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">**Read**</a>
+*   **Christ, My Ex, And I** — *When an existential awakening disrupts his domestic routine, a restless man makes the choice to abandon worldly love and answer a calling to the monastery.* <a href="/prose/Christ-My-Ex-And-I-Short-Story-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">**Read**</a>
 
 <div>
 
