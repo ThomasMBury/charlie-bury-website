@@ -34,7 +34,7 @@ Like all literary fiction, my prose seeks to understand the universal human cond
 ### The Short Story Folio
 A curated archive of additional short fiction. All stories are available to read and download as typeset PDFs.
 
-*   **Christ, My Ex, And I** — *When an existential awakening disrupts his domestic routine, a restless man makes the choice to abandon worldly love and answer a calling to the monastery.* <a href="/prose/Christ-My-Ex-And-I-Short-Story-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">**Read**</a>
+*   **Christ, My Ex, And I** — *When a spiritual awakening disrupts his domestic routine, a man makes the choice to abandon worldly love and answer a calling to the monastery.* <a href="/prose/Christ-My-Ex-And-I-Short-Story-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">**Read**</a>
 
 <div>
 
