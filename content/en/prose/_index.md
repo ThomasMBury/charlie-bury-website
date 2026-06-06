@@ -27,14 +27,14 @@ Like all literary fiction, my prose seeks to understand the universal human cond
 ### Lodged (Featured Short)
 > *[Logline]*
 
-**<a href="/extracts/Lodged-Short-Story-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read the Story (PDF)</a>**
+**<a href="/prose/Lodged-Short-Story-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read the Story (PDF)</a>**
 
 <br>
 
 ### The Short Story Folio
 A curated archive of additional short fiction. All stories are available to read and download as typeset PDFs.
 
-*   **Christ, My Ex, And I** — *[Logline]* <a href="/extracts/Christ-My-Ex-And-I.pdf" target="_blank" rel="noopener noreferrer">**Read**</a>
+*   **Christ, My Ex, And I** — *[Logline]* <a href="/prose/Christ-My-Ex-And-I.pdf" target="_blank" rel="noopener noreferrer">**Read**</a>
 
 <div>
 
