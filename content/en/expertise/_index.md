@@ -25,11 +25,11 @@ Drawing upon a decade of experience within international sales, acquisitions, an
 * **Internal Acquisitions:** Evaluated high-value intellectual property for global sales & distribution at Bankside Films during a three-year tenure.
 
 **Produced Films / Development History:**
-* *The Return Of Stanley Atwell* – [Hera Pictures, Protagonist Pictures]
-* *Die By Night* (2026) – [Witchcraft Motion Picture Company, Protagonist Pictures]
-* *A Gaza Weekend* (2022)) – [Alcove Ent., BFI, Film4]
-* *Hope Gap* (2019) – [Origin Pictures, Protagonist Pictures]
-* *Ordinary Love* (2019) – [Out of Orbit, Bankside Films, BFI]
+* *The Return Of Stanley Atwell* (2026) – Hera Pictures, Protagonist Pictures
+* *Die By Night* (2026) – Witchcraft Motion Picture Company, Protagonist Pictures
+* *A Gaza Weekend* (2022) – Alcove Ent., BFI, Film4
+* *Hope Gap* (2019) – Origin Pictures, Protagonist Pictures
+* *Ordinary Love* (2019) – Out of Orbit, Bankside Films, BFI
 
 ---
 
