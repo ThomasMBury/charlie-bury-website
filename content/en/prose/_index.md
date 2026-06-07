@@ -1,12 +1,12 @@
 ---
 title: "Prose"
 date: 2024-03-02T12:00:00-05:00
-description: "An archive of Charlie Bury's literary fiction, featuring his debut novel extract and a short story folio."
+description: "An archive of Charlie Bury's prose writing, featuring his debut novel extract and a short story folio."
 ---
 
 <div class="tl lh-copy f4 measure-wide">
 
-Like all literary fiction, my prose seeks to understand the universal human condition. Yet its approach is distinctly my own: viewing the visceral, often violent realities of the adult world through highly attuned neurodivergent and theological lenses.
+Like arguably all literary fiction, my prose seeks to understand the universal human condition. Yet its approach is distinctly my own: viewing the visceral, often violent realities of the adult world through highly attuned neurodivergent and theological lenses.
 
 ---
 
