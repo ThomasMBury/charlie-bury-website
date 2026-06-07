@@ -10,15 +10,25 @@ Like all literary fiction, my prose seeks to understand the universal human cond
 
 ---
 
-## Long-Form Fiction
+## Novels
 
-### Gristle (Novel)
+### Gristle
 > *Exiled to his uncle’s sprawling country estate in the winter of 2004, an obsessively observant, neurodivergent boy adopts a silent rigour to survive the psychological warfare of his parents' decaying marriage. But as a grotesque weekend of pheasant shooting and heavy drinking escalates, the fragile boundaries of his sensory and spiritual world are violently ruptured.*
 
 * **Format:** Literary Fiction / Drama
 * **Status:** In Development 
 
 **<a href="/prose/Gristle-Chapter-One-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read the Opening Extract (PDF)</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Manuscript Request: Gristle">Request Full Manuscript</a>**
+
+<br>
+
+### In Development
+
+#### Becket
+> *Narrated from the precipice of his own martyrdom, a lowly administrator transformed by providence into the Archbishop of Canterbury must wage a solitary, spiritual war against the bombastic might of King Henry II and a corrupted Church.*
+
+* **Format:** Literary Historical Fiction
+* **Status:** Drafting Phase
 
 ---
 

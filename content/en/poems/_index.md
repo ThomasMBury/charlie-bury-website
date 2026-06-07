@@ -1,7 +1,7 @@
 ---
 title: "Poems"
 date: 2024-03-02T12:00:00-05:00
-description: "A curated selection of poetry."
+description: "A curated selection of poetry by Charlie Bury."
 ---
 
 <div class="poem-block">
