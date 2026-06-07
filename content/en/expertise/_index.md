@@ -47,10 +47,10 @@ Drawing upon a decade of experience within international sales, acquisitions, an
 
 ---
 
-<h3 class="f3 mt5 mb3">Sample Coverage Excerpt</h3>
+<h3 class="f3 mt5 mb3 tl">Sample Coverage Excerpt</h3>
 
-<div class="pa4 ba b--black-10 bg-near-white">
-  <p class="f6 i gray mt0 mb4">*Note: The following coverage extract has been heavily redacted to protect the intellectual property of the writer and the strategic development of the attached producers.*</p>
+<div class="pa4 ba b--black-10 bg-near-white tl">  
+<p class="f6 i gray mt0 mb4">*Note: The following coverage extract has been heavily redacted to protect the intellectual property of the writer and the strategic development of the attached producers.*</p>
 
   <ul class="list pl0 f5 lh-copy mb4">
     <li><strong>Project:</strong> [REDACTED]</li>
