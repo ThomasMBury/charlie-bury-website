@@ -6,7 +6,7 @@ description: "A curated selection of poetry."
 
 <div class="poem-block">
 
-My poetic works freely expose the fragile spaces between the sensory depth of the physical world and the transcendent pull of the divine. Below is a featured selection of recent works. For the unabridged collection, please download the digital archive at the bottom of this page.
+My poetic works freely expose the fragile spaces between the sensory depth of the physical world and the transcendent pull of the divine. Below is a featured selection of recent works. For more poems, please download the digital archive at the bottom of this page.
 
 </div>
 
@@ -165,10 +165,10 @@ He makes the silence of the servant sing.
 
 <div class="poem-block">
 
-### The Poetry Archive
+### Selected Poems: A Digital Chapbook
 
-To preserve the intended typesetting, line breaks, and flow of my poetry, I have compiled a collection of poetic works into a freely accessible e-book. 
+Although I am currently holding my full, unabridged poetry collection in reserve for future representation and publication, I have compiled a freely accessible curated folio of poetic works below. 
 
-**<a href="/archives/Charlie-Bury-Collected-Poems.pdf" target="_blank" rel="noopener noreferrer">Download the Poetry Archive (PDF)</a>**
+**<a href="/archives/Charlie-Bury-Selected-Poems.pdf" target="_blank" rel="noopener noreferrer">Download the Chapbook (PDF)</a>**
 
 </div>
