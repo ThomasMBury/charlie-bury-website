@@ -44,7 +44,7 @@ Like arguably all literary fiction, my prose seeks to understand the universal h
 <br>
 
 ### The Short Story Folio
-A curated archive of additional short fiction. All stories are available to read and download as typeset PDFs.
+A curated archive of short fiction. All stories are available to read and download as typeset PDFs.
 
 *   **She's Not The One, Neither Is She** — *A wry exploration of modern dating where an awkward young bachelor realises the greatest romance of his life is simply settling for himself.* <a href="/prose/Shes-Not-The-One-Neither-Is-She-Short-Story-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">**Read**</a>
 
