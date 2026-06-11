@@ -5,7 +5,7 @@ cascade:
   featured_image: '/images/Space-header.jpg'
 ---
 
-My work across screenwriting, prose, and poetry seeks to express an understanding of the world through a neurodivergent observation and theological lens of inquiry.  
+My work across screenwriting, prose, and poetry seeks to express an understanding of the world through a neurodivergent and theological lens.  
 
 I create stories that illuminate the human experience in its fractured complexity, grounding abstract concerns in visceral, observational detail. Whether for the screen or the page, my focus is on the clarity of structure and the resonance of the human condition.
 
