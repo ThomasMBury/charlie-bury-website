@@ -27,12 +27,6 @@ I am available for new writing commissions and script consultancy.
 
 ---
 
-*For script requests, or to discuss collaboration, please reach out via email:*
-
-**[burycharlie@gmail.com](mailto:burycharlie@gmail.com)**
-
----
-
 <div class="tc mt5">
   <p class="f5 i">Be the first to hear about project news & script updates.</p>
   <form action="https://buttondown.com/api/emails/embed-subscribe/charliebury" method="post" class="mt3">
