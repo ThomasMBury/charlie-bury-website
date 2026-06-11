@@ -15,7 +15,7 @@ My screenwriting explores the visceral, often violent realities of the human con
 * **Format:** Television Pilot (30-Minute Comedy / Drama)
 * **Status:** Optioned / Shopping Agreement Attached
 * **Producer:** Michael Graf (On The Hill Pictures)
-* **Exectuve Producer:** Esther Springer
+* **Executive Producer:** Esther Springer
 
 **<a href="mailto:onthehillpictures@gmail.com?subject=Inquiry regarding Late Diagnosis">Contact the Producer</a>**
 
