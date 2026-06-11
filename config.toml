@@ -51,41 +51,21 @@ url = "https://www.linkedin.com/in/charliebury"
       unsafe = true
 
 [[menu.main]]
-  name = "Films"
-  pageRef = "/films"
+  name = "Film & TV"
+  url = "/film-tv/"
   weight = 10
 
 [[menu.main]]
-  name = "TV"
-  pageRef = "/tv"
+  name = "Fiction & Poetry"
+  url = "/fiction-poetry/"
   weight = 20
 
 [[menu.main]]
-  name = "Shorts"
-  pageRef = "/shorts"
+  name = "Script Consulting"
+  url = "/consulting/"
   weight = 30
-
-[[menu.main]]
-  name = "Prose"
-  pageRef = "/prose"
-  weight = 40
-
-[[menu.main]]
-  name = "Poems"
-  pageRef = "/poems"
-  weight = 50
-
-[[menu.main]]
-  name = "Blog"
-  pageRef = "/blog"
-  weight = 60
-
-[[menu.main]]
-  name = "Expertise"
-  pageRef = "/expertise"
-  weight = 70
 
 [[menu.main]]
   name = "Contact"
   pageRef = "/contact"
-  weight = 80
+  weight = 40
