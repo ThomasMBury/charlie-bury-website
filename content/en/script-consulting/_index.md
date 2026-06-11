@@ -1,5 +1,5 @@
 ---
-title: "Script Consultancy"
+title: "Script Consulting"
 description: "Detailed story analysis and development for independent producers, writers, and directors."
 tags: [industry]
 ---

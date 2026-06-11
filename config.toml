@@ -62,7 +62,7 @@ url = "https://www.linkedin.com/in/charliebury"
 
 [[menu.main]]
   name = "Script Consulting"
-  url = "/consulting/"
+  url = "/script-consulting/"
   weight = 30
 
 [[menu.main]]
