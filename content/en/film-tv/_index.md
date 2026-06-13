@@ -1,9 +1,9 @@
 ---
 title: "Film & TV"
-description: "A selection of Charlie Bury's screenplays and television pilots."
+description: "A curated selection of Charlie Bury's screenplays and television pilots."
 ---
 
-My screenwriting explores the visceral, often violent realities of the human condition, viewed through the distinct intersections of neurodivergence and theology. Below is a curation of my active slate, including projects currently under option and completed screenplays available for representation.
+My screenwriting aims to express in a visceral, cinematic way the human condition in all its complexity, and specifically as viewed through a neurodivergent and theological lens. Below is my active slate, including projects currently under option and completed screenplays available for representation.
 
 ---
 
@@ -27,7 +27,7 @@ My screenwriting explores the visceral, often violent realities of the human con
 * **Format:** Feature Film / Historical Epic
 * **Status:** Available
 
-**<a href="/scripts/Cain-Extract-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read 10-Page Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Script Request: Cain">Request Full Screenplay</a>**
+**<a href="/scripts/Cain-Extract-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read 10-Page Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Script Request: Cain">Request Pitch Deck & Full Screenplay</a>**
 
 <br>
 
@@ -58,16 +58,6 @@ My screenwriting explores the visceral, often violent realities of the human con
 * **Status:** Available
 
 **<a href="/scripts/Queens-Pilot-Extract-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read Pilot Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Script Request: Queens Pilot">Request Full Pilot</a>**
-
-<br>
-
-### Wildlings
-> *Uprooted to a bleak country village following her parents' bitter divorce, a cynical teenager finds an intoxicating escape in a chaotic, animalistic romance with a local rebel. Together, they must realise the complex nature of their new reality before their repressed traumas tear them apart.*
-
-* **Format:** Feature Film / Coming-of-Age Drama
-* **Status:** Available 
-
-**<a href="/scripts/Wildlings-Extract-Charlie-Bury.pdf" target="_blank" rel="noopener noreferrer">Read 10-Page Extract</a>** &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; **<a href="mailto:burycharlie@gmail.com?subject=Script Request: Wildlings">Request Full Screenplay</a>**
 
 ---
 
