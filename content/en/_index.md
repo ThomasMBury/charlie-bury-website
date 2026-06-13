@@ -5,9 +5,7 @@ cascade:
   featured_image: '/images/Space-header.jpg'
 ---
 
-My work across screenwriting, prose, and poetry primarily seeks to express an understanding of the world through a neurodivergent and theological lens.  
-
-I create stories that illuminate the human experience in its fractured complexity, grounding abstract concerns in visceral, observational detail. Whether for the screen or the page, my focus is on the clarity of structure and the resonance of the human condition.
+My screenwriting seeks to illuminate the human experience in all its complexity and emotion, grounding abstract concerns in visceral cinematic detail and structure. And to share an understanding of the world primarily through a neurodivergent and theological lens.
 
 I am available for new writing commissions and script consultancy.
 
@@ -20,8 +18,6 @@ I am available for new writing commissions and script consultancy.
 ### Portfolio & Inquiries
 
 **[View Film & TV Projects](/film-tv/)**
-
-**[View Fiction & Poetry Archive](/fiction-poetry/)**
 
 **[Script Consulting & Expertise](/script-consulting/)**
 

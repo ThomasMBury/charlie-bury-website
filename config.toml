@@ -56,16 +56,11 @@ url = "https://www.linkedin.com/in/charliebury"
   weight = 10
 
 [[menu.main]]
-  name = "Fiction & Poetry"
-  url = "/fiction-poetry/"
-  weight = 20
-
-[[menu.main]]
   name = "Script Consulting"
   url = "/script-consulting/"
-  weight = 30
+  weight = 20
 
 [[menu.main]]
   name = "Contact"
   pageRef = "/contact"
-  weight = 40
+  weight = 30
