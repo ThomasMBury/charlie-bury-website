@@ -5,7 +5,7 @@ featured_image: ""
 omit_header_text: true
 ---
 
-## Charlie Bury. Screenwriter & Author. 
+## Screenwriter & Author. 
 
 Illuminating the human experience through a neurodivergent and theological lens, grounded in visceral cinematic detail & structure.
 
