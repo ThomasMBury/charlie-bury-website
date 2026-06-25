@@ -4,6 +4,8 @@ featured_image: ""
 omit_header_text: true
 ---
 
+<div class="portfolio-content">
+
 A collection of short fiction and verse.
 
 ---
@@ -12,5 +14,7 @@ A collection of short fiction and verse.
 *Short Story | Literary Fiction*  
 
 A wry exploration of modern dating where an awkward young bachelor realises the greatest romance of his life is simply settling for himself.  
+
+<div>
 
 ---
