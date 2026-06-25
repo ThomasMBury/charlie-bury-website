@@ -1,6 +1,6 @@
 title = "Charlie Bury"
-baseURL = "https://charliebury.netlify.app/"
-languageCode = "en-uk"
+baseURL = "https://www.charliebury.com/"
+languageCode = "en-gb"
 theme = ["ananke"]
 resourceDir = "themes/ananke/resources"
 
@@ -23,13 +23,13 @@ enableRobotsTXT = true
 
 [params]
   disable_share = true
-  text_color = "dary-gray"
+  text_color = "dark-gray"
   author = ""
   favicon = ""
   site_logo = ""
-  description = "Charlie Bury"
+  description = "Charlie Bury | Screenwriter & Author"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-white"
   recent_posts_number = 3
   commentoEnable = false
   mainSections = []
@@ -74,4 +74,5 @@ url = "https://www.linkedin.com/in/charliebury"
 [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 50
+  weight = 50 
+
