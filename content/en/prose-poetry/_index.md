@@ -19,7 +19,23 @@ A wry exploration of modern dating where an awkward young bachelor realises the 
 
 ### [Virgin In The Meadow](/prose-poetry/virgin-in-the-meadow-poem/)
 *Poetry*  
+
 A vision. 
+
+### [Lightning](/prose-poetry/lightning-poem/)
+*Poetry*  
+
+Faith's intensity. 
+
+### [That Strange Act Of Writing](/prose-poetry/that-strange-act-of-writing-poem/)
+*Poetry*  
+
+An introspection. 
+
+### [Night](/prose-poetry/night-poem/)
+*Poetry*  
+
+In the stillness. 
 
 <div>
 
