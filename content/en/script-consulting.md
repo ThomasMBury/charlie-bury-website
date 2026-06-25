@@ -12,7 +12,7 @@ My approach is grounded in visceral cinematic structure and rigorous thematic ex
 
 <blockquote style="font-size: 1.25rem; font-style: italic; border-left: 4px solid #8B0000; padding-left: 1.2rem; margin: 2.5rem 0; color: #1a1a1a; line-height: 1.6;">
 "Charlie’s notes are incredibly sharp. He identified structural flaws I couldn't see and provided brilliant, practical solutions that completely unlocked my second act. An indispensable asset to any writer."
-<br><br><span style="font-size: 0.85rem; font-style: normal; font-weight: bold; text-transform: uppercase; color: #333333;">— [Name of Person], [Their Title/Role, e.g., Award-Winning Screenwriter]</span>
+<br><br><span style="font-size: 0.85rem; font-style: normal; font-weight: bold; text-transform: uppercase; color: #333333;">— Jacob Thomas, Award-Winning Feature Film Producer]</span>
 </blockquote>
 
 
