@@ -27,6 +27,7 @@ As survival outside Eden fractures the first family, a desperate farmer tormente
 ---
 
 *Available for new writing commissions and script consultancy.*  
+
 *[Learn about Script Consulting](/script-consulting/)*
 
 ---
