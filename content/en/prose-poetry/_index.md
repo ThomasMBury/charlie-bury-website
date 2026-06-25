@@ -4,6 +4,14 @@ featured_image: ""
 omit_header_text: true
 ---
 
+<style>
+  /* This completely removes the Ananke header banner ONLY on this specific page */
+  header .tc-l.pv3.pv4-l, 
+  header h1.f-subheadline-l {
+      display: none !important;
+  }
+</style>
+
 <div class="portfolio-content">
 
 A collection of short fiction and verse.
