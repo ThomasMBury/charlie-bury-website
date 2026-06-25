@@ -1,6 +1,6 @@
 ---
-title: "Film & TV"
-description: "A curated selection of Charlie Bury's screenplays and television pilots."
+title: "Screenplays"
+description: "A curated selection of Charlie Bury's feature film screenplays and television pilots."
 ---
 
 My screenwriting aims to express in a visceral, cinematic way the human condition in all its complexity, and specifically as viewed through a neurodivergent and theological lens. Below is my active slate, including projects currently under option and completed screenplays available for representation.

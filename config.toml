@@ -51,8 +51,8 @@ url = "https://www.linkedin.com/in/charliebury"
       unsafe = true
 
 [[menu.main]]
-  name = "Film & TV"
-  url = "/film-tv/"
+  name = "Screenplays"
+  url = "/screenplays/"
   weight = 10
 
 [[menu.main]]
