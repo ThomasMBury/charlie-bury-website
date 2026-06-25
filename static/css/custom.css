@@ -1,31 +1,41 @@
-/* Widen paragraphs and lists on desktop screens */
-@media screen and (min-width: 60em) {
-  .nested-copy-line-height p,
-  .nested-copy-line-height ul,
-  .nested-copy-line-height ol,
-  .nested-copy-line-height blockquote {
-    max-width: 45em !important; /* Increases width from the 30em default */
-  }
+/* =========================================
+   1. FONTS & IMPORTS (MUST BE AT THE TOP)
+========================================= */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap');
 
-  /* Ananke often restricts the main content area to 66% width. 
-     This widens the container itself to 85% */
-  .w-two-thirds-l {
-    width: 85% !important; 
-  }
-} /* <--- THIS WAS THE MISSING BRACKET */
 
-/* Center poetry blocks while keeping text left-aligned */
-.poem-block {
-    width: fit-content; /* Shrinks the invisible container to the longest line of the poem */
-    max-width: 100%; 
-    margin: 0 auto; /* Pushes the container to the center of the screen */
-    text-align: left; /* Keeps the actual poem lines left-aligned */
+/* =========================================
+   2. GLOBAL ANANKE OVERRIDES (COLORS & WIDTHS)
+========================================= */
+
+/* Override Ananke's default header/footer background colors */
+.bg-black {
+    background-color: #1a1a1a !important; /* A softer, premium off-black */
 }
 
-/* Optional: Center the poem titles directly above the left-aligned text */
-.poem-block h3 {
-    text-align: center; 
-    margin-bottom: 1em;
+/* Hide the Ananke site title block background if it defaults to a color */
+.bg-primary-color-dark {
+    background-color: #ffffff !important;
+}
+
+/* Set global text color to off-black to reduce eye strain */
+body {
+    color: #333333;
+}
+
+/* Force all headings and bold text inside the main content area to pure black */
+main h1, main h2, main h3, main h4, main strong, main b {
+    color: #000000 !important;
+}
+
+/* Standard text links - make them subtle but distinct */
+a.link {
+    color: #1a1a1a;
+    transition: color 0.2s ease-in-out;
+}
+
+a.link:hover {
+    color: #8B0000 !important; /* Deep oxblood red accent on hover */
 }
 
 /* Override Ananke's centered, italic defaults for _index.md pages */
@@ -34,15 +44,6 @@ main .measure-wide.italic.tc {
     font-style: normal !important;
 }
 
-/* Force all headings and bold text inside the main content area to pure black */
-main h1, 
-main h2, 
-main h3, 
-main h4, 
-main strong, 
-main b {
-    color: #000000 !important;
-}
 /* Force left-alignment on all List Pages and normal pages */
 .nested-copy-line-height p,
 .nested-copy-line-height ul,
@@ -51,14 +52,11 @@ main b {
 .nested-copy-line-height h1,
 .nested-copy-line-height h2,
 .nested-copy-line-height h3,
-.nested-copy-line-height h4 {
-    text-align: left !important;
-}
-
-/* Override Ananke's default center alignment for headers on list pages */
+.nested-copy-line-height h4,
 .measure-wide {
     text-align: left !important;
 }
+
 /* Widen paragraphs and lists on desktop screens */
 @media screen and (min-width: 60em) {
   .nested-copy-line-height p,
@@ -73,35 +71,10 @@ main b {
     width: 85% !important; 
   }
 }
-/* Override Ananke's default header/footer background colors */
-.bg-black {
-    background-color: #1a1a1a !important; /* A softer, premium off-black */
-}
 
-/* Set global text color to off-black to reduce eye strain */
-body {
-    color: #333333;
-}
-
-/* Standard text links - make them subtle but distinct */
-a.link {
-    color: #1a1a1a;
-    transition: color 0.2s ease-in-out;
-}
-
-a.link:hover {
-    color: #8B0000 !important; /* Deep oxblood red accent on hover */
-}
-
-/* Hide the Ananke site title block background if it defaults to a color */
-.bg-primary-color-dark {
-    background-color: #ffffff !important;
-}
-/* Import Google Fonts for Editorial Look */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap');
 
 /* =========================================
-   NYT EDITORIAL LAYOUT FOR PROSE
+   3. EDITORIAL PROSE & POETRY LAYOUTS
 ========================================= */
 
 .prose-content {
@@ -126,10 +99,6 @@ a.link:hover {
     color: #1a1a1a;
 }
 
-/* =========================================
-   ELEGANT LAYOUT FOR POETRY
-========================================= */
-
 .poetry-content {
     font-family: 'Lora', Georgia, serif;
     font-style: italic;
@@ -140,8 +109,24 @@ a.link:hover {
     margin: 0 auto;
     padding: 2rem 1rem;
 }
+
+/* Center poetry blocks while keeping text left-aligned */
+.poem-block {
+    width: fit-content; /* Shrinks the invisible container to the longest line of the poem */
+    max-width: 100%; 
+    margin: 0 auto; /* Pushes the container to the center of the screen */
+    text-align: left; /* Keeps the actual poem lines left-aligned */
+}
+
+/* Optional: Center the poem titles directly above the left-aligned text */
+.poem-block h3 {
+    text-align: center; 
+    margin-bottom: 1em;
+}
+
+
 /* =========================================
-   EDITORIAL PORTFOLIO HUB LAYOUT
+   4. EDITORIAL PORTFOLIO HUB LAYOUT
 ========================================= */
 
 .portfolio-content {
