@@ -73,3 +73,27 @@ main b {
     width: 85% !important; 
   }
 }
+/* Override Ananke's default header/footer background colors */
+.bg-black {
+    background-color: #1a1a1a !important; /* A softer, premium off-black */
+}
+
+/* Set global text color to off-black to reduce eye strain */
+body {
+    color: #333333;
+}
+
+/* Standard text links - make them subtle but distinct */
+a.link {
+    color: #1a1a1a;
+    transition: color 0.2s ease-in-out;
+}
+
+a.link:hover {
+    color: #8B0000 !important; /* Deep oxblood red accent on hover */
+}
+
+/* Hide the Ananke site title block background if it defaults to a color */
+.bg-primary-color-dark {
+    background-color: #ffffff !important;
+}

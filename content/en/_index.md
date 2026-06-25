@@ -1,5 +1,5 @@
 ---
-title: "Charlie Bury | Screenwriter & Author"
+title: ""
 # Leave featured_image blank to kill the massive header banner
 featured_image: ""
 omit_header_text: true

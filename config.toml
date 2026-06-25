@@ -35,6 +35,7 @@ enableRobotsTXT = true
   mainSections = []
   custom_css = ["css/custom.css"]
   date_format = "2 January 2006"
+  show_reading_time = false
 
 [[params.ananke_socials]]
 name = "linkedin"
