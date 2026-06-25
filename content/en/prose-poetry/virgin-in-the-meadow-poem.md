@@ -1,5 +1,5 @@
 ---
-title: "Virgin in the Meadow"
+title: "Virgin In The Meadow"
 featured_image: ""
 omit_header_text: true
 ---
