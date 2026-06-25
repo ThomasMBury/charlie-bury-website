@@ -4,7 +4,7 @@ description: "Detailed story analysis and development for independent producers,
 tags: [industry]
 ---
 
-<div class="tl lh-copy f4 measure-wide">
+<div class="portfolio-content">
 
 Drawing upon a decade of experience within international sales, acquisitions, and development (including work at Bankside Films, Protagonist Pictures, and ITV), my consultancy is rooted in absolute story and market objectivity. I do not impose a personal voice onto a client's script, but analyse its existing structure, character, and themes to ensure maximum narrative potential and market viability, with clear adherence to genre boundaries. 
 
@@ -71,4 +71,7 @@ Drawing upon a decade of experience within international sales, acquisitions, an
   <p class="f5 lh-copy measure-wide mb3">The producing team, with their established track record, is a significant boon to the package. Furthermore, the attachment of [REDACTED - ESTABLISHED A-LIST ACTOR] would elevate the project's marketability significantly. With a career spanning decades, they remain a recognisable and bankable star. Adding another well-known actor for the third major role would further boost the project’s appeal.</p>
   
   <p class="f5 lh-copy measure-wide mb0">The attached director, known for their work on breakout horror anthologies, is a sure hand for delivering visceral thrills, making them a solid choice for this material. The script’s underlying strengths – its elevated horror tone, historical authenticity, and psychological depth of characters – promise excellent ROI potential. This project could perform exceptionally well at major genre festivals and would likely appeal strongly to North American specialty distributors such as Neon or A24.</p>
+
 </div>
+
+---

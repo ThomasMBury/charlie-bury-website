@@ -5,6 +5,8 @@ featured_image: ""
 omit_header_text: true
 ---
 
+<div class="portfolio-content">
+
 ## Screenwriter & Author. 
 
 Illuminating the human experience through a neurodivergent and theological lens, grounded in visceral cinematic detail & structure.
@@ -29,5 +31,7 @@ As survival outside Eden fractures the first family, a desperate farmer tormente
 *Available for new writing commissions and script consultancy.*  
 
 *[Learn about Script Consulting](/script-consulting/)*
+
+<div>
 
 ---
