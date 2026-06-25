@@ -1,10 +1,6 @@
 ---
-title: "Fiction & Poetry"
+title: "Prose & Poetry"
 description: "A curated selection of Charlie Bury's literary fiction and poetry."
----
-
-My literary work seeks to understand the human condition, viewed through highly attuned neurodivergent and theological lenses. Below is a curated selection of my manuscripts, short fiction, and poetry.
-
 ---
 
 ## Long-Form Fiction

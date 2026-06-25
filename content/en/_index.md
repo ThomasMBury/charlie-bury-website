@@ -1,32 +1,32 @@
 ---
-title: "Charlie Bury"
-theme_version: '2.8.2'
-cascade:
-  featured_image: '/images/Space-header.jpg'
+title: "Charlie Bury | Screenwriter & Author"
+# Leave featured_image blank to kill the massive header banner
+featured_image: ""
+omit_header_text: true
 ---
 
-My screenwriting seeks to illuminate the human experience in all its complexity and emotion, grounding abstract concerns in visceral cinematic detail and structure. And to share an understanding of the world primarily through a neurodivergent and theological lens.
+## Charlie Bury. Screenwriter & Author. 
 
-I am available for new writing commissions and script consultancy.
-
----
-
-{{< figure src="/images/profile.jpg" alt="Charlie Bury, Screenwriter and Script Consultant" >}}
+Illuminating the human experience through a neurodivergent and theological lens, grounded in visceral cinematic detail & structure.
 
 ---
 
-### Portfolio & Inquiries
+### ARANEA
+**Feature Film | Satirical Folk-Horror**
+Following his mother’s sudden death, a hyper-sensitive ten-year-old boy realises a primeval arachnid monster born from her fatal crash has followed his emotionally repressed family to their country estate to feed.
 
-**[View Film & TV Projects](/film-tv/)**
+<a href="mailto:burycharlie@gmail.com?subject=Script Request: Aranea" style="display: inline-block; padding: 10px 20px; margin-top: 10px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Request Full Screenplay</a>
+<br><br>
 
-**[Script Consulting & Expertise](/script-consulting/)**
+### CAIN: PART ONE
+**Feature Film | Historical Epic**
+As survival outside Eden fractures the first family, a desperate farmer tormented by divine silence and his father’s crushing expectations commits the ultimate transgression against his favoured brother.
+
+<a href="mailto:burycharlie@gmail.com?subject=Script Request: Cain" style="display: inline-block; padding: 10px 20px; margin-top: 10px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px;">Request Full Screenplay</a>
 
 ---
 
-<div class="tc mt5">
-  <p class="f5 i">Be the first to hear about project news & script updates.</p>
-  <form action="https://buttondown.com/api/emails/embed-subscribe/charliebury" method="post" class="mt3">
-    <input type="email" name="email" id="bd-email" placeholder="Enter your email address..." class="pa2 ba b--silver w-50-ns w-100" required />
-    <input type="submit" value="Subscribe" class="pa2 ba b--black bg-black white pointer ml2-ns mt2 mt0-ns" />
-  </form>
-</div>
+*Available for new writing commissions and script consultancy.*  
+*[Learn about Script Consulting](/script-consulting/)*
+
+---
