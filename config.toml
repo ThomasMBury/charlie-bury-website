@@ -52,6 +52,11 @@ url = "https://www.linkedin.com/in/charliebury"
       unsafe = true
 
 [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 5
+  
+[[menu.main]]
   name = "Screenplays"
   url = "/screenplays/"
   weight = 10
@@ -70,8 +75,3 @@ url = "https://www.linkedin.com/in/charliebury"
   name = "About"
   url = "/about/"
   weight = 50
-
-[[menu.main]]
-  name = "Contact"
-  pageRef = "/contact"
-  weight = 60
