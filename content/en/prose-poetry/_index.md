@@ -14,6 +14,8 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
+<h1 class="f1 mt3 mb4" style="font-family: 'Lora', Georgia, serif; font-weight: bold; color: #000000;">Prose & Poetry</h1>
+
 A collection of short fiction and verse.
 
 ---
