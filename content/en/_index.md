@@ -33,5 +33,3 @@ As survival outside Eden fractures the first family, a desperate farmer tormente
 *[Learn about Script Consulting](/script-consulting/)*
 
 <div>
-
----
