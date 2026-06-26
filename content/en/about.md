@@ -31,8 +31,6 @@ He is always open to collaborative networking, creative partnerships, and partic
          onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'"/>
 </form>
 
-</div>
-
 ---
 
 ### Connect & Film Diary
@@ -45,4 +43,4 @@ He is always open to collaborative networking, creative partnerships, and partic
 
 </div>
 
----
+</div>
