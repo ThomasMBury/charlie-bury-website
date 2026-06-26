@@ -37,15 +37,6 @@ enableRobotsTXT = true
   date_format = "2 January 2006"
   show_reading_time = false
 
-[[params.ananke_socials]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/charliebury"
-
-[[params.ananke_socials]]
-  name = "letterboxd"
-  url = "https://boxd.it/3wZi3"
-  label = "Letterboxd"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
