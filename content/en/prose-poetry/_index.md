@@ -27,17 +27,17 @@ A wry exploration of modern dating where an awkward young bachelor realises the 
 
 ---
 
-### [Virgin In The Meadow](/prose-poetry/virgin-in-the-meadow-poem/)
-*Poetry*  
-
-A vision. 
-
----
-
 ### [Lightning](/prose-poetry/lightning-poem/)
 *Poetry*  
 
 Faith's intensity. 
+
+---
+
+### [Night](/prose-poetry/night-poem/)
+*Poetry*  
+
+In the stillness. 
 
 ---
 
@@ -48,10 +48,10 @@ An introspection.
 
 ---
 
-### [Night](/prose-poetry/night-poem/)
+### [Virgin In The Meadow](/prose-poetry/virgin-in-the-meadow-poem/)
 *Poetry*  
 
-In the stillness. 
+A vision. 
 
 <div>
 
