@@ -6,230 +6,234 @@ omit_header_text: true
 
 <div class="prose-content">
 
-Lili said yes. She’d go out with me. I knew she was intermittently seeing someone else – some polished tech type – but I told myself there was no harm in trying. Humans, as I’ve observed, aren’t big on caution when it comes to these things. It’s all just go for it. So, I went for it. Even if the so-called rules of dating felt as clear and comprehensible as contemporary art.
+Lili conceded to the invitation. She would go out with me. I was well aware she was intermittently seeing someone else – a polished, sterile coder – but I told myself there was no harm in the attempt. Humanity, as I have observed, is rarely governed by caution when it comes to the fleeting appetites of the flesh; it is propelled by blind momentum. So, I plunged forward into the void of secular courtship, even if its invisible societal contracts felt as obscure and hostile to me as contemporary art.
 
-We met on the Southbank at 7 p.m., right outside the Royal Festival Hall. I’d picked the place for the outing because it felt sophisticated yet casual, much like the illusion I was trying to sell. We decided to sit outside rather than brave the pre-concert flurry inside. I had secured aisle seats to avoid the crush and make a graceful late entry. Contingency planning.
+We met on the Southbank as the bells struck seven, assembling beneath the concrete brutalism of the Royal Festival Hall. I had selected the venue because it carried an air of sophisticated ease, a quiet illusion I was desperately trying to sell. We decided to linger by the river rather than brave the pre-concert frenzy inside. I had secured aisle seats in advance – a contingency plan to avoid the crush of the crowd and permit a graceful, belated entrance.
 
-After exchanging pleasantries, mostly about her day spent coding gene therapy solutions, we fell into people-watching. Lili seemed particularly interested in a woman sashaying past in a dazzling red dress.
+After dispensing with the necessary pleasantries, which largely consisted of her describing a day spent engineering gene therapy solutions, we fell into the idle ritual of people-watching. Lili seemed particularly transfixed by a woman sashaying past us, draped in a dazzling, ostentatious red dress.
 
-‘There are so many people in the world,’ I said, my gaze following hers. ‘It makes me wonder…’
+‘There are so many people in the world,’ I murmured, my gaze drifting after the woman’s retreating figure. ‘It makes me wonder…’
 
 ‘Wonder what?’ she asked, tilting her head.
 
-‘Why we bother making ourselves out to be so important. We’re just one of millions. Billions. We don’t really matter.’
+‘Why we bother insisting upon our own importance. We are just one of millions. Billions. In the grand scheme of things, we do not truly matter.’ 
 
-‘That’s exactly it,’ she said without missing a beat. ‘It’s basic signal-to-noise ratio. We have to stand out. Like that woman in the red dress.’
+‘That is exactly the point,’ she countered, without missing a beat. ‘It is a basic signal-to-noise ratio. You have to stand out against the static. Like that woman in the red dress.’
 
-I glanced at the woman again, glowing into the distance. ‘Sure, but… Why?’
+I glanced towards the woman again, a glowing ember fading into the grey distance. ‘I suppose. But… Why?’
 
-‘Why not?’ Lili shrugged. ‘If you can be bothered to look that good.’
+‘Why not?’ Lili shrugged, indifferent to the philosophical burden of it. ‘If you can be bothered to look that good.’
 
-‘No, I mean–’ I stopped, deciding it was pointless to untangle my existential crisis right then. ‘Yeah, why not. Try to be special. As long as it doesn’t cost an arm and a leg.’
+‘No, I mean–’ I stopped myself. It was pointless to attempt to untangle an existential crisis on a first date. ‘Yes, why not. Strive to be special. So long as the worldly cost does not bankrupt the soul.’
 
-‘Does not compute?’ she asked, deadpan.
+‘Does not compute?’ she asked, her tone entirely deadpan.
 
-‘Oh, it’s just a saying,’ I said, cringing slightly.
+‘Oh, it is just a saying,’ I said, a hot flush of cringe rising in my collar.
 
-‘No, I get it,’ she said, with a soft frown. ‘There’s always a cost to success. You just have to figure out what you’re willing to pay for it.’
+‘No, I understand it,’ she said, a soft frown creasing her brow. ‘There is always a tax levied on success. You merely have to determine what you are willing to pay for it.’
 
-After a pause to digest Lili’s insight, I muttered to her how profound it was and checked my watch. ‘Shall we find out if Bruckner’s worth it? I’m not sure I like him.’
+After a moment’s pause to digest the sheer pragmatism of Lili’s insight, I muttered a compliment regarding her profundity and checked my watch. 
 
-She smiled. ‘We’ll see.’
+‘Shall we discover if Bruckner is worth the endurance? I am unconvinced I have the stomach for him.’
 
-And with that, we headed inside. The evening was going well, I didn’t feel entirely out of tune.
+She smiled thinly. ‘We shall see.’
 
-The orchestra began with Mozart’s 39th. It was ecstatic, otherworldly, the kind of music that makes you feel like life is both bigger and smaller than you think it is. But as the strings soared, I couldn’t stop myself from recalling a therapy session in which I’d picked this exact piece for a calming visualisation exercise. Back then, I’d imagined myself atop an Alpine mountaintop – a majestic, serene place. Now, though, the thought of a mountaintop filled me with dread. Nighttime had crept into the image, and so had a recent news story about hikers going astray in the Alps. Therapy is an unreliable partner. Never mind, Mozart still worked his magic, and I let the music wash over me, a reminder that healing doesn’t always have to be intelligible.
+And with that, we surrendered to the auditorium. The evening was progressing tolerably; I did not feel entirely out of tune with the universe.
 
-During the interval, I rushed to the bar and ordered Lili a glass of champagne. She’d nodded politely when I asked if she wanted a drink, only to inform me – after I’d already paid – that she didn’t drink alcohol. Neither did I, but now I had a bubbling glass of regret in my hand. A nearby gentleman in a purple tie caught my eye. Without thinking, I handed it to him.
+The orchestra opened with Mozart’s 39th. It was ecstatic, an otherworldly harmony that makes one feel as though the architecture of life is vastly larger – and yet intimately smaller – than our daily anxieties permit us to believe. But as the strings soared towards the sublime, my traitorous mind dragged me back to a therapy session where I had selected this exact piece for a grounding visualisation exercise. Back then, I had imagined myself atop an Alpine peak – a majestic, untouched marvel of nature. Now, seated in the concert hall, the mere thought of that mountain filled me with a sudden dread. The long night had crept into the mental image, accompanied by a recent, grim news broadcast detailing hikers who had wandered astray and perished in those very Alps. Therapy, I have found, is an unreliable partner. Nevertheless, Mozart worked his sacred magic, washing over me in a gentle tide, a reminder that healing does not always have to be intelligible to be felt.
 
-‘Cheers, good man,’ he said, inspecting the glass with an air of satisfaction.
+During the interval, I hurried to the crowded bar and procured Lili a glass of champagne. She had nodded politely when I asked if she wanted a drink, only to inform me – after the exorbitant transaction was complete – that she abstained from alcohol. I did as well, leaving me stranded with a bubbling glass of expensive regret. A nearby gentleman, adorned in a garish purple tie, caught my eye. Yielding to impulse, I handed the flute to him.
 
-‘Nice tie,’ I offered, mostly to fill the awkward silence.
+‘Cheers, good man,’ he proclaimed, inspecting the golden liquid with an air of immense self-satisfaction.
 
-‘Gift from Gustavo Benecilli,’ he said. ‘A marvellous conductor.’
+‘A fine tie,’ I offered, scrambling to fill the awkward silence.
 
-I nodded like I knew who that was. I didn’t. I doubted he did either.
+‘A gift from Gustavo Benecilli,’ he announced grandly. ‘A marvellous conductor.’
 
-‘Have a mighty, jolly, and dandy fine evening!’ he declared, raising the champagne in toast.
+I nodded gravely, feigning recognition. I had no earthly idea who the man was, and I doubted he did either.
 
-Lili smiled. ‘I like your tie.’
+‘Have a mighty, jolly, and dandy fine evening!’ he declared, raising the champagne in a sweeping toast.
 
-He turned to her and repeated, with even more gusto, ‘Have a mighty, jolly, and dandy fine evening, young lady!’
+Lili smiled politely. ‘I like your tie.’
 
-‘I may have given that to the wrong person,’ I muttered as the gentleman wandered off, thoroughly pleased with himself.
+He pivoted to her, repeating his blessing with amplified gusto, ‘Have a mighty, jolly, and dandy fine evening, young lady!’
 
-‘I’m just glad you didn’t waste it,’ she said.
+‘I suspect I have bestowed that drink upon the wrong man,’ I muttered, as the gentleman meandered away.
 
-‘Shall we get some fresh air?’
+‘I am just glad you did not waste it,’ she replied.
+
+‘Shall we seek out some fresh air?’
 
 ‘Where?’ she asked.
 
-‘Upstairs,’ I said, leading her to the third-floor balcony overlooking the Thames. It was just as crowded as everywhere else, but the breeze made it feel less suffocating.
+‘Upstairs,’ I directed, and guided her to the third-floor balcony that loomed over the black currents of the Thames. It was as congested as the foyer, but the river breeze rendered it far less suffocating.
 
 ‘Are you having a good time?’ I asked.
 
-‘Yes,’ she said. ‘It’s fine. Better than staying at home and reading emails, anyway. Are you?’
+‘Yes,’ she said placidly. ‘Fine. A marked improvement over remaining in my room and reading emails. And you?’
 
-‘A very good time,’ I replied. ‘Thank you for coming.’
+‘A very good time,’ I replied earnestly. ‘Thank you for accompanying me.’
 
-I stopped myself from gushing further – something about how nice it was of her to finally accept my invitation. Desperation is the opposite of charm, though it’s undeniably the petrol that powers most people’s dating efforts. She broke my ruminations with a pleasantry.
+I forcibly restrained myself from gushing further – from vocalising how grateful I was that she had finally accepted my invitation. Desperation is the antithesis of charm, even if it is the unrefined petrol that fuels the vast majority of human romance. She mercifully severed my ruminations with a pleasantry.
 
 ‘I love Mozart.’
 
-‘So do I,’ I said quickly. ‘I adore most classical music. Even Wagner.’
+‘As do I,’ I said quickly. ‘I adore almost all classical music. Even Wagner.’
 
-‘What’s wrong with Wagner?’
+‘What is wrong with Wagner?’
 
-‘A lot of people fall asleep. That or they feel too awake – from all the screeching.’
+‘A great many people fall asleep. Or conversely, they feel much too awake – I suppose, provoked by all the screeching.’
 
-She didn’t laugh. Not even a polite chuckle. Blank. ‘Who’s your favourite composer?’ She then asked.
+She did not laugh. She did not even offer a polite, charitable chuckle. Her expression was blank. ‘Who is your favourite composer?’ she inquired.
 
-I realised she hadn’t heard Wagner. Perhaps introducing her to him would be like a romantic baptism by fire – *Lohengrin* or *Tristan und Isolde* to douse her in flames. No, definitely not first-date material. My thoughts spiralled before I remembered to answer her properly.
+I realised, with a slight sinking sensation, that she had never heard of Wagner. Perhaps introducing her to his catalogue would be akin to a romantic baptism by fire – using Lohengrin or Tristan und Isolde to casually douse her in flames. No, not suitable for a first date. My thoughts spiralled before I remembered I was required to answer.
 
-‘Bach,’ I said, drawing out the *ba* like a lost sheep.
+‘Bach,’ I said, drawing out the vowel until I sounded like a lost sheep.
 
-‘Me too,’ she said. ‘I love the Messiah piece.’
+‘Me too,’ she agreed. ‘I love the Messiah piece.’
 
-‘Oh, that’s Handel,’ I corrected automatically. ‘But a fine choice! He’s my second favourite.’
+‘Ah, that is Handel,’ I corrected, an automatic reflex of my factual mind. ‘But a magnificent choice! He is my second favourite.’
 
-‘Oh.’ She flushed, embarrassed. I immediately regretted correcting her. Maybe she’d meant one of Bach’s Passions, or a Mass, which both include the figure of the Messiah. Either way, the last thing I wanted was for her to feel uncultured. I slapped my thigh lightly in punishment for my pedantry.
+‘Oh.’ A flush of embarrassment crept up her neck. I cursed my own pedantry. Perhaps she had meant one of Bach’s Passions, or a Mass, which inherently feature the figure of the Messiah. Regardless, the last thing I desired was to make her feel uncultured. I slapped my own thigh in private penance.
 
-We stood in companionable silence, looking out across the river over at Somerset House, two dreamers orbiting parallel worlds. For a moment, it felt like we might drift closer – until the intercom shattered the moment.
+We stood in a companionable, if somewhat strained, silence, gazing across the murky river towards Somerset House – two dreamers orbiting parallel worlds. For a fleeting instant, it felt as though the cloud between us might shift, drawing us inwards. 
 
-‘Tonight’s concert will recommence in five minutes.’
+Then the intercom shattered the illusion. ‘Ladies and gentlemen, tonight’s concert will recommence in five minutes.’
 
-Just like that, the dream broke, and Bruckner commenced.
+Just like that, daydreams evaporated, and Bruckner commenced.
 
-Bruckner was a literal blast, and not in a good way. My eardrums throbbed as if the man himself had marched down from the 19th century, trumpets blazing, to remind us all of the triumphantly naive and awkward despair of Enlightenment thought. Who, I wondered bitterly, had decided that an evening of joyful Mozart should be paired with this? Bruckner’s 5th: a musical migraine in four movements.
+It was a literal assault, and not in the service of beauty. My eardrums throbbed, as if Bruckner himself had marched down from the nineteenth century, trumpets blazing, to remind the auditorium of the crushing, apocalyptic weight of human sin. Who, I wondered bitterly, had decreed that an evening of divine, airy Mozart should be coupled with such loaded Catholic penance? Bruckner’s Fifth: a prolonged musical migraine divided into four excruciating movements.
 
-Lili, of course, sat through it calmly, the picture of serene endurance. Afterward, I turned to her with a raised eyebrow that asked, *Well?* She gave me a polite cheek-clench – the universal gesture for, *It wasn’t great, but I’ll survive.*
+Lili, naturally, sat through the entirety of it with an unnerving, serene endurance. Afterwards, as the applause finally ceased, I turned to her with a raised eyebrow that silently asked, Well? She offered me a polite cheek-clench – the universal gesture for, It was dreadful, but I shall survive it.
 
-‘I’m not a fan either,’ I said, nodding in solidarity. ‘Not even close.’
+‘I am not an admirer either,’ I whispered, nodding in solidarity. ‘Not even close.’
 
-Still, we agreed it had been worth staying for the second half. We exited the Royal Festival Hall and crossed the footbridge at Waterloo, navigating the crowds in companionable silence. By the time we reached Tottenham Court Road to catch the Northern Line back to Golders Green, I had run out of talk altogether. I would’ve liked to do something gallant, like offer her my jacket, but it was too mild for that, and it would’ve only weighed her down.
+Still, we murmured our mutual agreements that it had been worth staying for the latter half. We exited the Royal Festival Hall and traversed the Waterloo footbridge, through the throngs of humanity. By the time we reached Tottenham Court Road to descend into the Northern Line back to Golders Green, I had depleted my reservoir of conversation entirely. I would have liked to perform some gallant gesture – like offering her my jacket – but the evening was far too mild, and the garment itself would have only burdened her.
 
-The tube, as always, was a trial. I covered my ears against the racket, which didn’t seem to bother Lili, as she had her own earphones firmly in place. We returned to the house share with no awkward kiss, no lingering goodnight – just a mutual retreat to our separate bedrooms.
+The tube, as is the unbending rule of London for highly sensitive people, or any soul, was a trial. I covered my ears against the metallic screeching of the tracks, a racket that did not appear to disturb Lili, as she had driven her earphones firmly into her ears. We returned to our shared house with no lingering kiss by the door – merely a mutual, weary retreat to our respective bedrooms.
 
-‘I enjoyed the concert,’ she said before vanishing down the hall.
+‘I enjoyed the concert,’ she called softly, before vanishing down the corridor.
 
-‘Tea in the kitchen?’ I offered weakly.
+‘Tea in the kitchen?’ I offered, though my voice lacked conviction.
 
-‘Thanks, but I’m tired. Work tomorrow,’ she replied, and that was that.
+‘Thank you, but I am exhausted. Work tomorrow,’ she replied. 
 
-Date over. Still friends, yes. Lovers? Definitely not.
+And that was the end of it. The date was over. We were still friends, certainly. Lovers? Definitively not.
 
-Had I been an epic failure? Probably. I’d tried to buy her a drink, only to end up gifting it to a purple-tied madman. My heart had raced during the Mozart, and I’d assumed hers had too – until I realised the music, not me, had done the heavy lifting. We’d agreed on the importance of quiet, which I’d taken as a win, but maybe that was just politeness. I’d let her have the aisle seat, though not without some internal mourning; I usually claim it for the legroom and the fire escape proximity. And I’d listened to her talk about her work visa troubles and her frustration at how expensive London is, with her father unwilling to loan her the money to buy anywhere. High expectations. It had gone reasonably well then, so why wasn’t there a spark?
+Had I been an epic failure? It was highly probable. I had attempted to purchase her affection with champagne, only to gift the libation to a purple-tied madman. My heart had raced rapturously during the Mozart, and I had falsely assumed hers was racing alongside mine – until I realised the genius of the music, not my own presence, had done all the lifting. We had agreed upon the importance of quietude, which I had chalked up as a victory, though it was likely mild politeness on her part. I had surrendered the aisle seat to her, though not without an internal mourning, as I covet it adoringly for its legroom and proximity to the fire escape. I had listened dutifully to the lamentations of her visa troubles and her frustrations regarding the capital's cost of living, coupled with her father’s steadfast refusal to finance a mortgage. High expectations indeed. The evening had proceeded reasonably well. Why, then, was there no spark?
 
-Maybe I was being too hard on myself. Maybe house-sharing had killed the mystery. She knew too much about me already: my breakfast routine (a soggy bowl of cornflakes), my shower schedule, and the toilet; the way the flush reverberates throughout the house and the fan needs repairing every month. Hardly romantic. Worse still, a number of times I’d sniffed her pork stir-fry with regret, with Zach announcing to the entire kitchen that I was a ‘kosher Christian,’ ‘like Christ himself.’ It’s true I don’t eat pork, but I’m not so petty as to rule dietary preferences a date dealbreaker. So no, I didn’t hold it against Lili that there was no spark. Maybe it wasn’t me. Or maybe it was. Or more likely, my faeces had already flushed the romance down the housemate toilet with it.
+Perhaps I was judging myself too harshly. Perhaps the indignities of house-sharing had assassinated the mystery. She simply knew too much of my reality: my grim breakfast routine of soggy cornflakes, my shower schedule, and the miseries of our shared toilet, where the flush reverberated through the floorboards and the extractor fan shrieked for a repair. Hardly a foundation for romance.
 
-Nat, my other housemate, was the opposite to Lili. Rather than calm, she thrived on chaos, her energy a high-pitched hum that made you dizzy just being near her. But maybe that’s the key to thriving: a bit of manic energy, a dash of madness.
+Worse still, there were the evenings I had audibly sniffed her pork stir-fry with regret, prompting Zach to announce to everyone that I was a ‘kosher Christian,’ behaving ‘just like Christ Himself.’ It is true that I abstain from pork, but I am not so spiritually petty as to rule dietary preferences a dealbreaker in matters of the heart. So no, I held no grudges against Lili for the lack of a spark between us. Perhaps the failure was not mine. Or perhaps it was. Or, more likely, my humdrum domesticity had already flushed any potential romance down the plumbing.
 
-‘Harry,’ Nat called over from the kitchen counter. ‘When are you taking me out?’
+Nat, my other housemate, existed in sheer opposition to Lili. Rather than projecting calm, she thrived in chaos; her energy was a high-pitched hum that left one dizzy just standing in her vicinity. Yet I often wondered if that was the secret to thriving in this world: a persistent, manic momentum, laced with a dash of audacity veering on madness.
 
-I paused mid-sip of my herbal tea. ‘What?’
+‘Harry,’ Nat called over the kitchen counter the following evening. ‘When are you taking me out?’
 
-‘I’m joking,’ she said with a mischievous grin. Then, leaning closer, she added, ‘That said, how was it? Lili likes classical music?’
+I paused, mid-sip of a bitter herbal tea. ‘I beg your pardon?’
 
-‘She does,’ I said.
+‘I am joking,’ she laughed, a mischievous glint in her eye. Then leaning over the counter, she dropped her voice. ‘That being said, how did it fare? Lili is fond of classical music?’
 
-‘That’s great!’ Nat clapped her hands together. ‘So, did you kiss?’
+‘She is,’ I said guardedly.
 
-I felt my face flush. ‘How could we?’ I said, tilting my head toward the corridor leading to Lili’s room.
+‘That is splendid!’ Nat clapped her hands together with jarring force. ‘So, did you kiss?’
 
-Nat rolled her eyes dramatically. ‘Easy. By the river. On the footbridge with a view of the whole of London. That’s where loads of couples get together. Don’t tell me you didn’t walk her over it.’
+I felt a treacherous heat rise in my cheeks. ‘How could we?’ I muttered, tilting my head cautiously towards the corridor that led to Lili’s door.
 
-‘We did,’ I admitted. ‘But it was so busy. A wall of people.’
+Nat rolled her eyes with theatrical agony. ‘It is effortless. By the river. On the footbridge boasting a panoramic view of London. That is the exact place where millions of couples unite. Do not tell me you failed to walk her across it.’
 
-Nat slapped me on the shoulder. ‘Next time,’ she said. ‘You’ll do fine. There’s always another chance.’
+‘We crossed it,’ I admitted. ‘But it was heavily congested. A solid wall of human flesh.’
 
-Nat and Zach had been on a mission to pair me up with Lili ever since she’d moved in 6 months ago. I needed to get them off my back, which was all the more reason to keep trying to fall in love. *Fall in love.* The phrase alone nauseated me.
+Nat slapped me hard upon the shoulder. ‘Next time,’ she decreed. ‘You will manage perfectly fine. There is always another chance.’
 
-A few weeks later, Lili and I went out for noodles. Generous portions, warm broth, a faint scent of soy sauce and ginger in the air. I let her pick the restaurant to show my trust in her taste. She was pleased, which made me feel vaguely optimistic.
+Nat and Zach had been operating a relentless, covert mission to pair me with Lili since she had taken up lodgings six months prior. I truly needed to alleviate their pressure, which provided all the more reason to continue the arduous pursuit of falling in love. Falling in love. The mere phrase stirred a faint nausea in my stomach.
 
-Zach’s advice had been simple, and confident: *Be frank. Just find out what she wants. Don’t waste her time. Is she going to be your mate or not?*
+A few weeks elapsed, and Lili and I ventured out for noodles. The restaurant offered generous portions of warm, comforting broth, and a faint, cleansing scent of soy and ginger hung in the air. I had deferred to her choice of venue as an act of trust in her taste. She seemed pleased by the concession, which imbued me with a vague, tentative optimism.
 
-‘But don’t use the word *mate*,’ he’d said, on a serious note.
+Zach’s counsel beforehand had been simple, and irritatingly confident: Be frank. Uncover her intentions. Do not squander her time. Is she going to be your mate or not?
 
-‘Then what word do I use?’ I asked.
+‘I cannot possibly use the word mate,’ I had told him with severe gravity. ‘What word should I deploy instead?’ I asked.
 
-‘Sweetheart,’ he’d replied sweetly.
+‘Sweetheart,’ he had replied, devoid of irony.
 
-The moment arrived between courses, our bellies satisfied from the mains. I took a deep breath and braced myself. ‘Lili. Can I be your sweetheart?’ I blurted.
+The anxious moment arrived between the courses, our bellies momentarily pacified by the rich broth. I drew a sharp breath and braced my spine. ‘Lili. Can I be your sweetheart?’ I blurted it out, and the words struck the air like a cannonball crashing through the floorboards.
 
-She blinked, clearly confused. ‘What’s that?’
+She blinked rapidly, her brow knitting in confusion. ‘What is that?’
 
-The move had landed with all the grace of a rogue dumpling making a splash. Thinking fast, I pivoted. ‘Oh, it’s… It’s a dessert,’ I said. ‘Like a sweet in heart shapes. They probably don’t have it here, though. Never mind.’
+The gambit had landed with all the grace of a rogue dumpling plunging into boiling water. Thinking with desperate speed, I pivoted. ‘Oh, it is… It is a dessert,’ I stammered. ‘Like a sweet confection, pressed into the shape of a heart. I suspect they do not serve them here. Never mind.’
 
-She burst out laughing. ‘You’re so sweet,’ she said, smiling. ‘I know what you meant. I was just teasing you. Sorry, that’s a bad habit of mine.’
+She burst into melodic laughter. ‘You’re so sweet,’ she said, a genuine warmth in her smile. ‘I knew what you meant. I was just teasing you. Sorry; it really is a bad habit of mine.’
 
-‘Oh,’ I said, unsure whether to feel relieved or humiliated.
+‘Oh,’ I uttered, caught between relief and humiliation. Before my pride could recover its footing, she intercepted. 
 
-Before I could recover, she interrupted me. ‘Just ask me if I want to be your girlfriend. But… Actually, don’t ask me.’
+‘You need only ask if I want to be your girlfriend. But… Actually, I must ask that you do not.’
 
 ‘What?’
 
-She sighed. ‘I’m sorry, I’m not ready for that. I hope you can understand.’
+She let out a long sigh. ‘I am sorry. I’m not prepared for that. I hope you can find it in yourself to understand.’
 
-‘That’s okay,’ I said. ‘But how long is the waiting time?’
+‘That is perfectly fine,’ I lied smoothly. ‘But how long is the required waiting period?’
 
-She didn’t laugh at that but replied evenly, ‘I don’t know. But I am enjoying going out with you. But there is something I have to tell you.’
+She did not laugh at my weak deflection. She replied evenly, her eyes dropping to the table. ‘I don’t know. I have genuinely enjoyed our time together. But there is a truth I must confess.’
 
-‘OK.’
+‘Alright.’
 
-‘I’m not here for much longer.’
+‘I am not staying here much longer.’
 
-‘Are you going to Jupiter?’ I asked.
+‘Are you relocating to Jupiter?’ I asked, the absurdity masking the sting.
 
-‘No, China.’
+‘No. China.’
 
-Same thing, really. There was no way she would be my sweetheart from that distance of land mass and sea. The matter was closed, then. At least there was clarity. We continued sporadically going out for a few months, but the seemingly inevitable happened: Lili had to move back to China.
+It amounted to the same thing. There was absolutely no timeline where she would be my sweetheart across that insurmountable expanse of landmass and sea. The matter was categorically closed. At the very least, I had been granted clarity. We continued our sporadic, platonic outings for a few more months, until the inevitable occurred: Lili packed her life into boxes and returned to the East.
 
-‘We can stay friends, of course,’ she said, her voice kind, her eyes full of pity.
+‘We can stay friends, of course,’ she had promised, her voice laced with kindness, her eyes brimming with a pity I could only resent.
 
-I cried the day she left, though I kept it private, choking back sobs as I watched her vanish towards the tube. Her gaze had been unreadable – sympathy, perhaps, but no light of a future together.
+I wept on the day of her departure, though I kept the grief strictly cloistered, choking back the physical ache as I watched her descend into the cavernous pit of the Underground. Her parting gaze had been entirely unreadable – perhaps it was sympathy, but it certainly contained no light of a shared future.
 
-Zach told me Lili was just troubled by love. ‘It’s all down to experience,’ he said. ‘Don’t worry, we’ll get someone new in.’
+Zach informed me later that Lili was simply a soul troubled by the concept of love. ‘It all comes down to life experience,’ he offered philosophically. ‘Do not fret; we shall secure a new lodger soon enough.’
 
-And indeed, someone new did come to lodge with us. Her name was Khatia – a pianist from Budapest, no less. She moved in to take Lili’s room and quickly became good friends with Nat.
+And indeed, a new tenant did arrive to claim the vacant room. Her name was Khatia – a pianist hailing from Budapest, no less. She integrated quickly, cementing a fast and boisterous friendship with Nat.
 
-‘Just a heads up,’ Nat said, tossing her green scarf over her shoulder. ‘Khatia’s had a bad experience. She’s not looking for love, so don’t get any ideas, whatever Zach’s told you.’
+‘Just a fair warning,’ Nat advised me one morning, tossing a thick green scarf over her shoulder. ‘Khatia has endured a rather traumatic history with men. She is not seeking romance, so do not entertain any grand illusions, regardless of what nonsense Zach has fed you.’
 
-By this point, I had to admit that love seemed overrated. It inspired fear and confusion far more often than joy or gratitude. So I resolved to keep my head down and stay out of it.
+By this juncture in my life, I was more than willing to concede that earthly love was vastly overrated. It routinely inspired fear, profound confusion, and humiliation far more frequently than it yielded joy or holy gratitude. I firmly resolved to keep my head bowed and exclude myself from the circus altogether.
 
-But then Khatia had a spare ticket to a lunchtime recital at the Wigmore Hall.
+But then, Khatia found herself in possession of a spare ticket to a lunchtime recital at the Wigmore Hall.
 
-‘I can’t go,’ Nat said.
+‘I cannot attend,’ Nat declared flatly.
 
-‘Why not?’ I asked.
+‘Why on earth not?’ I inquired.
 
-‘Audition,’ she replied. ‘You go.’
+‘Audition,’ she replied sharply. ‘You go.’
 
-And so, I went.
+And so, bound by the obligations of our friendship, I went.
 
-Khatia was chatty. Endlessly, effortlessly chatty. She told me she’d come to London to study at the Royal College of Music. I wondered if she was too much younger than me, it could be at least a decade, a glaring reminder of my own mortality.
+Khatia had immense vocal stamina. She was endlessly, effortlessly chatty. As we walked, she detailed her journey to London to study at the Royal College of Music. I silently guessed her age, wondering if she was a full decade my junior – a glaring reminder of my own creeping mortality.
 
-We sat in our seats as the silence settled, in anticipation of great art. But Khatia wasn’t one to spare a moment of quiet.
+We took our seats in the splendid, hushed hall, in the reverent anticipation of great art. But Khatia was not one to yield to the sanctity of silence.
 
-She turned suddenly to look me up and down and said, ‘You’re handsome.’
+She raked her eyes critically up and down my frame, and declared, ‘You are handsome.’
 
-I blinked.
+I blanked, thoroughly derailed.
 
-‘But I don’t date housemates. Been there, done that, you know.’
+‘But I absolutely do not date my housemates. I’ve walked that path before, and it leads only to ruin, you know.’
 
-‘Oh, don’t worry,’ I said, fumbling. ‘I’m just here for the good taste in music.’
+‘Oh, you need not worry,’ I fumbled, my face burning. ‘I am here for the immaculate taste in music.’
 
-The second it left my mouth, I regretted it. She turned her chin up like I’d just insulted her entire self-worth.
+The very millisecond the words escaped my lips, I repented. She elevated her chin with a sharp haughtiness, acting as though I had just delivered a fatal insult to her self-worth.
 
-‘If you want to know why… Well, it’s a long story,’ she said dramatically, and without noticing whether or not I was willing to listen, which I pretended to be. ‘But my ex was a bastard. Total bastard. He was my landlord slash bf, you know?’
+‘If you must know the reason why… Well, it is a rather long story,’ she announced dramatically, possessing extremely little awareness of whether I harboured the slightest desire to listen – which, out of an ingrained politeness, I pretended I did. ‘But my former partner was a bastard. An absolute bastard. He was my landlord, slash boyfriend, you know?’
 
-I nodded. I did not know.
+I nodded solemnly. I did not know.
 
-‘You know he was charming at first,’ she continued, ‘but then, *you know*, like so many men, he turned out to be borderline mad, *you know*, the eagerness to get me into bed…’
+‘You know, he was incredibly charming at the genesis of it,’ she pressed on, ‘but then, as is the ancient flaw `[*]` with so many men, he revealed himself to be borderline insane. The dreadful eagerness to drag me into his bed…’
 
-She kept saying *you know*, as if I actually did know. I didn’t have a clue. But this was the lingo of youth, and I decided to let her vent. It felt oddly flattering to be the chosen receptacle for her woes.
+She tirelessly punctuated her sentences with ‘you know,’ operating under the delusion that we shared some universal understanding of her plight. I did not possess a clue. Yet this was the dialect of turbulent youth, and I resigned myself to acting as her confessional. In a strange fashion, it felt flattering to be selected as the receptacle for her worldly grievances.
 
-But I was glad by the time the recital began, and I’d forgotten entirely that I was with a female companion. The music – delicate, transformative – swept over me. For a moment, I was free of all distractions, all longings, all awkwardness. It struck me, then: I was happiest just being me.
+But I was beyond relieved when the recital commenced, and the uninterrupted silence fell. Within minutes, I had forgotten that I was seated beside a female companion. The music – delicate, soaring, transformative – swept over me in a purifying wave. For a singular, hallowed hour, I was severed from all earthly distractions, from the clumsy longings of the flesh, and the grinding awkwardness of my own existence.
 
-And if nobody else was going to be the one, maybe I could just settle for myself.
+It struck me then, with the clarity of a tolling bell: I was happiest when I was wholly unanchored from the pursuit of another.
+
+If no one else in this fractured world was destined to be 'the one,' then I found myself liberated. I would simply endure, and perhaps even flourish, in the quiet, undisturbed sanctuary of my own soul, relatively unburdened. 
 
 </div>
