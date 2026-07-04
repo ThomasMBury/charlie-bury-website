@@ -16,10 +16,6 @@ Currently, Charlie has an original TV project in active development with Michael
 
 He is always open to collaborative networking, creative partnerships, and participating in industry mentorship exchanges.
 
----
-
-### Connect & Film Diary
-
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 1rem; margin-bottom: 2rem;">
 
 <a href="https://www.linkedin.com/in/charliebury" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Connect on LinkedIn</a>
