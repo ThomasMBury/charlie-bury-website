@@ -18,14 +18,12 @@ Currently, Charlie has an original TV project in active development with Michael
 
 He is always open to collaborative networking, creative partnerships, and participating in industry mentorship exchanges.
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 1rem; margin-bottom: 2rem;">
-
+<div style="margin-top: 1.5rem;">
 <a href="https://www.linkedin.com/in/charliebury" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 24px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Connect on LinkedIn</a>
+</div>
 
----
-
-### Join the Mailing List
-*Be the first to hear about project news, script updates, and new prose.*
+## MAILING LIST
+*Be the first to hear about project news, script updates, and new prose releases.*
 
 <form action="https://buttondown.com/api/emails/embed-subscribe/charliebury" method="post" style="margin-top: 1.5rem; display: flex; flex-wrap: wrap; gap: 10px;">
   <input type="email" name="email" id="bd-email" placeholder="Enter your email address..." required 
@@ -36,7 +34,5 @@ He is always open to collaborative networking, creative partnerships, and partic
          style="padding: 12px 24px; background-color: #8B0000; color: #ffffff; border: none; border-radius: 4px; font-family: 'Inter', sans-serif; font-weight: bold; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; cursor: pointer; transition: opacity 0.2s;" 
          onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'"/>
 </form>
-
-</div>
 
 </div>
