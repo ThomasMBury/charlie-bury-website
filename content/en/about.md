@@ -8,9 +8,11 @@ omit_header_text: true
 
 Charlie Bury is a screenwriter, author, and script consultant based in the UK. 
 
-As an autistic writer, his approach to storytelling is rooted in meticulous attention to detail. He views cinematic structure not as a rigid formula, but as a visceral framework used to confront complex existential and theological themes. 
+As an autistic writer, his approach to storytelling is rooted in meticulous attention to detail. He views screenwriting as a craft to be mastered, with an opportunity to confront complex existential and theological themes through visceral frameworks, rather than adhering to rigid formulas and clichés. 
 
-Whether penning a historical feature, a comedy television pilot, or literary prose, Charlie’s work is united by love and respect for the craft of writing across all mediums. This same analytical fervour forms the foundation of his [script consultancy work](/script-consulting/), where he helps other writers and producers elevate their material for the marketplace.
+Whether penning a historical feature, a comedy TV pilot, or literary prose, Charlie’s work is formed by love and admiration for the technique and expression of writing across all mediums. 
+
+This same analytical and creative zeal forms the foundation of his [script consultancy work](/script-consulting/), where he helps other writers and producers elevate their material for the marketplace.
 
 Currently, Charlie has an original TV project in active development with Michael Graf at On The Hill Pictures. 
 
