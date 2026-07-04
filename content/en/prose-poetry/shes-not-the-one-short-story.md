@@ -226,7 +226,7 @@ The very millisecond the words escaped my lips, I repented. She elevated her chi
 
 I nodded solemnly. I did not know.
 
-‘You know, he was incredibly charming at the genesis of it,’ she pressed on, ‘but then, as is the ancient flaw `[*]` with so many men, he revealed himself to be borderline insane. The dreadful eagerness to drag me into his bed…’
+‘You know, he was incredibly charming at the genesis of it,’ she pressed on, ‘but then, as is the ancient flaw with so many men, he revealed himself to be borderline insane. The dreadful eagerness to drag me into his bed…’
 
 She tirelessly punctuated her sentences with ‘you know,’ operating under the delusion that we shared some universal understanding of her plight. I did not possess a clue. Yet this was the dialect of turbulent youth, and I resigned myself to acting as her confessional. In a strange fashion, it felt flattering to be selected as the receptacle for her worldly grievances.
 
@@ -234,6 +234,6 @@ But I was beyond relieved when the recital commenced, and the uninterrupted sile
 
 It struck me then, with the clarity of a tolling bell: I was happiest when I was wholly unanchored from the pursuit of another.
 
-If no one else in this fractured world was destined to be 'the one,' then I found myself liberated. I would simply endure, and perhaps even flourish, in the quiet, undisturbed sanctuary of my own soul, relatively unburdened. 
+If no one else in this fractured world was destined to be the one, then I found myself liberated. I would simply endure, and perhaps even flourish, in the quiet, undisturbed sanctuary of my own soul, relatively unburdened. 
 
 </div>
