@@ -6,7 +6,7 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-Charlie Bury is a screenwriter, author, and script consultant based in the UK. 
+Charlie Bury is a screenwriter and script consultant based in the UK. 
 
 As an autistic writer, his approach to storytelling is rooted in meticulous attention to detail. He views screenwriting as a craft to be mastered, with an opportunity to confront complex existential and theological themes through visceral frameworks, rather than adhering to rigid formulas and clichés. 
 

@@ -7,7 +7,7 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-## Screenwriter & Author. 
+## Screenwriter 
 
 Illuminating the human experience through a neurodivergent and theological lens, grounded in visceral cinematic detail & structure.
 
