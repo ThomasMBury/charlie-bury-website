@@ -53,17 +53,12 @@ enableRobotsTXT = true
   weight = 10
 
 [[menu.main]]
-  name = "Prose & Poetry"
-  url = "/prose-poetry/"
-  weight = 20
-
-[[menu.main]]
   name = "Script Consulting"
   url = "/script-consulting/"
-  weight = 40
+  weight = 20
 
 [[menu.main]]
   name = "About"
   url = "/about/"
-  weight = 50 
+  weight = 30 
 
