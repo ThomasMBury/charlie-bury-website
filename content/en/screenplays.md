@@ -6,7 +6,7 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-*Scripts are available upon request.*
+*Scripts are available on request.*
 
 ## FEATURE FILMS
 
@@ -49,7 +49,7 @@ Banished to a boarding school by her widowed father, a rebellious 15-year-old de
 ## SHORTS
 
 ### THE TWISTER
-*Coming-of-Age Thriller | 16 Pages*
+*Coming-of-Age Thriller | 14 Pages*
 
 Left alone in a neglected town during the Jubilee bank holiday, a fifteen-year-old girl escapes to a local fairground with an older boy, only to find that the adult world she was desperate to enter is a predatory trap.
 
@@ -58,7 +58,7 @@ Left alone in a neglected town during the Jubilee bank holiday, a fifteen-year-o
 ### PINUS PINAE
 *Historical Satire | 17 Pages*
 
-In 68 AD Rome, a plebeian tasked with tasting Emperor Nero's food falls so desperately in love with a gourmet dish of braised dormouse that he accidentally eats the entire portion and triggers an allergic reaction that the imperial court mistakes for a coup.
+In 68 AD Rome, a plebeian tasked with tasting Emperor Nero's food falls so in love with a gourmet dish of dormouse that he eats the entire portion and triggers an allergic reaction that the imperial court mistakes for a coup.
 
 <a href="mailto:burycharlie@gmail.com?subject=Script Request: Pinus Pinae (Short)" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Short Script</a>
 
