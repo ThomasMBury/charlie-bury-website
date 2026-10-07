@@ -1,5 +1,5 @@
 ---
-title: "Script Consulting"
+title: "Consulting"
 featured_image: ""
 omit_header_text: true
 ---
