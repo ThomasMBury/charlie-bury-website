@@ -6,7 +6,7 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-*All complete scripts are available upon request.*
+*Scripts are available upon request.*
 
 ## FEATURE FILMS
 
@@ -61,7 +61,5 @@ Left alone in a neglected town during the Jubilee bank holiday, a fifteen-year-o
 In 68 AD Rome, a plebeian tasked with tasting Emperor Nero's food falls so desperately in love with a gourmet dish of braised dormouse that he accidentally eats the entire portion and triggers an allergic reaction that the imperial court mistakes for a coup.
 
 <a href="mailto:burycharlie@gmail.com?subject=Script Request: Pinus Pinae (Short)" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Short Script</a>
-
-<a href="mailto:burycharlie@gmail.com?subject=Script Request: Trouver Marie (Short)" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Short Script</a>
 
 </div>
