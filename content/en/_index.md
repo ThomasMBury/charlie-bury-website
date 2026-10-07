@@ -30,8 +30,7 @@ As survival outside Eden fractures the first family, a desperate farmer tormente
 
 ---
 
-*Available for new writing commissions and script consultancy.*  
-
-*[Learn about Script Consulting](/consulting/)*
+Available for representation inquiries, original commissions, and development.
+<a href="mailto:burycharlie@gmail.com">Get in Touch</a>
 
 <div>
