@@ -53,11 +53,6 @@ enableRobotsTXT = true
   weight = 10
 
 [[menu.main]]
-  name = "Consulting"
-  url = "/consulting/"
-  weight = 20
-
-[[menu.main]]
   name = "About"
   url = "/about/"
   weight = 30 
