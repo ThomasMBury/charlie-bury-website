@@ -6,9 +6,9 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-As a professional screenwriter, I provide bespoke script consultancy and story development services for writers, directors, and production companies looking to elevate their material before taking it to market. 
+Drawing on meticulous craft and active industry development, I provide bespoke script consultancy and story editing for writers, directors, and production companies looking to elevate their material before taking it to market.
 
-My approach is grounded in visceral cinematic structure and rigorous thematic excavation. I don't just point out what isn't working; I provide actionable, character-driven solutions to ensure your script is undeniable by the time it reaches an executive's desk.
+My approach focuses on dramatic momentum, character psychology, and structural precision. I don’t just diagnose what isn't landing on the page, but provide thorough, actionable, narrative-driven solutions to ensure your script is unputdownable by the time it reaches a producer's desk.
 
 <blockquote style="font-size: 1.25rem; font-style: italic; border-left: 4px solid #8B0000; padding-left: 1.2rem; margin: 2.5rem 0; color: #1a1a1a; line-height: 1.6;">
 "Charlie’s notes are incredibly sharp. He identified structural flaws I couldn't see and provided brilliant, practical solutions that completely unlocked my second act. An indispensable asset to any writer."
@@ -19,19 +19,19 @@ My approach is grounded in visceral cinematic structure and rigorous thematic ex
 ## CONSULTING SERVICES
 
 ### 1. The Script Diagnostic (Feature or Pilot)
-A comprehensive read and detailed 3-to-4 page written analysis of your screenplay. This covers the foundational pillars of the script: structural integrity, character arcs, pacing, dialogue, and commercial viability. 
-*Includes a breakdown of what is working, what isn't, and specific directives for the next draft.*
+A comprehensive read and detailed 3-to-4 page written analysis of your screenplay. This evaluates the core engine of your script: structural integrity, character arcs, pacing, dialogue, and market viability. 
+*Includes a breakdown of what is working, what needs work, and clear directives for your next draft.*
 
 ### 2. The Deep Dive & Consultation
-For writers seeking a highly collaborative approach. This includes the full written Script Diagnostic, followed by a 60-minute Zoom consultation to brainstorm solutions, untangle specific plot issues, and outline an actionable roadmap for your rewrite.
+For writers seeking a direct, collaborative working session. This package includes the full written Script Diagnostic, followed by a 60-minute Zoom consultation to brainstorm solutions, untangle second-act hurdles, and outline an actionable roadmap for your rewrite.
 
 ### 3. Pitch Deck & Treatment Review
-A great concept will die on the page if the pitch isn't structured properly. I review your show bible, pitch deck, or feature treatment to ensure the tone, stakes, and engine of the story are communicated with maximum impact.
+A great concept will fall flat if the pitch isn't structured to sell. I review your show bible, pitch deck, or feature treatment to ensure the world, stakes, and series engine are communicated with maximum visual and emotional impact.
 
 
 ## INQUIRE & BOOK
 
-My rates are tailored to the scope and format of your specific project. Please reach out to check my current availability, request a sample of my coverage, or discuss your script.
+Rates are tailored to the format, page count, and specific needs of your project. Get in touch to check current availability, request a sample coverage report, or discuss your script.
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 1.5rem;">
 
