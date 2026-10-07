@@ -9,7 +9,7 @@ omit_header_text: true
 
 ## Screenwriter 
 
-Stories driven by high-stakes tension, emotional intensity, and visceral cinematic worldbuilding.
+Stories of moral conflict, psychological tension, and human vulnerability -- driven by dramatic momentum and vivid cinematic scale.
 
 ---
 
