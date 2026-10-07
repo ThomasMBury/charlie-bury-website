@@ -45,13 +45,6 @@ Banished to a boarding school by her widowed father, a rebellious 15-year-old de
 
 <a href="mailto:burycharlie@gmail.com?subject=Script Request: TV Pilot" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Pilot</a>
 
-### BELLBOY
-*Forty-Five-Minute / Sitcom*
-
-A cynical bellboy at a glamorous London hotel plots his escape from the service industry, only to be caught up in a dangerous scheme with a pistol and a high-end escort.
-
-<a href="mailto:burycharlie@gmail.com?subject=Script Request: TV Pilot" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Pilot</a>
-
 
 ## SHORTS
 
@@ -65,21 +58,9 @@ Left alone in a neglected town during the Jubilee bank holiday, a fifteen-year-o
 ### PINUS PINAE
 *Historical Satire | 17 Pages*
 
- In 68 AD Rome, a plebeian tasked with tasting Emperor Nero's food falls so desperately in love with a gourmet dish of braised dormouse that he accidentally eats the entire portion and triggers an allergic reaction that the imperial court mistakes for a coup.
+In 68 AD Rome, a plebeian tasked with tasting Emperor Nero's food falls so desperately in love with a gourmet dish of braised dormouse that he accidentally eats the entire portion and triggers an allergic reaction that the imperial court mistakes for a coup.
 
 <a href="mailto:burycharlie@gmail.com?subject=Script Request: Pinus Pinae (Short)" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Short Script</a>
-
-### THE NUN OF WATTON
-*Historical Thriller | 24 Pages*
-
-In a 12th-century priory, a pregnant young nun is subjected to horrific torture by her zealot sisters, forcing the founding abbot to confront the consequences of blind faith.
-
-<a href="mailto:burycharlie@gmail.com?subject=Script Request: The Nun of Watton (Short)" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Short Script</a>
-
-### TROUVER MARIE
-*Romantic Drama | 23 Pages*
-
-Looking back on her youth, an accomplished French writer recounts her turbulent romance with a volatile Austrian painter, exploring the existential cost of being a genius's muse.
 
 <a href="mailto:burycharlie@gmail.com?subject=Script Request: Trouver Marie (Short)" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Short Script</a>
 
