@@ -9,7 +9,7 @@ omit_header_text: true
 
 ## Screenwriter 
 
-Illuminating the human experience through a neurodivergent and theological lens, grounded in visceral cinematic detail & structure.
+Stories driven by high-stakes tension, emotional intensity, and visceral cinematic worldbuilding.
 
 ---
 
