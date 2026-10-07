@@ -53,8 +53,8 @@ enableRobotsTXT = true
   weight = 10
 
 [[menu.main]]
-  name = "Script Consulting"
-  url = "/script-consulting/"
+  name = "Consulting"
+  url = "/consulting/"
   weight = 20
 
 [[menu.main]]
