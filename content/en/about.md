@@ -6,7 +6,7 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-<p><strong>Charlie Bury</strong> is a UK-based screenwriter crafting character-driven drama, high-concept genre, and emotionally intense cinema.</p>
+<p>Charlie Bury is a UK-based screenwriter crafting character-driven drama, high-concept genre, and emotionally intense cinema.</p>
 
 <p>Drawn to high stakes and visceral visual storytelling, his voice ranges from biting satirical folk-horror to sweeping biblical epics and razor-sharp, emotionally charged comedy-drama.</p>
 
