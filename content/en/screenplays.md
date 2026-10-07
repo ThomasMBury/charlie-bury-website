@@ -33,6 +33,9 @@ As survival outside Eden fractures the first family, a desperate farmer tormente
 
 When a young man in London is late diagnosed as autistic, his search for deeper relationships in life forces him to confront identity, love, and self-acceptance.
 
+*Late Diagnosis is an emotionally grounded comedy-drama informed by lived experience of late-diagnosed autism.*
+
+
 <a href="mailto:burycharlie@gmail.com?subject=Script Request: TV Pilot" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Pilot</a>
 
 ### QUEENS
