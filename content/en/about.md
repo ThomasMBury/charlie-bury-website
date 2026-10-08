@@ -6,9 +6,9 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-<p>Charlie Bury is a UK-based screenwriter crafting character-driven drama, high-concept genre, and emotionally intense cinema.</p>
+<p>Charlie Bury is a UK-based screenwriter crafting character-driven drama and comedy, high-concept genre, and emotionally cathartic stories.</p>
 
-<p>Drawn to high stakes and visceral visual storytelling, his voice ranges from biting satirical folk-horror to sweeping biblical epics and razor-sharp, emotionally charged comedy-drama.</p>
+<p>Drawn to high stakes and visceral, cinematic storytelling, his voice ranges from biting satirical folk-horror to sweeping biblical epics and witty comedy-drama.</p>
 
 <p>Charlie currently has an original television project in active development with producer Michael Graf at On The Hill Pictures.</p>
 
