@@ -6,8 +6,6 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-# Screenplays
-
 *Scripts are available on request.*
 
 ---
