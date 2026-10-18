@@ -6,60 +6,46 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
+# Screenplays
+
 *Scripts are available on request.*
 
-## FEATURE FILMS
+---
 
-
-### ARANEA
-*Satirical Folk-Horror*
-
-Following his mother’s sudden death, a hyper-sensitive ten-year-old boy realises a primeval arachnid monster born from her fatal crash has followed his emotionally repressed family to their country estate to feed.
-
-<a href="mailto:burycharlie@gmail.com?subject=Script Request: Aranea" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Screenplay</a>
-
-### THE BOOK OF CAIN
-*Biblical Epic*
-
-As survival outside Eden fractures the first family, a desperate farmer tormented by divine silence and his father’s crushing expectations commits the ultimate transgression against his favoured brother.
-
-<a href="mailto:burycharlie@gmail.com?subject=Script Request: Cain" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Screenplay</a>
-
-
-## TELEVISION
-
-### LATE DIAGNOSIS
-*Half-Hour / Comedy-Drama*
+## LATE DIAGNOSIS
+*Half-Hour TV Pilot | Comedy-Drama | 30 Pages*
 
 When a young man in London is late diagnosed as autistic, his search for deeper relationships in life forces him to confront identity, love, and self-acceptance.
 
-*Late Diagnosis is an emotionally grounded comedy-drama informed by lived experience of late-diagnosed autism.*
+*Informed by lived experience of late-diagnosed autism.*
 
+[REQUEST PILOT](mailto:burycharlie@gmail.com?subject=Script%20Request%3A%20Late%20Diagnosis)
 
-<a href="mailto:burycharlie@gmail.com?subject=Script Request: TV Pilot" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Pilot</a>
+---
 
-### QUEENS
-*Half-Hour / Comedy-Drama*
+## QUEENS
+*Half-Hour TV Pilot | Comedy-Drama | 31 Pages*
 
-Banished to a boarding school by her widowed father, a rebellious 15-year-old declares war on the institution's aristocratic repression by dyeing her hair seaweed green and tumbling into a forbidden romance.
+Banished to a boarding school by her widowed father, a rebellious 15-year-old declares war on the institution’s aristocratic repression by dyeing her hair seaweed green and tumbling into a forbidden romance.
 
-<a href="mailto:burycharlie@gmail.com?subject=Script Request: TV Pilot" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Pilot</a>
+[REQUEST PILOT](mailto:burycharlie@gmail.com?subject=Script%20Request%3A%20Queens)
 
+---
 
-## SHORTS
-
-### THE TWISTER
-*Coming-of-Age Thriller | 14 Pages*
+## THE TWISTER
+*Short Film | Coming-of-Age Thriller | 14 Pages*
 
 Left alone in a neglected town during the Jubilee bank holiday, a fifteen-year-old girl escapes to a local fairground with an older boy, only to find that the adult world she was desperate to enter is a predatory trap.
 
-<a href="mailto:burycharlie@gmail.com?subject=Script Request: The Twister (Short)" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Short Script</a>
+[REQUEST SHORT SCRIPT](mailto:burycharlie@gmail.com?subject=Script%20Request%3A%20The%20Twister)
 
-### PINUS PINAE
-*Historical Satire | 17 Pages*
+---
 
-In 68 AD Rome, a plebeian tasked with tasting Emperor Nero's food falls so in love with a gourmet dish of dormouse that he eats the entire portion and triggers an allergic reaction that the imperial court mistakes for a coup.
+## PINUS PINAE
+*Short Film | Historical Satire | 17 Pages*
 
-<a href="mailto:burycharlie@gmail.com?subject=Script Request: Pinus Pinae (Short)" style="display: inline-block; padding: 10px 20px; margin-top: 10px; margin-bottom: 20px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Request Short Script</a>
+In 68 AD Rome, a plebeian tasked with tasting Emperor Nero’s food falls so in love with a gourmet dish of dormouse that he eats the entire portion and triggers an allergic reaction that the imperial court mistakes for a coup.
+
+[REQUEST SHORT SCRIPT](mailto:burycharlie@gmail.com?subject=Script%20Request%3A%20Pinus%20Pinae)
 
 </div>
