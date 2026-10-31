@@ -6,9 +6,9 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-Drawing on meticulous craft and active industry development, I provide bespoke script consultancy and story editing for writers, directors, and production companies looking to elevate their material before taking it to market.
+Drawing on meticulous structural craft, active industry development, and years of experience evaluating packages for leading UK sales and production companies, I provide bespoke script consultancy and market coverage for writers, directors, and producers.
 
-My approach focuses on dramatic momentum, character psychology, and structural precision. I don’t just diagnose what isn't landing on the page, but provide thorough, actionable, narrative-driven solutions to ensure your script is unputdownable by the time it reaches a producer's desk.
+My approach balances psychological depth with commercial and dramatic momentum. Whether diagnosing a spec draft for a rewrite, shaping a pitch deck for financiers, or assessing a package for acquisitions, my focus is on delivering sharp, actionable solutions that elevate material for the marketplace.
 
 <blockquote style="font-size: 1.25rem; font-style: italic; border-left: 4px solid #8B0000; padding-left: 1.2rem; margin: 2.5rem 0; color: #1a1a1a; line-height: 1.6;">
 "Charlie’s notes are incredibly sharp. He identified structural flaws I couldn't see and provided brilliant, practical solutions that completely unlocked my second act. An indispensable asset to any writer."
@@ -18,26 +18,28 @@ My approach focuses on dramatic momentum, character psychology, and structural p
 
 ## CONSULTING SERVICES
 
-### 1. The Script Diagnostic (Feature or Pilot)
-A comprehensive read and detailed 3-to-4 page written analysis of your screenplay. This evaluates the core engine of your script: structural integrity, character arcs, pacing, dialogue, and market viability. 
-*Includes a breakdown of what is working, what needs work, and clear directives for your next draft.*
+### 1. Script Diagnostic & Development Notes (For Writers & Filmmakers)
+A deep-dive, prescriptive editorial analysis of your feature screenplay or TV pilot - skipping redundant plot summary to focus 100% on craft and rewrite solutions. This evaluates the core engine of your script: structural integrity, character psychology, pacing, subtext, and dramatic payoff.  
+*Includes a clear breakdown of what is working to protect in the next pass, diagnosis of primary story hurdles, and an actionable roadmap of directives for your rewrite.*
 
-### 2. The Deep Dive & Consultation
-For writers seeking a direct, collaborative working session. This package includes the full written Script Diagnostic, followed by a 60-minute Zoom consultation to brainstorm solutions, untangle second-act hurdles, and outline an actionable roadmap for your rewrite.
+### 2. Pitch Deck, Treatment & Expansion Strategy (For Producers & Directors)
+A great concept will fall flat if the pitch isn't structured for the room. I review show bibles, pitch decks, feature treatments, and proof-of-concept shorts looking to expand into long-form features or series.  
+*Focuses on sharpening the narrative engine, aligning visual and thematic comparable titles, and positioning the material for commissioners, public funders (BFI, Film4, BBC Film), and streamers.*
 
-### 3. Pitch Deck & Treatment Review
-A great concept will fall flat if the pitch isn't structured to sell. I review your show bible, pitch deck, or feature treatment to ensure the world, stakes, and series engine are communicated with maximum visual and emotional impact.
+### 3. Acquisitions & Slate Coverage (For Production Companies & Sales Agents)
+Bespoke executive script coverage tailored for development slates, financiers, and sales companies evaluating incoming agency packages.  
+*Includes a concise executive synopsis, evaluation of attached elements, commercial and festival viability analysis, market comps, and clear project/writer assessments.*
 
 
 ## INQUIRE & BOOK
 
-Rates are tailored to the format, page count, and specific needs of your project. Get in touch to check current availability, request a sample coverage report, or discuss your script.
+Rates are tailored to the format, page count, and specific scope of your project. Get in touch to check current availability, request a sample report (Development Diagnostic or Acquisitions Coverage), or discuss your material.
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 1.5rem;">
 
 <a href="mailto:burycharlie@gmail.com?subject=Consulting Inquiry & Rates" style="display: inline-block; padding: 12px 24px; background-color: #8B0000; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: opacity 0.2s;">Inquire for Rates</a>
 
-<a href="mailto:burycharlie@gmail.com?subject=Request Sample Coverage" style="display: inline-block; padding: 12px 24px; background-color: #f4f4f4; color: #1a1a1a; text-decoration: none; font-weight: bold; border-radius: 4px; border: 1px solid #cccccc; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: background-color 0.2s;">Request Sample Coverage</a>
+<a href="mailto:burycharlie@gmail.com?subject=Request Sample Report" style="display: inline-block; padding: 12px 24px; background-color: #f4f4f4; color: #1a1a1a; text-decoration: none; font-weight: bold; border-radius: 4px; border: 1px solid #cccccc; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 1px; transition: background-color 0.2s;">Request Sample Report</a>
 
 </div>
 
