@@ -6,7 +6,7 @@ omit_header_text: true
 
 <div class="portfolio-content">
 
-*Selected television pilots and short scripts below. Feature film screenplays and pitch decks are available on request.*
+Selected television pilots and short scripts below. Feature film screenplays and pitch decks are available on request.
 
 ---
 
