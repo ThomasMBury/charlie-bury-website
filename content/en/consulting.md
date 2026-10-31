@@ -20,14 +20,17 @@ My approach balances psychological depth with commercial and dramatic momentum. 
 
 ### 1. Script Diagnostic & Development Notes (For Writers & Filmmakers)
 A deep-dive, prescriptive editorial analysis of your feature screenplay or TV pilot - skipping redundant plot summary to focus 100% on craft and rewrite solutions. This evaluates the core engine of your script: structural integrity, character psychology, pacing, subtext, and dramatic payoff.  
+
 *Includes a clear breakdown of what is working to protect in the next pass, diagnosis of primary story hurdles, and an actionable roadmap of directives for your rewrite.*
 
 ### 2. Pitch Deck, Treatment & Expansion Strategy (For Producers & Directors)
 A great concept will fall flat if the pitch isn't structured for the room. I review show bibles, pitch decks, feature treatments, and proof-of-concept shorts looking to expand into long-form features or series.  
+
 *Focuses on sharpening the narrative engine, aligning visual and thematic comparable titles, and positioning the material for commissioners, public funders (BFI, Film4, BBC Film), and streamers.*
 
 ### 3. Acquisitions & Slate Coverage (For Production Companies & Sales Agents)
 Bespoke executive script coverage tailored for development slates, financiers, and sales companies evaluating incoming agency packages.  
+
 *Includes a concise executive synopsis, evaluation of attached elements, commercial and festival viability analysis, market comps, and clear project/writer assessments.*
 
 
