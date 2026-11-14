@@ -10,7 +10,7 @@ omit_header_text: true
 
 Drawn to high stakes and visceral, cinematic storytelling, his voice ranges from biting satirical folk-horror to sweeping biblical epics and witty comedy-drama.
 
-Charlie currently has an original television project in active development with producer Michael Graf at On The Hill Pictures.
+Charlie has developed original television with executive producer Esther Springer and producer Michael Graf at On The Hill Pictures.
 
 Backed by a prolific work ethic, he maintains an active writer’s slate spanning feature specs, original pilots, and series bibles. The screenplays featured on this website represent only a curated preview — Charlie maintains an extensive portfolio of developed concepts, treatments, and scripts across multiple genres, readily available for discussion with prospective agents, managers, and production companies.
 
