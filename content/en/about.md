@@ -12,7 +12,7 @@ Drawn to high stakes and visceral, cinematic storytelling, his voice ranges from
 
 Charlie has developed original television with executive producer Esther Springer and producer Michael Graf at On The Hill Pictures.
 
-Backed by a prolific work ethic, he maintains an active writer’s slate spanning feature specs, original pilots, and series bibles. The screenplays featured on this website represent only a curated preview — Charlie maintains an extensive portfolio of developed concepts, treatments, and scripts across multiple genres, readily available for discussion with prospective agents, managers, and production companies.
+Backed by a prolific work ethic, he maintains an active writer’s slate spanning feature specs, original pilots, and series bibles. The screenplays featured on this website represent only a curated preview -- Charlie maintains an extensive portfolio of developed concepts, treatments, and scripts across multiple genres, readily available for discussion with prospective agents, managers, and production companies.
 
 Alongside his writing, Charlie provides select **[script consultancy services](/consulting/)**, collaborating with writers, directors, and producers to hone narratives ready for the marketplace.
 
