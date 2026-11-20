@@ -9,7 +9,7 @@ omit_header_text: true
 
 ## Screenwriter 
 
-Stories of moral conflict, psychological tension, and human vulnerability -- driven by dramatic momentum and vivid cinematic scale.
+Stories of moral conflict, psychological tension, and human vulnerability - driven by dramatic momentum and vivid cinematic scale.
 
 ---
 
