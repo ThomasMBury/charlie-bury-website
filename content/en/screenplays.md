@@ -13,7 +13,7 @@ Selected television pilots and short scripts below. Feature film screenplays and
 ## LATE DIAGNOSIS
 *Half-Hour TV Pilot | Comedy-Drama | 30 Pages*
 
-After receiving a late autism diagnosis in his twenties, a rigid Londoner sets out to reinvent his social and romantic life -- only to find that dropping his mask triggers a minefield of awkwardness, misfires, and messy human connection.
+After receiving a late autism diagnosis in his twenties, a rigid Londoner sets out to reinvent his social and romantic life - only to find that dropping his mask triggers a minefield of awkwardness, misfires, and messy human connection.
 
 *Informed by lived experience.*
 
@@ -24,7 +24,7 @@ After receiving a late autism diagnosis in his twenties, a rigid Londoner sets o
 ## QUEENS
 *Half-Hour TV Pilot | Comedy-Drama | 31 Pages*
 
-Banished to an elite boarding school by her widowed father, a defiant 15-year-old with seaweed-green hair sets out to sabotage the institution’s hierarchy -- upending its strict social order and tumbling into a forbidden romance with a girl from the outside. 
+Banished to an elite boarding school by her widowed father, a defiant 15-year-old with seaweed-green hair sets out to sabotage the institution’s hierarchy - upending its strict social order and tumbling into a forbidden romance with a girl from the outside. 
 
 [REQUEST PILOT](mailto:burycharlie@gmail.com?subject=Script%20Request%3A%20Queens)
 
@@ -42,8 +42,12 @@ Left alone in a neglected town during the Jubilee bank holiday, a fifteen-year-o
 ## PINUS PINEA
 *Short Film | Historical Satire | 17 Pages*
 
-In 68 AD Rome, a lowly plebeian tasked with tasting Emperor Nero’s food becomes so intoxicated by a gourmet dish of dormouse that he devours the entire portion -- triggering a violent allergic reaction that the paranoid court mistakes for a coup.
+In 68 AD Rome, a lowly plebeian tasked with tasting Emperor Nero’s food becomes so intoxicated by a gourmet dish of dormouse that he devours the entire portion - triggering a violent allergic reaction that the paranoid court mistakes for a coup.
 
 [REQUEST SHORT SCRIPT](mailto:burycharlie@gmail.com?subject=Script%20Request%3A%20Pinus%20Pinae)
+
+---
+
+Looking for a different genre? Alongside the projects above, Charlie maintains an active development slate spanning contemporary romantic comedy, historical political thriller, and grounded drama. Full slate list and treatments available on request.
 
 </div>
